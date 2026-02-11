@@ -1,3 +1,73 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+/* === PRE‑HUMAN Custom Styles === */
+
+/* Background tweaks */
+body {
+  background: #0e0e12;
+  color: #d1d1d1;
+}
+
+/* Homepage title: bigger and moodier */
+body[data-slug="index"] .page-title {
+  font-size: 3.2rem;
+  text-transform: uppercase;
+  letter-spacing: -0.02em;
+  color: #e0e0e8;
+  margin-bottom: 0.6em;
+}
+
+/* Homepage navigation list as cards */
+body[data-slug="index"] .markdown-preview-section > ul {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 1.1rem;
+  padding: 0;
+  list-style: none;
+}
+
+body[data-slug="index"] .markdown-preview-section > ul li {
+  background: #1b1d23;
+  padding: 0.9rem 1rem;
+  border-radius: 0.7rem;
+  border: 1px solid #2c2f37;
+  transition: 0.2s ease;
+}
+
+body[data-slug="index"] .markdown-preview-section > ul li:hover {
+  background: #2d2f39;
+  transform: translateY(-2px);
+}
+
+body[data-slug="index"] .markdown-preview-section > ul li a {
+  color: #c9c9ff;
+  font-weight: 500;
+  text-decoration: none;
+  font-size: 1.1rem;
+}
+
+/* Make links everywhere look a bit nicer */
+a {
+  color: #9a87ff;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+/* Improve content readability */
+.markdown-preview-section {
+  font-size: 1.08rem;
+  line-height: 1.7;
+  max-width: 72ch;
+  margin: auto;
+}
+
+/* Fade searchbar area slightly */
+.nav-search {
+  opacity: 0.8;
+}
+
+/* Dark mode toggle color */
+header a[href*="Dark-mode"] {
+  color: #ffcd82;
+}
