@@ -2,5 +2,19 @@
 title: True Test
 ---
 
-testing again,f u see stuff it means it updates autimatically, saved at around 12 am
+## 🌍 World
+- [[Geography]]
+- [[Cultures]]
+- [[Magic System]]
+- [[History Timeline]]
 
+## 🎭 Characters
+- [[Main Cast]]
+- [[Side Characters]]
+- [[Factions]]
+
+## 📖 Story
+- [[Main Plot]]
+- [[Side Stories]]
+- [[Themes]]
+- [[Canon vs Non-Canon]]
