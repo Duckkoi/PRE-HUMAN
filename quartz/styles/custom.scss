@@ -1,24 +1,14 @@
 @use "./base.scss";
 
 // put your custom CSS here!
-/* Homepage background with beige tint */
+/* PRE-HUMAN homepage: solid beige background */
 body[data-slug="index"] {
-  background-image: url('/assets/bg.jpg'); /* path to your image */
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  color: #3b2f2f; /* dark text to contrast with beige */
+  background-color: #f5f0dc; /* light beige */
+  color: #3b2f2f;            /* dark text for readability */
 }
 
-/* Beige overlay for warmer tone */
-body[data-slug="index"]::before {
-  content: '';
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  background: rgba(245, 240, 220, 0.45); /* beige overlay with opacity */
-  z-index: -1;
+/* Optional: keep cards/sections visible and readable */
+body[data-slug="index"] .markdown-preview-section > ul li {
+  background-color: #e8e3cb; /* slightly darker beige for cards */
+  border: 1px solid #d1cbb0;
 }
