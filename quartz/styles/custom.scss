@@ -10,24 +10,20 @@
   overflow: hidden;
   font-size: 0.8rem;
   background: var(--light);
-
   .ib-header {
     background: var(--secondary);
     color: var(--light);
     text-align: center;
     padding: 8px 12px;
-
     .ib-title { font-size: 0.95rem; font-weight: 600; margin: 0 0 2px; }
     .ib-subtitle { font-size: 0.75rem; opacity: 0.75; margin: 0; }
   }
-
   img {
     width: 100%;
     display: block;
     aspect-ratio: 4/3;
     object-fit: cover;
   }
-
   .ib-section {
     background: var(--lightgray);
     padding: 4px 10px;
@@ -38,11 +34,9 @@
     color: var(--secondary);
     border-top: 1px solid var(--gray);
   }
-
   .ib-row {
     display: flex;
     border-top: 1px solid var(--gray);
-
     .ib-key {
       width: 42%;
       padding: 4px 10px;
@@ -56,10 +50,13 @@
       color: var(--dark);
     }
   }
-
   @media (max-width: 600px) {
     float: none;
     max-width: 100%;
     margin: 0 0 1rem;
   }
+}
+
+h2, h3, h4 {
+  clear: none;
 }
