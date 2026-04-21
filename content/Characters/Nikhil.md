@@ -2,7 +2,7 @@
 > # Name
 > ![[Image.png|cover hsmall]]
 > ###### Personal information
-> | Alias |  Amir | Niko | 
+> | Alias |  Amir |
 > | Origin | Stat |
 > | Age | Testing |
 > | Species | Testing |
