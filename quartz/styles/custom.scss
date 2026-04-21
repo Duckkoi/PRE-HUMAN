@@ -1,4 +1,3 @@
-quartz/styles/custom.scss — fixed
 @use "./base.scss";
 
 .infobox {
@@ -6,15 +5,15 @@ quartz/styles/custom.scss — fixed
   clear: right;
   max-width: 280px;
   margin: 0 0 1rem 1.5rem;
-  border: 1px solid var(--lightgray);           // was --gray (too dark for border)
+  border: 1px solid var(--lightgray);
   border-radius: 6px;
   overflow: hidden;
   font-size: 0.8rem;
-  background: var(--light);                   // ✓ keep — valid Quartz var
+  background: var(--light);
 
   .ib-header {
     background: var(--secondary);
-    color: var(--lightgray);              // was --light, not a Quartz var
+    color: var(--lightgray);
     text-align: center;
     padding: 8px 12px;
 
@@ -37,19 +36,19 @@ quartz/styles/custom.scss — fixed
     text-transform: uppercase;
     letter-spacing: 0.05em;
     color: var(--secondary);
-    border-top: 1px solid var(--lightgray);       // was --gray
+    border-top: 1px solid var(--lightgray);
   }
 
   .ib-row {
     display: flex;
-    border-top: 1px solid var(--lightgray);       // was --gray
+    border-top: 1px solid var(--lightgray);
 
     .ib-key {
       width: 42%;
       padding: 4px 10px;
       font-weight: 500;
       color: var(--darkgray);
-      border-right: 1px solid var(--lightgray);   // was --gray
+      border-right: 1px solid var(--lightgray);
     }
 
     .ib-val {
@@ -60,7 +59,7 @@ quartz/styles/custom.scss — fixed
   }
 
   & ~ h2, & ~ h3, & ~ h4 {
-    clear: none;                         // scoped — only headings after .infobox
+    clear: none;
   }
 
   @media (max-width: 600px) {
@@ -68,4 +67,3 @@ quartz/styles/custom.scss — fixed
     max-width: 100%;
     margin: 0 0 1rem;
   }
-}
