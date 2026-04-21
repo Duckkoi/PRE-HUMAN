@@ -1,17 +1,18 @@
 > [!infobox|left]
 > # Name
 > ![[Image.png|cover hsmall]]
-> ###### Stats
-> | Type |  Stat |
-> | ---- | ---- |
-> | Test | Testing |
-> | Test | Testing |
-> 
-> ###### Stats 2
-> | Type | Stat |
-> | ---- | ---- |
-> | Test | Testing |
-> | Test | Testing |
+> ###### Personal information
+> | Alias |  Amir | Niko | 
+> | Origin | Stat |
+> | Age | Testing |
+> | Species | Testing |
+> | Gender | Testing |
+> | Height | Testing |
+> ###### Status
+> > | Relatives | Stat |
+> > | Occupation| Testing |
+> > | Affiliation| Testing |
+> > | Charqü| Testing |
 
 Amir, also know by his birthname Nikhil, is the protagonist of Pre-Human, He is the second son of [[Enzo Nicolai]] and [[Rosalinda Nicolai]], and the younger brother of [[ Luca Nicolai]] who he once lived with in [[Fiorente]]. The name Nikhil was given to him early on by [[Sarah Hajjar]], though some still use his birthname.
 
