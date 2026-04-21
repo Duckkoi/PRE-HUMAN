@@ -26,7 +26,7 @@ Amir is a fairly average height, well-built young man with black ruffled, braide
 
 Amir also has root-like scars, one noticeable one on his right hand and another on his left shoulder, together with many lighter ones over his body. He normally wears robes and wooden Geta sandals. While Amir's outfit changes often, he tends to favor baggy, short robes, very light pants and always wears wooden geta annd the accessories he is gifted throughout the story
 
-Eeeeeeopopopop
+Lalalaa
 
 
 
