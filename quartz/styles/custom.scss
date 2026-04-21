@@ -1,70 +1,58 @@
 @use "./base.scss";
 
-.infobox {
-  float: right;
-  clear: right;
-  max-width: 280px;
-  margin: 0 0 1rem 1.5rem;
-  border: 1px solid var(--lightgray);
-  border-radius: 6px;
-  overflow: hidden;
-  font-size: 0.8rem;
-  background: var(--light);
+.callout[data-callout="infobox"] {
+  .callout-title { display: none; }
+  
+  .callout-content {
+    padding: 0;
 
-  .ib-header {
-    background: var(--secondary);
-    color: var(--lightgray);
-    text-align: center;
-    padding: 8px 12px;
+    h1 {
+      text-align: center;
+      font-size: 1rem;
+      padding: 8px 12px;
+      margin: 0;
+      border-bottom: 1px solid var(--lightgray);
+    }
 
-    .ib-title   { font-size: 0.95rem; font-weight: 600; margin: 0 0 2px; }
-    .ib-subtitle { font-size: 0.75rem; opacity: 0.75; margin: 0; }
-  }
-
-  img {
-    width: 100%;
-    display: block;
-    aspect-ratio: 4/3;
-    object-fit: cover;
-  }
-
-  .ib-section {
-    background: var(--lightgray);
-    padding: 4px 10px;
-    font-size: 0.7rem;
-    font-weight: 600;
-    text-transform: uppercase;
-    letter-spacing: 0.05em;
-    color: var(--secondary);
-    border-top: 1px solid var(--lightgray);
-  }
-
-  .ib-row {
-    display: flex;
-    border-top: 1px solid var(--lightgray);
-
-    .ib-key {
-      width: 42%;
+    h6 {
+      text-align: center;
+      font-size: 0.7rem;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      background: var(--lightgray);
       padding: 4px 10px;
-      font-weight: 500;
+      margin: 0;
+      border-top: 1px solid var(--lightgray);
+    }
+
+    table {
+      width: 100%;
+      margin: 0;
+      font-size: 0.8rem;
+      border-collapse: collapse;
+    }
+
+    td {
+      padding: 3px 10px;
+      border-top: 1px solid var(--lightgray);
+    }
+
+    td:first-child {
       color: var(--darkgray);
-      border-right: 1px solid var(--lightgray);
+      width: 40%;
     }
 
-    .ib-val {
-      width: 58%;
-      padding: 4px 10px;
-      color: var(--dark);
+    p { 
+      text-align: center;
+      font-size: 0.75rem;
+      margin: 4px 0;
+      padding: 0 10px;
     }
-  }
 
-  & ~ h2, & ~ h3, & ~ h4 {
-    clear: none;
-  }
-
-  @media (max-width: 600px) {
-    float: none;
-    max-width: 100%;
-    margin: 0 0 1rem;
+    img {
+      width: 100%;
+      display: block;
+    }
   }
 }
