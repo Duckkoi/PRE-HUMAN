@@ -13,14 +13,20 @@ Amir also has root-like scars, one noticeable one on his right hand and another 
 
 Eeeeee
 
-> [!infobox]
-> # Sinbad
-> ![[sinbad.png|cover hsmall]]
-> ###### Biographical Information
-> | | |
-> | --- | --- |
-> | **Kanji** | シンドバッド |
-> | **Age** | 34 |
+> [!infobox|left]
+> # Name
+> ![[Image.png|cover hsmall]]
+> ###### Stats
+> | Type |  Stat |
+> | ---- | ---- |
+> | Test | Testing |
+> | Test | Testing |
+> 
+> ###### Stats 2
+> | Type | Stat |
+> | ---- | ---- |
+> | Test | Testing |
+> | Test | Testing |
 
 | Name            |     |     |
 | --------------- | --- | --- |
