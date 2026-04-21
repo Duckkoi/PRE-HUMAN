@@ -36,19 +36,4 @@ Lalalaalolololo
 
 
 
-| Name            |     |     |
-| --------------- | --- | --- |
-| Img             |     |     |
-| Basic info      |     |     |
-| Alias           |     |     |
-| Birthplace      |     |     |
-| Status          |     |     |
-| Affiliation     |     |     |
-| Occupation      |     |     |
-| Biological Info |     |     |
-| Age             |     |     |
-| Species         |     |     |
-| Gender          |     |     |
-| Height          |     |     |
-| Relationships   |     |     |
 
