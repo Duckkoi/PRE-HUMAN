@@ -15,11 +15,7 @@
 > ###### Status
 > | | |
 > |--|--|
-> | Relatives | [[Enzo Nicolas]] (Father), 
-> [[Rosalinda Nicolas]] (Mother), 
-> [[Luca Nicolas]] (brother), 
-> [[Azhar Hajjar]] (Adoptive brother), 
-> [[Sarah Hajjar]] (Adoptive sister) |
+> | Relatives | [[Enzo Nicolas]] (Father), [[Rosalinda Nicolas]] (Mother), [[Luca Nicolas]] (brother), [[Azhar Hajjar]] (Adoptive brother),  [[Sarah Hajjar]] (Adoptive sister) |
 > | Occupation | ? |
 > | Affiliation | Ith, Shells of Fiorinte |
 > | Charqü | Healthy, Blighted |
