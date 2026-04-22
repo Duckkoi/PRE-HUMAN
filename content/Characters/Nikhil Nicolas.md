@@ -71,10 +71,36 @@ As [[Nikhil Nicolas]] he is way more proficient and decisive, having properly pr
 
 > **Charqü**
 > 
-> Amir's spirit allows him to control the pressure he creates with his body. This means increasing the force by decreasing area of effect and the reverse. This gives him various options that he utilizes: Hitting an opponent by hitting another object, stronger punching force, ignoring defenses, make his hits slice and even compress which generates heat. By generating heat, Amir is capable of burning, melting  and even vaporizing. He uses this to ignite his incendiaries. He can also more than double his running speed and jumping strength by changing his forces of nature's directions and making them him propulse his direction. This is all difficult to perform and can be dangerous, this means he usually doesn't do this.
+> Amir's charqü allows him to control the pressure he interacts with using his body. Examples are increasing the force by decreasing area of effect and the reverse. This gives him various options that mostly Nikhil utilizes: Hitting an opponent from range by hitting another object, trading force for area, ignoring defenses, transforming blunt into pierce into slice and so on and even compressing to generate heat. 
+> 
+> By generating heat, Amir is capable of burning, melting and technically vaporizing. Amir uses this to ignite his incendiaries. He can also increase his physical abilities by negating their forces on him, though this is all difficult to perform and can be dangerous, which means he usually doesn't do this.
 > 
 > **Blighted charqü**
 > 
+> Due to his blighted charqü, while weak, he has greater physical abilities than the average person and is able to regenerate, though this is in exchange for his memories as his blighted charqü can't handle maintaining his body and psyche at the same time. He also eventually gains the ability to over-regenerate, though he dislikes doing this. Unlike most blighted charqü vessels, Amir can still get poisoned very easily which is his biggest weakness. He also has trouble regenerating as fast as most. This is again because its mostly being used to maintain his psyche.
+
+At first Amir doesn't carry anything as [[Azhar Hajjar|Azhar]] and [[Sarah Hajjar|Sarah]] felt too guilty making someone who can't say no do work, though once he becomes more 'human', hes quickly put to work and carries a rucksack with general supplies, just like the siblings. Along side that he also carries self-made gadgets, though these are discarded once he fully becomes Nikhil
+
+> **Improvised incediary**
+> Amir always has 4+ self made incendiary grenades that he makes with anything he can find, tree sap, dried leaves, peat. He ignites them by compression and increasing heat using his charqü.
+> 
+> **Modified Geta**
+> He wears a pair of wooden Geta, his right one is modified with a blade which springs out of the front once spinning the gear in the back. It's poorly made and has to be reset after use.
+> 
+> ![[Pasted image 20260423012915.png|236]] ()great art)
 
 
 ## Notes
+
+> **Likes**
+> As Nikhil: Knights, ruins, festivals, high places
+> As Amir: Tinkering, stories, competition
+> 
+> **Dislikes**
+> As Nikhil: Stables, bees and wasps, irrationality
+> As Amir: Reptiles, mushrooms, high places
+
+-  As Amir he doesn't really get flustered often, mostly cause of Sarah, meanwhile Nikhil does.
+- Nikhil means to be 'complete, whole', while Amir means 'prince', named by Sarah as her 'little brother' had to be important if she was gonna be important herself.
+- His last name, Nicolas, stands for 'Santa Claus, gift bearer' and 'Victory for the people', the former relating to him and the latter to his brother.
+
