@@ -24,7 +24,6 @@
 > | Affiliation | Ith, Shells of Fiorinte |
 > | Charqü | Healthy, Blighted |
 
-Testetstststststststststststst
 Amir, also know by his birthname Nikhil, is the protagonist of Pre-Human, He is the second son of [[Enzo Nicolas|Enzo 'Lakshman' Nicolas]] and [[Rosalinda Nicolas]], and the younger brother of [[ Luca Nicolas]] who he once lived with in [[Fiorente]]. The name Nikhil was given to him early on by [[Sarah Hajjar]], though some still use his birthname. He is the vessel of both a [[charqü]] and a weak [[charqü|blighted charqü]]
 
 After his family fell apart, he lived a troubled life mostly accompanied by two close friends. When his country was affected by "[[The Bleeding]]", Nikhil was one of its victims, becoming one of the [[shells]] being taken care of in his brother’s survivor group.
@@ -35,7 +34,7 @@ He eventually awakens alone in a desert village, only seemingly a blank slate wi
 
 Amir is a fairly average height, well-built young man with black ruffled, braided hair with a warm ivory skin tone.  His eyes are dark gray and don't have much color.  His iris also has a white crescent that changes shape depending on his mood, this completely disappears once Nikhil is in control _(This is a design choice that the weirder characters get)_.
 
-Amir also has root-like scars, one noticeable one on his right hand and another on his left shoulder, together with many lighter ones over his body. He normally wears robes and wooden Geta sandals. While Amir's outfit changes often, he tends to favor baggy, short robes, very light pants and always wears wooden geta annd the accessories he is gifted throughout the story
+Amir also has root-like scars caused by the plants growing from him due to [[The Bleeding]] , one noticeable one on his right hand and another on his left shoulder, together with many lighter ones over his body. He normally wears robes and wooden Geta sandals. While Amir's outfit changes often, he tends to favor baggy, short robes, very light pants and always wears wooden geta annd the accessories he is gifted throughout the story
 
 ## Personality
 
@@ -64,9 +63,8 @@ Sarah is travelling with Amir and Azhar. The name Amir has been given to him by 
 ##### [[Devi Vincine]]
 Devi adores and in love with Nikhil, even after the events that transpired in their history. When they were young, Devi was almost always orbiting Nikhil, even joining in on his studies and in general spending time with the whole Nicolas household. Out of the friends Nikhil had, only three of them including Devi stayed in proper contact after the family's falling out. She seemed indifferent to her friends, though she did like and care for each of them. After the events of [[The Bleeding]] Devi was a part of [[Luca Nicolas|Luca's]] survivor group, she was mainly caring for Nikhil during the whole journey, strongly opposing Luca's decision of abandoning Nikhil, even after showing no sign of improvement.
 
-After Devi's decision to secretly take Nikhil and trail behind the main group, she eventually collapsed as the journey became too hard, unmarked by [[Ith]] or any patron, [[The Hermit]] took her in. She has since deteriorated in mental health, thinking Nikhil was dead. She had many mixed emotions about their reunion and meeting "Amir" instead of "Nikhil". She later on acts as a shepherd for him and the trio.
+After Devi's decision to secretly take Nikhil and trail behind the group, she eventually collapsed as the journey became too hard, unmarked by [[Ith]] or any patron, [[The Hermit]] took her in. She has since deteriorated in mental health, thinking Nikhil was dead. She had many mixed emotions about their reunion and meeting "Amir" instead of "Nikhil". She later on acts as a shepherd for him and the trio.
 ##### [[Luca Nicolas]]
-Before the [[The Bleeding]], Nikhil and Luca had a healthy relationship. He was the role model for Nikhil as they were both striving to become a core part of [[Fiorinte]] he also constantly talked Amir and gave him money, but besides that they didn't see each other very much. After the Wilds Incursion Raja felt like Amir was haunting him as he wanted to move on from what happened.
-
+Before the [[The Bleeding]], Nikhil and Luca had a healthy relationship. He was a role model for Nikhil as they were both striving to become a core part of [[Fiorinte]] 's armed forces. He was a very kind and doting brother, though the older he got the less they could see each other. When their [[Enzo Nicolas|father]] died, Luca steadily distanced himself from his family, unable to do anything for his grieving and paranoid mother, nor for his brother. After [[The Bleeding]] he takes Nikhil along with him to escape the country, but after Nikhil becoming a shell and not recovering, he eventually made the hard decision to abandon him for the sake of his survivor group.
 ## Equipment & Abilities
 ## Notes
