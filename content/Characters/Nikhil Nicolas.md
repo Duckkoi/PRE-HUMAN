@@ -24,6 +24,7 @@
 > | Affiliation | Ith, Shells of Fiorinte |
 > | Charqü | Healthy, Blighted |
 
+Testetstststststststststststst
 Amir, also know by his birthname Nikhil, is the protagonist of Pre-Human, He is the second son of [[Enzo Nicolas|Enzo 'Lakshman' Nicolas]] and [[Rosalinda Nicolas]], and the younger brother of [[ Luca Nicolas]] who he once lived with in [[Fiorente]]. The name Nikhil was given to him early on by [[Sarah Hajjar]], though some still use his birthname. He is the vessel of both a [[charqü]] and a weak [[charqü|blighted charqü]]
 
 After his family fell apart, he lived a troubled life mostly accompanied by two close friends. When his country was affected by "[[The Bleeding]]", Nikhil was one of its victims, becoming one of the [[shells]] being taken care of in his brother’s survivor group.
