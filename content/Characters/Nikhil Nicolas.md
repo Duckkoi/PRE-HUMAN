@@ -82,21 +82,25 @@ As [[Nikhil Nicolas]] he is way more proficient and decisive, having properly pr
 At first Amir doesn't carry anything as [[Azhar Hajjar|Azhar]] and [[Sarah Hajjar|Sarah]] felt too guilty making someone who can't say no do work, though once he becomes more 'human', hes quickly put to work and carries a rucksack with general supplies, just like the siblings. Along side that he also carries self-made gadgets, though these are discarded once he fully becomes Nikhil
 
 > **Improvised incediary**
+> 
 > Amir always has 4+ self made incendiary grenades that he makes with anything he can find, tree sap, dried leaves, peat. He ignites them by compression and increasing heat using his charqü.
 > 
 > **Modified Geta**
+> 
 > He wears a pair of wooden Geta, his right one is modified with a blade which springs out of the front once spinning the gear in the back. It's poorly made and has to be reset after use.
 > 
-> ![[Pasted image 20260423012915.png|236]] ()great art)
+> ![[Pasted image 20260423012915.png|236]] (great art)
 
 
 ## Notes
 
 > **Likes**
+> 
 > As Nikhil: Knights, ruins, festivals, high places
 > As Amir: Tinkering, stories, competition
 > 
 > **Dislikes**
+> 
 > As Nikhil: Stables, bees and wasps, irrationality
 > As Amir: Reptiles, mushrooms, high places
 
