@@ -40,6 +40,17 @@ The other force is his original self, Nikhil. Due to the [[charqü|blighted char
 
 Nikhil himself is a bit of an enigma, being both like- and unlikeable. He has a strong personality, being foulmouthed, very direct, decisive and is notably unwilling to betray personal principles. Though he's also very respecting of people and prefers to see everyone, including those above him, as equal. An extension of this is even in how he carries himself, he very much feels undauntable, bringing his own "simple" energy. While his personality does not suggest it, Nikhil is very intelligent, together with a principle of his being accountability he ends up as a pillar for many.
 
-## Personality
+## Background
 
-From a young age Nikhil was a cheeky and prideful boy with a sense of precocity and agency. Aspiring to join the armed forces along side his father and brother, he spent a lot of time running around and practicing, always being active. Most of this time was spent with a large variety of friends, though more often than not accompanied by [[Devi Prasad]]
+From a young age Nikhil was a cheeky and prideful boy with a sense of precocity and agency. Aspiring to join the armed forces along side his father and brother, he spent a lot of time  running around, practicing and studying. As he comes from a family that's fairly prestigious and well off. Most of his free time was spent with a large variety of friends, though more often than not accompanied by [[Devi Vinci]].
+
+Later on, after the death of his father, [[Enzo Nicolas]], caused by [[Ith]], his family fell apart, during this time the whole family was marked by [[Ith]] out of respect to [[Enzo Nicolas|Enzo]], both his service and that he managed to learn so much about the world, charqü and had ambition. His mother grew more and more paranoid to unhealthy amounts, that together with his brother taking the chance to leave, forget and start his own life Nikhil was left alone in an unstable household, as such he became more foulmouthed and excessively defiant, often running away home and spending his time working and training. During this time only a handful of his connections stayed healthy.
+
+When [[The Bleeding]] ravaged their country, Nikhil's brother reunited with him, knowing of the situation beforehand and wanting to save as many as he could creating a survivor-party, their goal simply being running as far away as possible The group notably included Nikhil, [[Luca Nicolas]] and [[Devi Vinci|Devi]]. Sadly some including Nikhil were still affected and turned into [[shells]], the affected having their psyche's shared and as such all losing their ego's. Although Nikhil was affected he was well taken care of considering the circumstances, being favored cause of his brother being the leader and [[Devi Vinci|Devi]] spending most of her time tending on him.
+
+Due to the journey becoming more and more dangerous, with more falling ill or dying, and the shells showing no sign of recovering. [[Luca Nicolas|Luca]] made the hard decision to abandon the shells one by one, including Nikhil. Naturally [[Devi Vinci|Devi]] was strongly against this, she eventually ran away with him, trailing behind the main group until she inevitably collapsed and was then taken by [[The Hermit]]. 
+!WIP! (thinking silly auntie pro shepherd who knows a lot about the world and its system and knows he'll be ok with enough time and care) After this Nikhil was found and slowly recovered with the help of ???, this is how he obtained his charqü, though their travels didn't last very long and they eventually separate, Nikhil then waking up in [[Aintidina]].
+
+## Relationships
+## Equipment & Abilities
+## Notes
