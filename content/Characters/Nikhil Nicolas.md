@@ -66,7 +66,7 @@ Devi adores and in love with Nikhil, even after the events that transpired in th
 
 After Devi's decision to secretly take Nikhil and trail behind the main group, she eventually collapsed as the journey became too hard, unmarked by [[Ith]] or any patron, [[The Hermit]] took her in. She has since deteriorated in mental health, thinking Nikhil was dead. She had many mixed emotions about their reunion and meeting "Amir" instead of "Nikhil". She later on acts as a shepherd for him and the trio.
 ##### [[Luca Nicolas]]
-Before the incursion, Nikhil and Luca had a healthy relationship. He was the role model for Nikhil as they were both striving to become a core part of [[Fiorinte]] he also constantly talked Amir and gave him money, but besides that they didn't see each other very much. After the Wilds Incursion Raja felt like Amir was haunting him as he wanted to move on from what happened.
+Before the [[The Bleeding]], Nikhil and Luca had a healthy relationship. He was the role model for Nikhil as they were both striving to become a core part of [[Fiorinte]] he also constantly talked Amir and gave him money, but besides that they didn't see each other very much. After the Wilds Incursion Raja felt like Amir was haunting him as he wanted to move on from what happened.
 
 ## Equipment & Abilities
 ## Notes
