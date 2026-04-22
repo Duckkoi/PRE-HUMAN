@@ -103,4 +103,5 @@ At first Amir doesn't carry anything as [[Azhar Hajjar|Azhar]] and [[Sarah Hajja
 -  As Amir he doesn't really get flustered often, mostly cause of Sarah, meanwhile Nikhil does.
 - Nikhil means to be 'complete, whole', while Amir means 'prince', named by Sarah as her 'little brother' had to be important if she was gonna be important herself.
 - His last name, Nicolas, stands for 'Santa Claus, gift bearer' and 'Victory for the people', the former relating to him and the latter to his brother.
+- The crescent in his eyes is a visual trait symbolizing the ego's and memories inside him, the same crescent appearing on Fiorinte's flag.
 
