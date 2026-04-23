@@ -2,4 +2,9 @@ Charqü *(pronounced Char kye)* are the most basic form of existence and can be 
 
 Charqü growth doesn't come in stages and is fairly linear until they fully integrate, meaning they've become a part of the world and can only refine further, but even this single stage doesn't last long. When young they have a lot of interactive freedom, being able to mimic many properties, but have little energy to be very active unlike older Charqü who are generally more specialized and limited, but have more energy in return for their age, the latter being more active and thus more 'supernatural'.
 
-They are born from the center of the world
+They are born from the Cradle, at center of the world
+
+
+
+
+Rootwell, faraway-well
