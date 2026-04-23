@@ -15,3 +15,6 @@ Details on nikhils pierce attack, if its long ranged he does the same motion as 
 Ceremonial ministers: Ox war, Owl finance, Wolf guard, elk (horns cut off cause heavy)
 
 Blight can kinda be healed through absorbing spirits, as people that are considered blighted have too much blight, if u have too much blight u add more spirit
+
+A patron called Raad
+,maybe luca's patron selfishly wants to take amir away from Ith, so she can reunite luca and nikhil

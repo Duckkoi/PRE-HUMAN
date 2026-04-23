@@ -2,17 +2,19 @@ Charqü *(pronounced sharply Char kye)* are the most basic form of existence, th
 
 > Examples of this are unnaturally hollow mountains, trees growing from the ceiling, roots coming out of the cliff side holding up chunks of land, an ocean floating above an ocean, water flowing upstream, general illusions or rules being in effect such as one way entry.
 
-Due to charqü reacting even to thoughts, they for the most part are naturally averse to humans. This creates a natural barrier around human civilization, which is referred to as [[The Wilds]], the deeper the more charqü there are and the more 'supernatural' it is. Inevitably humans stay away from The Wilds as well, which creates a positive feedback loop.
+Due to charqü reacting even to thoughts, they for the most part are naturally averse to humans as complicated thoughts and consciousness create a lot of noise. This creates a natural barrier around human civilization, which is referred to as [[The Wilds]], the deeper the more charqü there are and the more 'supernatural' it is. Inevitably humans stay away from The Wilds as well, which creates a positive feedback loop.
 
 Charqü growth doesn't come in stages and is fairly linear until they fully integrate, meaning they've become a part of the world and can only refine further, but even this single stage doesn't last long. When young they have a lot of interactive freedom, being able to mimic many traits and properties, but have little energy to be very active unlike older Charqü who are generally more specialized and limited, but have more energy in return for their age, the latter being more active and thus more 'supernatural' on their own. There's no one path for their destination, as long as it's within their scope, which keeps getting smaller.
 
 They are born from the Cradle, at center of the world and return there once they finish their growth cycle. Even though they're born in the Cradle, they quickly make their way to rootwells (commonly called faraway-wells), nodes that have formed due to the large amount of charqü at a suitable location, due to this nature the area around said rootwells is very active, even if its mostly young charqü, the amount makes up for their individual lack of energy.
 
-> Faraway-wells are extremely powerful, theoretically able to rewrite charqü behavior. Rules and such have been added to the world using these, causing the priming, which will be explored later on.
+> Faraway-wells are extremely powerful, theoretically able to be used to rewrite charqü behavior thus reality. Rules and such have been added to the world using these, causing the priming, which will be explored later on.
 
 ## Blight & blooming
 
 These are two states mostly unrelated to the cycle, at most the former accelerating it and the latter halting it. First is blight, when charqü are too agitated or overstimulated, they start blighting. When this happens they become extremely volatile, all of their energy being used to scatter the traits and properties in the environment, and as such greatly altering and scarring it. The only one they always keep is 'to be', to exist in the state that they are.
 
 The only way for blighted charqü to heal is to absorb healthy ones (if your colors are too dark, you add white). While blighting is usually fatal or greatly diminishing, it's not uncommon for whatever is affected to technically 'function', which when affecting life can make it resemble the undead. That absorptive behavior sometimes extends into creatures, creating cannibalistic and more often than not aggressive beasts. Absorbed charqü become part of the blighted one and will return to the cycle, if and when it does.
+
+Blooming on the other hand is largely simple, it's when charqü harmonize with one another to reduce workload, this guarantees great activity, but also cohesion. This both accelerates the leads growth and creates a location where the world behaves differently, such as impossibly fertile land or the aforementioned one-way entry rule. Blooming does mean other charqü follow suit, which can cause chain reactions that are especially dangerous if the lead blights.
 

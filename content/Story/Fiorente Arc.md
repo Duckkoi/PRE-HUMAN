@@ -35,3 +35,4 @@ Also silly edgy but the idea of a shot of Nikhil with his back towards the sunse
 With music ofc: https://youtu.be/lv6FeylmJsk?t=172
 
 Maybe that great beasts is one of the ceremonial ministers
+Also Devi should mention Lakshman to the trio, as she found out lakshman is ancient but somehow amirs father has the same name/title, here they dont know about Ith's name yet and only that that patron is the one that marked amir
