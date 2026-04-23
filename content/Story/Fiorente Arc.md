@@ -32,3 +32,5 @@ Luca should stay behind to stabilize the survivors, the great beast is dead and 
 
 Also silly edgy but the idea of a shot of Nikhil with his back towards the sunset, with his arms spread and chin tilted up taking in the air while he slowly opens his eyes that have no crescents (amir's symbol), showing that amir is gone and that nikhil has woken up fully, with aggressive wind while camera rotates slowly
 With music ofc: https://youtu.be/lv6FeylmJsk?t=172
+
+Maybe that great beasts is one of the ceremonial ministers
