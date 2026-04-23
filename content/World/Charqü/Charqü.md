@@ -10,6 +10,8 @@ They are born from the Cradle, at center of the world and return there once they
 
 # OLD FOR REFERENCE
 
+Spirits are the old name for charqü
+
 Spirits are the most basic form of being and existence, but to otherse they look like the supernatural, they cause things such as waterfalls that flow up and grass sprouts that are too big.  They also cause a lot of  weird shapes in nature, such as crescent mountain or donut shaped flying islands.  The more spirits there are in an area the weirder the happenings can be and the more often they appear. Spirits do not have a set shape, size or color, though they are all weightless. All they do is float around, some are more curious or cautious than others, but they tend to stay away from humans, note that this does not mean that there are none, just a lower concentration. Due to large concentrations of spirits being rare near humans, the terrain around civilization is very normal, unlike the very deep wild where "anything" could happen.
 
 (I recommend still reading everything even if its not underscored, since this is a whole new system that doesn't exist in life or media and has major effects in the story and world.)
