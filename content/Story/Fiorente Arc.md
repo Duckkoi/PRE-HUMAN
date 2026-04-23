@@ -1,4 +1,3 @@
-https://youtu.be/lv6FeylmJsk?t=172
 This arc should happen a few after the branched castle arc so that amir has time to develop, during which nikhils influence steadily grows stronger, making amir uncomfortable as hes anxious of not knowing who hes gonna become.
 
 The arc lasts 1 day
@@ -21,7 +20,7 @@ Nikhil should meet the [[Wolf]] who looked up to Nikhils father, though Nikhil d
 NIGHT
 I want Nikhil's attack to blast all of the limbs in front of isa and burn whatever flammables there are, which is only possible with a lot of force. The fight gets dragged out to this point cause Nikhil would rather save it for Ith, though he eventually beheads the owl with his own ceremonial axe
 
-It'd be fun for the same army general leader whatever to find Nikhil as he just beheaded the owl, seeing an image with bloodied arms hanging from the all of the windows, Nikhil and the army dont fight though, cause its not worth it for either, nikhil cares that they're killing people, but he doesnt prioritizing over killing Ith, not that this is expressed though.
+It'd be fun for the same army general leader whatever to find Nikhil as he just beheaded the owl, seeing an image with bloodied arms hanging from the all of the windows, Nikhil and the army dont fight though, cause its not worth it for neither, the army could take him down, but taking down one unknown factor even if also of fiorintan blood, isnt worth it. On the other hand nikhil cares that they're killing people, but he doesnt prioritizing over killing Ith, not that this is expressed though.
 
 During all of this also need Azhar to lose an eye protecting Sarah, they have to struggle a lot navigating this arc, maybe they get saved by Luca here and are in his care, Luca who does find Nikhil and then has a moment with him where he begs to be understood for his actions and begging for forgiveness, explaining how he felt and everything that happened, with Nikhil only saying "I forgive you", though all nikhil wants is for this to be over so he can hunt [[Ith]], he eventually leaves to do so after his brother realizes. After Luca returns from his talk he talks to Azhar and Sarah about where Nikhil is and what his doing
 
@@ -32,3 +31,4 @@ Luca should stay behind to stabilize the survivors, the great beast is dead and 
 
 
 Also silly edgy but the idea of a shot of Nikhil with his back towards the sunset, with his arms spread and chin tilted up taking in the air while he slowly opens his eyes that have no crescents (amir's symbol), showing that amir is gone and that nikhil has woken up fully, with aggressive wind while camera rotates slowly
+With music ofc: https://youtu.be/lv6FeylmJsk?t=172
