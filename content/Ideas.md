@@ -13,3 +13,5 @@ Return to fiorinte arc where theres an army crusading to kill a jormungandr esqu
 Details on nikhils pierce attack, if its long ranged he does the same motion as pulling a bow, pulling back his fist and stretching out his hand forward, then slamming them together, pointing the back of his hand to where he wants to aim.
 
 Ceremonial ministers: Ox war, Owl finance, Wolf guard, elk (horns cut off cause heavy)
+
+Blight can kinda be healed through absorbing spirits, as people that are considered blighted have too much blight, if u have too much blight u add more spirit
