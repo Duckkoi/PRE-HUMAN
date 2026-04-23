@@ -11,6 +11,6 @@ Also to make sure the audience dont hate the siblings for ruining their moment t
 
 Devi should reluctantly tell the trio to go to [[Fiorente]], so the siblings can be marked by [[Ith]], cause if they want to stay with Amir who will most likely deal with more patrons, its safer to be marked as ones possession, and being marked by the hermit would put them on a different team so to say.
 
-Devi also shouldnt try to heal amir or whatever, shes reluctant about the above cause hes alive at least, she doesnt wanna do anything that might worsen his condition as her greatest priority is his wellbeing.
+Devi also shouldnt try to heal amir or whatever, shes reluctant about the above cause hes alive at least, she doesnt wanna do anything that might worsen his condition as her greatest priority is his wellbeing. Nor should she come with as shes marked by the hermit and as such cant, and has things she has to do for her to become more useful later, she can join them later
 
 Whole colorpalette should be cold to again show how devi feels, only to become all warm and vivid after the emotional moment, also would be fun for amir to remember the name vivi pretty well, the audience and he himself not knowing its Devi's nickname given by Nikhil.
