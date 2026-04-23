@@ -1,0 +1,4 @@
+The castle where [[The Hermit]] resides and takes people he considers lost, such as [[Devi Vincine]] 
+Would be cool for it to have a massive waterwheel or so with a massive waterfall, think of bottomless lake/pit or whatever, maybe that theres a well connected to it and thats how they get in and out of the castle, but idk if the hermit is against them leaving at all, maybe a curfew or so? Would be fun to be a curfew and if the hermit finds u he hunts u down, not that he'll harm you, he'll just put u in your room
+
+Remember that more than just sri hermit and devi live here, a lot of people, maybe another patron planted spies so to say

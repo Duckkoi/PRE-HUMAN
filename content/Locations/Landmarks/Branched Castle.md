@@ -1,1 +1,0 @@
-The castle where [[The Hermit]] resides and takes people he considers lost, such as [[Devi Vincine]] 
