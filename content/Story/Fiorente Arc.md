@@ -27,7 +27,8 @@ During all of this also need Azhar to lose an eye protecting Sarah, they have to
 MORNING
 After Nikhils encounter with Ith, he gives nikhil a bit of a chance, basically playing with him. This time stating that he wont forget Nikhil, being ecstatic and proud of him. Nikhil has a moment with azhar and sarah, thanking them for what theyve done, but that they dont have to follow him anymore as hes basically become the current that sweeps things along with it. Azhar and sarah while very confused, conflicted and grieving about amir's 'death' lash out at nikhil. Nikhil then instead says that he'll work to make their dreams come true, just wanting to make peace as he literally just came back and his mind is racing while he doesnt show it, asking Ih to mark Azhar and Sarah which was the goal of the arc going, with Ith being very casual going "Mark? Oh yeah sure no problem at all" or so as hes still very happy with Nikhil. The siblings still aren't satisfied cause this feels very transactional and 'not amir', but they aggressively accept it at least, as if staying with him to make sure hes not talking out of his ass.
 
-Luca should stay behind to stabilize the survivors, the great beast is dead and Ith scared away the army. The main trio now continues their journey, this time without Amir.
+Luca should stay behind to stabilize the survivors, the great beast is dead and Ith scared away the army. The main trio now continues their journey, this time without Amir and Nikhil abandoning his name, becoming Nico instead.
+The above is done so that he can start a new chapter
 
 
 Also silly edgy but the idea of a shot of Nikhil with his back towards the sunset, with his arms spread and chin tilted up taking in the air while he slowly opens his eyes that have no crescents (amir's symbol), showing that amir is gone and that nikhil has woken up fully, with aggressive wind while camera rotates slowly
