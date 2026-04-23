@@ -1,8 +1,8 @@
-Charqü *(pronounced sharply Char kye)* are the most basic form of existence, the 'potential' for something to exist at all. At first they're simply nothing, again purely being potential, overtime they integrate into their surroundings, mimicking its  information, meaning smell, sounds, behavior, colors, shape, and even thoughts which all dictate how it's perceived, though as they don't start out very accurate it can make them seem to be supernatural, this includes them experimenting in a way when active. While this behavior suggests that they're sentient, they  strictly are not, except for some very distinct special cases.
+Charqü *(pronounced sharply Char kye)* are the most basic form of existence, the 'potential' for something to exist at all. At first they're simply nothing, again purely being potential, overtime they integrate into their surroundings, mimicking its  information, meaning smell, sounds, behavior, colors, shape, and even thoughts which all dictate how it's perceived, though as they don't start out very accurate it can make them seem to be supernatural, this includes them experimenting in a way when active. While this behavior suggests that they're sentient, they  strictly are not, except for some very distinct special cases which will be revealed later.
 
 > Examples of this are unnaturally hollow mountains, trees growing from the ceiling, roots coming out of the cliff side holding up chunks of land, an ocean floating above an ocean, water flowing upstream, general illusions or rules being in effect such as one way entry.
 
-Due to charqü reacting even to thoughts, they for the most part are naturally averse to humans as complicated thoughts and consciousness create a lot of noise. This creates a natural barrier around human civilization, which is referred to as [[The Wilds]], the deeper the more charqü there are and the more 'supernatural' it is. Inevitably humans stay away from The Wilds as well, which creates a positive feedback loop.
+Due to charqü reacting even to thoughts, they for the most part are naturally averse to humans as complicated thoughts and consciousness create a lot of noise and often leading charqü to very inefficient, concept based growth, such as pressure and temperature. This creates a natural barrier around human civilization, which is referred to as [[The Wilds]], the deeper the more charqü there are and the more 'supernatural' it is. Inevitably humans stay away from The Wilds as well, which creates a positive feedback loop.
 
 Charqü growth doesn't come in stages and is fairly linear until they fully integrate, meaning they've become a part of the world and can only refine further, but even this single stage doesn't last long. When young they have a lot of interactive freedom, being able to mimic many traits and properties, but have little energy to be very active unlike older Charqü who are generally more specialized and limited, but have more energy in return for their age, the latter being more active and thus more 'supernatural' on their own. There's no one path for their destination, as long as it's within their scope, which keeps getting smaller.
 
@@ -18,3 +18,21 @@ The only way for blighted charqü to heal is to absorb healthy ones (if your col
 
 Blooming on the other hand is largely simple, it's when charqü harmonize with one another to reduce workload, this guarantees great activity, but also cohesion. This both accelerates the leads growth and creates a location where the world behaves differently, such as impossibly fertile land or the aforementioned one-way entry rule. Blooming does mean other charqü follow suit, which can cause chain reactions that are especially dangerous if the lead blights.
 
+## Usage
+
+Charqü may inhabit material forms which includes objects, plants, animals and even humans, the latter being more rare. This is an action they might take to obtain a reference for how 'properly' exists. Whatever they inhabit is referred to as a 'Vessel, said vessel is able to use the inhabiting charqü, allowing for manipulation of the charqü and as a result its output, which makes it look like using magic.
+
+> For example: an ocean water related charqü allowing one to create and with practice control ocean water and its contents within the scope, meaning pure water, salt, etc, in this example ice could be created but not controlled, though even this is unlikely within the world, not everyone knows that ice was just water and would try to cool water. It's science based.
+> 
+> Using the same theory as blooming, you can conclude that a storm related charqü would be stronger during a storm, as it has a reference and doesn't have to manifest anything. Now if other charqü harmonized leading to proper blooming, the effect would be even greater.
+
+##### Inhabited
+
+Only animals (including humans) can be a,  vessel and use the charqü inhabiting them, it behaves like a limb and using it must be practiced
+
+
+
+
+I think a storm spirit is just stronger in a storm cause theres less for it to change or cause, its the same idea as blooming
+
+This is interesting cause people can forcefully make their scope smaller, to allow for more strength but less flexibility

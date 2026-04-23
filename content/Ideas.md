@@ -18,3 +18,5 @@ Blight can kinda be healed through absorbing spirits, as people that are conside
 
 A patron called Raad
 ,maybe luca's patron selfishly wants to take amir away from Ith, so she can reunite luca and nikhil
+
+Maybe the rival of lakshman, so the paint guy that named priming n bleeding, is still alive and antagonistic, lakshman should be dead though, it feels right to give him weight
