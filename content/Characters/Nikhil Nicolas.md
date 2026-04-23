@@ -6,7 +6,7 @@
 > ###### Personal information
 > | | |
 > |--|--|
-> | Origin | Fiorinte |
+> | Origin | [[Fiorente]] |
 > | Age | ? |
 > | Species | Human |
 > | Gender | Male |
@@ -17,7 +17,7 @@
 > |--|--|
 > | Relatives | [[Enzo Nicolas]] (Father), [[Rosalinda Nicolas]] (Mother), [[Luca Nicolas]] (brother), [[Azhar Hajjar]] (Adoptive brother),  [[Sarah Hajjar]] (Adoptive sister) |
 > | Occupation | ? |
-> | Affiliation | Ith, Shells of Fiorinte |
+> | Affiliation | Ith, Shells of Fiorente |
 > | Charqü | Healthy, Blighted |
 
 Amir, also know by his birthname Nikhil, is the protagonist of Pre-Human, He is the second son of [[Enzo Nicolas|Enzo 'Lakshman' Nicolas]] and [[Rosalinda Nicolas]], and the younger brother of [[ Luca Nicolas]] who he once lived with in [[Fiorente]]. The name Nikhil was given to him early on by [[Sarah Hajjar]], though some still use his birthname. He is the vessel of both a [[charqü]] and a weak [[charqü|blighted charqü]]
@@ -34,11 +34,11 @@ Amir also has root-like scars caused by the plants growing from him due to [[The
 
 ## Personality
 
-Amir, being a [[Shells|shell]], is greatly affected by ego dissolution and depersonalization, having seemingly no will early on and simply doing as instructed. As the story goes on he steadily changes with two forces, first simply being his surroundings and experiences as Amir, he naturally mostly influenced by his traveling companions [[Azhar Hajjar|Azhar]] and [[Sarah Hajjar|Sarah]], slowly but surely becoming his own person. Amir eventually grows to become more outspoken and kind, heavily taking after the two siblings, though staying more on the passive side.
+Amir, being a [[Shells|shell]], is greatly affected by ego dissolution and depersonalization, having seemingly no will early on and simply doing as instructed. As the story goes on he steadily changes with two forces, first simply being his surroundings and experiences as Amir, he naturally mostly influenced by his traveling companions [[Azhar Hajjar|Azhar]] and [[Sarah Hajjar|Sarah]], slowly but surely becoming his own person. Amir eventually grows to become more outspoken, bubbly and kind, heavily taking after the two siblings, though staying more on the passive side.
 
 The other force is his original self, Nikhil. Due to the [[charqü|blighted charqü]] residing within him Amir is able to live and function with the blighted charqü managing his psyche, though whenever amir is sufficiently wounded, the charqü favors healing his body and sacrifices memories and such so that he stays functioning. This often thins the wall between Amir and Nikhil, with the prior having fears relating to this and the latter, while mostly buried, having moments of greater influence and eventually inevitably taking control, ending with Nikhil becoming whole again. When Nikhil does eventually regain control, he grows to become a mix of who he was (Nikhil) and who he has become (Amir). Over time habits and hobbies Amir picked up are shown in Nikhil, such as tinkering and camera pose.
 
-Nikhil himself is a bit of an enigma, being both like- and unlikeable. He has a strong personality, being foulmouthed, very direct, decisive and is notably unwilling to betray personal principles. Though he's also very respecting of people and prefers to see everyone, including those above him, as equal. An extension of this is even in how he carries himself, he very much feels undauntable, bringing his own "simple" energy. While his personality does not suggest it, Nikhil is very intelligent, together with a principle of his being accountability he ends up as a pillar for many.
+Nikhil himself is a bit of an enigma, being both like- and unlikeable. He has a strong personality, being foulmouthed, very direct, decisive and is notably unwilling to betray personal principles. Though he's also very respecting of people and prefers to see everyone, including those above him, as equal. An extension of this is even in how he carries himself, he very much feels undauntable, bringing his own "simple" energy, he does become blunt when annoyed. While his personality does not suggest it, Nikhil is very intelligent, together with a principle of his being accountability he ends up as a pillar for many.
 
 ## Background
 
@@ -61,7 +61,7 @@ Devi adores and in love with Nikhil, even after the events that transpired in th
 
 After Devi's decision to secretly take Nikhil and trail behind the group, she eventually collapsed as the journey became too hard, unmarked by [[Ith]] or any patron, [[The Hermit]] took her in. She has since deteriorated in mental health, thinking Nikhil was dead. She had many mixed emotions about their reunion and meeting "Amir" instead of "Nikhil", refusing to call him the former. She later on acts as a shepherd for him and the trio.
 ##### [[Luca Nicolas]]
-Before the [[The Bleeding]], Nikhil and Luca had a healthy relationship. He was a role model for Nikhil as they were both striving to become a core part of [[Fiorinte]] 's armed forces. He was a very kind and doting brother, though the older he got the less they could see each other. When their [[Enzo Nicolas|father]] died, Luca steadily distanced himself from his family, unable to do anything for his grieving and paranoid mother, nor for his brother. After [[The Bleeding]] he takes Nikhil along with him to escape the country, but after Nikhil becoming a shell and not recovering, he eventually made the hard decision to abandon him for the sake of his survivor group, which he still regrets and feels incredibly guilty for, seeking to be understood when reuniting.
+Before the [[The Bleeding]], Nikhil and Luca had a healthy relationship. He was a role model for Nikhil as they were both striving to become a core part of [[Fiorente]] 's armed forces. He was a very kind and doting brother, though the older he got the less they could see each other. When their [[Enzo Nicolas|father]] died, Luca steadily distanced himself from his family, unable to do anything for his grieving and paranoid mother, nor for his brother. After [[The Bleeding]] he takes Nikhil along with him to escape the country, but after Nikhil becoming a shell and not recovering, he eventually made the hard decision to abandon him for the sake of his survivor group, which he still regrets and feels incredibly guilty for, seeking to be understood when reuniting.
 
 ## Equipment & Abilities
 
@@ -110,5 +110,5 @@ At first Amir doesn't carry anything as [[Azhar Hajjar|Azhar]] and [[Sarah Hajja
 -  As Amir he doesn't really get flustered often, mostly cause of Sarah, meanwhile Nikhil does.
 - Nikhil means to be 'complete, whole', while Amir means 'prince', named by Sarah as her 'little brother' had to be important if she was gonna be important herself.
 - His last name, Nicolas, stands for 'Santa Claus, gift bearer' and 'Victory for the people', the former relating to him and the latter to his brother.
-- The crescent in his eyes is a visual trait symbolizing the ego's and memories inside him, the same crescent appearing on Fiorinte's flag.
+- The crescent in his eyes is a visual trait symbolizing the ego's and memories inside him, the same crescent appearing on Fiorente's flag.
 

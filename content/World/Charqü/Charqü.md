@@ -1,8 +1,8 @@
 Charqü *(pronounced Char kye)* are the most basic form of existence and can be considered the 'potential' for it at all. At first they're simply nothing, again purely being potential, overtime they integrate into their surroundings, mimicking its  information, meaning smell, sounds, behavior, colors, shape, and even thoughts, though as they don't start out very accurate it can make them seem to be supernatural.
 
-Charqü growth doesn't come in stages and is fairly linear until they fully integrate, meaning they've become a part of the world and can only refine further, but even this single stage doesn't last long. When young they have a lot of interactive freedom, being able to mimic many properties, but have little energy to be very active unlike older Charqü who are generally more specialized and limited, but have more energy in return for their age, the latter being more active and thus more 'supernatural'.
+Charqü growth doesn't come in stages and is fairly linear until they fully integrate, meaning they've become a part of the world and can only refine further, but even this single stage doesn't last long. When young they have a lot of interactive freedom, being able to mimic many properties, but have little energy to be very active unlike older Charqü who are generally more specialized and limited, but have more energy in return for their age, the latter being more active and thus more 'supernatural' on their own.
 
-They are born from the Cradle, at center of the world
+They are born from the Cradle, at center of the world and return there once they finish their growth cycle. Even though they're born in the Cradle, they quickly make their way to rootwells (also called faraway-wells), nodes that have formed due to the large amount of charqü at a suitable location, due to this nature the area around said rootwells is very active, even if its mostly young charqü, the amount makes up for their individual lack of energy.
 
 
 
