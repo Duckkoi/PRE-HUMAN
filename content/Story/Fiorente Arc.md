@@ -1,0 +1,2 @@
+https://youtu.be/lv6FeylmJsk?t=161
+This arc should happen a few after the branched castle arc so that amir has time to develop, during which nikhils influence steadily grows stronger, making amir uncomfortable as hes anxious of not knowing who hes gonna become.
