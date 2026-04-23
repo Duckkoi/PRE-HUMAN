@@ -69,12 +69,14 @@ Due to the many ego's and memories Amir has received, he has a lot of random kno
 
 As [[Nikhil Nicolas]] he is way more proficient and decisive, having properly practiced and studied the above and in general being less passive, also making proper use of his charqü, though he is less experimental and does what he trusts will work.
 
-> **Charqü**
-> 
-> Amir's charqü allows him to control the pressure he interacts with using his body. Examples are increasing the force by decreasing area of effect and the reverse. This gives him various options that mostly Nikhil utilizes: Hitting an opponent from range by hitting another object, trading force for area, ignoring defenses, transforming blunt into pierce into slice and so on and even compressing to generate heat. 
-> 
-> By generating heat, Amir is capable of burning, melting and technically vaporizing. Amir uses this to ignite his incendiaries. He can also increase his physical abilities by negating their forces on him, though this is all difficult to perform and can be dangerous, which means he usually doesn't do this.
-> 
+##### [[charqü]]
+ Amir's charqü allows him to control the pressure he interacts with using his body. Examples are increasing the force by decreasing area of effect and the reverse. This gives him various options that mostly Nikhil utilizes: Hitting an opponent from range by hitting another object, trading force for area, ignoring defenses, transforming blunt into pierce into slice and so on and even compressing to generate heat. 
+ 
+ By generating heat, Amir is capable of burning, melting and technically vaporizing. Amir uses this to ignite his incendiaries. He can also increase his physical abilities by negating their forces on him, though this is all difficult to perform and can be dangerous, which means he usually doesn't do this.
+
+> **Pierce**
+> A simple ranged attack where he pulls his fist back and his other hand pointing forward as if using a bow, waiting and focusing so he can transfer every force affecting him to the attack. Then simply punching his own palm as he quickly brings it closer.
+
 > **Blighted charqü**
 > 
 > Due to his blighted charqü, while weak, he has greater physical abilities than the average person and is able to regenerate, though this is in exchange for his memories as his blighted charqü can't handle maintaining his body and psyche at the same time. He also eventually gains the ability to over-regenerate, though he dislikes doing this. Unlike most blighted charqü vessels, Amir can still get poisoned very easily which is his biggest weakness. He also has trouble regenerating as fast as most. This is again because its mostly being used to maintain his psyche.
