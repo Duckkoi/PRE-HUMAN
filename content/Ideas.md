@@ -21,8 +21,15 @@ A patron called Raad
 
 Maybe the rival of lakshman, so the paint guy that named priming n bleeding, is still alive and antagonistic, lakshman should be dead though, it feels right to give him weight
 
-Leylines/tunnels, these are essentially waypoints that look like their destination which goes both ways, imagine a forest on point A and point B, but they both look similar in 1 specific area, this is a leyline, only shepherds and patrons can navigate these and teleport.
+bridges, these are essentially waypoints that connect and look like their destination which goes both ways, imagine a forest on point A and point B, but they both look similar in 1 specific area, this is a leyline, only shepherds and patrons can navigate these and teleport.
 Devi should teach azhar  the basic skill of doing this.
+-
+When using one, the two locations should blend, basically everything aligning to be in the exact same position and state including brightness and temperature
+They are one of the rules of the world
+
+Gotta think of a name for the rules added, like wonders of the world
+Works of the world - The world's works - Worldworks?
+Works of the wild    - The wild's works    - Wildworks?
 
 The Cradle has a lobby or whatever where it all looks like it doesnt belong, the idea is that basically when charqü return with information and such, they take things like architecture with them. The lobby should be built with techniques that are just modern, maybe sci fi, all mixed with everything from every era
 

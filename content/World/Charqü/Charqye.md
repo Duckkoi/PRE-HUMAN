@@ -1,4 +1,4 @@
-Charqü *(pronounced sharply Char kye)* are the most basic form of existence, the 'potential' for something to exist at all. At first they're simply nothing, again purely being potential, overtime they integrate into their surroundings, mimicking its  information, meaning smell, sounds, behavior, colors, shape, and even thoughts which all dictate how it's perceived, though as they don't start out very accurate it can make them seem to be supernatural, this includes them experimenting in a way when active. While this behavior suggests that they're sentient, they  strictly are not, excluding the [[Patron|patrons]].
+Charqye, or spelled charqü *(pronounced sharply Char kye)*, are the most basic form of existence, the 'potential' for something to exist at all. At first they're simply nothing, again purely being potential, overtime they integrate into their surroundings, mimicking its  information, meaning smell, sounds, behavior, colors, shape, and even thoughts which all dictate how it's perceived, though as they don't start out very accurate it can make them seem to be supernatural, this includes them experimenting in a way when active. While this behavior suggests that they're sentient, they  strictly are not, excluding the [[Patron|patrons]].
 
 > Examples of this are unnaturally hollow mountains, trees growing from the ceiling, roots coming out of the cliff side holding up chunks of land, an ocean floating above an ocean, water flowing upstream, general illusions or rules being in effect such as one way entry.
 
@@ -61,9 +61,9 @@ Artificers are most commonly known for their vessel-tool creation, essentially c
 
 > Nurturing is especially difficult, being the act of guiding charqu growth towards the desired properties and traits while pruning the unwanted ones, which is risky due to overstimulation causing blight. It also includes having them absorb one another to roll back and increase energy, though is high-risk high-reward as it might have unwanted effects.
 ###### Shepherds
-Shepherds are very rare, they are less craftsman-like than artificers and have more organic interactions with charqu. They are able to vaguely control them, having control over how active they are and guiding them
+Shepherds are very rare, they are less craftsman-like than artificers and have more organic interactions with charqü. Being able to vaguely control them, how active they are and guiding them. The output of their actions varies, as they do not consistently have the same charqü in their vicinity, unlike living-vessels or those using vessel-tools.
 
-
+Shepherds are instrumental to 
 
 
 Artificers and shepherds have specialized tools to help them with their arts, these being vessel-tools, including blighted vessels, and blight itself. There are also mysterious tools that help them with each process, though their origin and mechanisms are largely unknown.
