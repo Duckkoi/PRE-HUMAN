@@ -55,21 +55,20 @@ While handlers have an affinity for charqü, they tend to specialize in differen
 > Appraising can be described as feeling sensations relating to the properties and traits the charqü obtained, such as color, smell, texture, temperature and so on. A flame based as such will most likely mainly be a smell, heat and the hissing sound. Appraising charqü with concepts can be more difficult due to their abstract nature.
 
 
+WIP
 HAVE TO ADD
  
 people that can control charqü through thoughts and these are the ones that can appraise and create tools, theres 5 major skills: tinkering which is tools, appraising which is as it says, nurturers who artificially create them like bonsai, maybe scribes which is performing the beforementioned triggers but from a distance, shepherds / conductors / guides that lead charqü and can change activity levels. Controlling charqü while uninhabited is hard as if u want to perform for example fire attacks there has to be fire based charqü and if there arent any itll barely be effective
 
+
+! Scribe and nurturer will fall under tinkerer which will be renamed artificer for now !
+
+
 Gotta write about bleeding and priming and how they often have main effects such as plant growth ()and the memories, maybe this always occurs cause of info sharing).
 
 
-Notes
-
-
-Blighted creatures, blighted charqü, blighted vessel, patrons
-
-Scribe and nurturer will fall under tinkerer which will be renamed artificer for now
-
 Blight often looks desaturated, sick and withered, while blooming affects the surroundings as the charqü become active, causing distinct visuals to appear, for example glowy floating petals.
+
 
 Shepherds can cause artificial blooming if proficient enough, maybe with their own personality and buffs added, in the power system i want this to look fancy
 Shepherds should get their name in a historical way
