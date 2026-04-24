@@ -1,4 +1,4 @@
-Charqü *(pronounced sharply Char kye)* are the most basic form of existence, the 'potential' for something to exist at all. At first they're simply nothing, again purely being potential, overtime they integrate into their surroundings, mimicking its  information, meaning smell, sounds, behavior, colors, shape, and even thoughts which all dictate how it's perceived, though as they don't start out very accurate it can make them seem to be supernatural, this includes them experimenting in a way when active. While this behavior suggests that they're sentient, they  strictly are not, except for some very distinct special cases which will be revealed later.
+Charqü *(pronounced sharply Char kye)* are the most basic form of existence, the 'potential' for something to exist at all. At first they're simply nothing, again purely being potential, overtime they integrate into their surroundings, mimicking its  information, meaning smell, sounds, behavior, colors, shape, and even thoughts which all dictate how it's perceived, though as they don't start out very accurate it can make them seem to be supernatural, this includes them experimenting in a way when active. While this behavior suggests that they're sentient, they  strictly are not, excluding the [[Patron|patrons]].
 
 > Examples of this are unnaturally hollow mountains, trees growing from the ceiling, roots coming out of the cliff side holding up chunks of land, an ocean floating above an ocean, water flowing upstream, general illusions or rules being in effect such as one way entry.
 
@@ -8,7 +8,7 @@ Due to charqü reacting even to thoughts, they for the most part are naturally a
 
 Charqü growth doesn't come in stages and is fairly linear until they fully integrate, meaning they've become a part of the world and can only refine further, but even this single stage doesn't last long. When young they have a lot of interactive freedom, being able to mimic many traits and properties, but have little energy to be very active unlike older Charqü who are generally more specialized and limited, but have more energy in return for their age, the latter being more active and thus more 'supernatural' on their own. There's no one path for their destination, as long as it's within their scope, which keeps getting smaller.
 
-They are born from the Cradle, at center of the world and return there once they finish their growth cycle. Even though they're born in the Cradle, they quickly make their way to rootwells (commonly called faraway-wells), nodes that have formed due to the large amount of charqü at a suitable location, due to this nature the area around said rootwells is very active, even if its mostly young charqü, the amount makes up for their individual lack of energy.
+They are born from [[The Cradle]] at center of the world and return there once they finish their growth cycle. Even though they're born in the Cradle, they quickly make their way to [[Rootwell|rootwells]] (commonly called faraway-wells), nodes that have formed due to the large amount of charqü at a suitable location, due to this nature the area around said rootwells is very active, even if its mostly young charqü, the amount makes up for their individual lack of energy.
 
 > Faraway-wells are extremely powerful, theoretically able to be used to rewrite charqü behavior thus reality. Rules and such have been added to the world using these, causing the priming, which will be explored later on.
 
@@ -49,17 +49,11 @@ It's possible to be a vessel for multiple charqü, though the more are housed, t
 While being a vessel is the most intimate and reliable method of using charqü, there's many other ways that don't require you to be inhabited, the most popular is using tool vessels. As the name suggest these tools are inhibited by spirits and can be used with the same triggers mentioned before, created by handlers.
 
 Handlers are people who are able to interact with charqü in productive ways without needing vessels, though tools definitely help and are used by them. Examples of skills related to charqü they might have are: Appraising, guiding, controlling activity, vessel-tool creation, nurturing. They are able to do this due to their understanding of charqü, but also due to having a very defined internal structure and clear goals for them, the latter two being especially important.
-##### Uninhabited usage
+##### Handler
 
 
 
 HAVE TO ADD
-
-patrons who are sentient charqü and maybe even blighted charqü, they dont die of old age and such and are very hard to kill as you have to blight them. Unsure of how blighted ones will die.
-
-What if patrons are basically charqü that become sentient and take control of a body, not necessarily steal one but they probably do, they prefer being humanoid as just like storm charqü logic, it makes being sentient and such easier in general and also is handy for basics like communication. Maybe they are born when absorbing a huge amount of other charqü while not blighted which is already hard to do. Patrons often are very strong and can be considered demi-gods with large energy reserves, im planning on the scopes not being very planned as the cool factor is important here.
-
-Ith can be special in that hes a blighted creature / blighted vessel / patron mix, having no special properties he can use like normal charqü and patrons, instead he can just make things very volatile and has similar abilities to a shepherd.
  
 people that can control charqü through thoughts and these are the ones that can appraise and create tools, theres 5 major skills: tinkering which is tools, appraising which is as it says, nurturers who artificially create them like bonsai, maybe scribes which is performing the beforementioned triggers but from a distance, shepherds / conductors / guides that lead charqü and can change activity levels. Controlling charqü while uninhabited is hard as if u want to perform for example fire attacks there has to be fire based charqü and if there arent any itll barely be effective
 
