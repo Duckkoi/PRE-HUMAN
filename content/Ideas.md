@@ -31,3 +31,5 @@ Devi grinning n falling with nico required, her laughing afterwards when on the 
 Azhar's artificial eye being able to see whats 'necessary', allowing him to see temperature, waves, xray, that kind of stuff, i'd wanna give future sight but im not confortable adding anything time based besides slowed perception looking like slowing down time, though it could be laplace's demon and predicting, though unable to predict the action of charqü and only the results and output afterwards.
 
 Maybe the idea of handlers and the reason theyre possible is one of the rules of the world, basically being worthy and qualified.
+
+The branched castle works with similar dynamics to the leyline/tunnel waypoints, but instead of one space being in two locations, its in no location, bit brainfucky and i dont understand it myself but it feels appropriate, shepherds and patrons can access it by using the same teleporting method but being in the place its supposed to be in,, those marked by the hermit can enter and exit as they please, which is only sri and devi.

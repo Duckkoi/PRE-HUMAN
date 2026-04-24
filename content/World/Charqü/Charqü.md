@@ -54,22 +54,24 @@ While handlers have an affinity for charqü, they tend to specialize in differen
 > Appraising can be described as feeling sensations relating to the properties and traits the charqü obtained, such as color, smell, texture, temperature and so on. A flame based as such will most likely mainly be a smell, heat and the hissing sound. Appraising charqü with concepts can be more difficult due to their abstract nature.
 
 Even within Handlers there's a divide, that being the more common artificer and the shepherd. A large amount of skills fall under the artificer umbrella, but they mainly are viewed as craftsmen and engineers, compared to the shepherd who have a more organic relationship charqü.
-
+###### Artificers
 Artificers are most commonly known for their vessel-tool creation, essentially charqü tinkering/engineering, this means guiding charqü into a vessel of their choice and then conditioning it to react to triggers, similarly to inhabited usage such as vocals, literal buttons, levers, currents and so on, even chemical reactions. Their other skills being more niche and overlapping, being scribing and nurturing.
 
 > Scribing as the name suggests specifically means inscription acting as the triggers, the vessel being either the substrate or the stylus (tool & medium). Common vessel examples being pens, sticks and staves, being able to on paper, sand and some tools in the air, while substrate examples being books and tags.
 
 > Nurturing is especially difficult, being the act of guiding charqu growth towards the desired properties and traits while pruning the unwanted ones, which is risky due to overstimulation causing blight. It also includes having them absorb one another to roll back and increase energy, though is high-risk high-reward as it might have unwanted effects.
+###### Shepherds
+Shepherds are very rare, they are less craftsman-like than artificers and have more organic interactions with charqu. They are able to vaguely control them, having control over how active they are and guiding them
 
-Handlers have specialized tools to help them with their arts, these being both vessel-tools including blighted vessels and may use blight itself
+
+
+
+Artificers and shepherds have specialized tools to help them with their arts, these being vessel-tools, including blighted vessels, and blight itself. There are also mysterious tools that help them with each process, though their origin and mechanisms are largely unknown.
+
+
 WIP
 HAVE TO ADD
  
-people that can control charqü through thoughts and these are the ones that can appraise and create tools, theres 5 major skills: tinkering which is tools, appraising which is as it says, nurturers who artificially create them like bonsai, maybe scribes which is performing the beforementioned triggers but from a distance, shepherds / conductors / guides that lead charqü and can change activity levels. Controlling charqü while uninhabited is hard as if u want to perform for example fire attacks there has to be fire based charqü and if there arent any itll barely be effective
-
-
-! Scribe and nurturer will fall under tinkerer which will be renamed artificer for now !
-
 
 Gotta write about bleeding and priming and how they often have main effects such as plant growth ()and the memories, maybe this always occurs cause of info sharing).
 
