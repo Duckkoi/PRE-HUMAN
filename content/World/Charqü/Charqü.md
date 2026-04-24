@@ -28,7 +28,7 @@ Charqü may inhabit material forms which includes objects, plants, animals and e
 > 
 > Using the same theory as blooming, you can conclude that a storm related charqü would be stronger during a storm, as it has a reference and doesn't have to manifest anything. Now if other charqü harmonized leading to proper blooming, the effect would be even greater.
 
-##### Inhabited usage
+#### Inhabited usage
 Only animals (including humans) can use the charqü inhabiting them, it behaves like a limb and using it must be practiced, some less intelligent vessels such as fish might not engage.
 Generally animals only have an elementary level of skill with the more intelligent ones being more dangerous. Due to charqü nature of leaving when a vessel is unrecognizable, you might see packs form where they fight for leadership and power.
 
@@ -45,10 +45,11 @@ Being the vessel of a blighted charqü is fairly straightforward, the vessel ben
 Vessels of blighted charqü are again completely different from blighted creatures, the former strictly being vessels, not necessarily affected by blight and the latter being creatures affected by blight, often to the extent that they can be considers monstrous.
 
 It's possible to be a vessel for multiple charqü, though the more are housed, the more unstable it is with the risk of blighting going up. This goes for both normal and blighted charqü.
-##### Uninhabited usage
+#### Uninhabited usage
 While being a vessel is the most intimate and reliable method of using charqü, there's many other ways that don't require you to be inhabited, the most popular is using tool vessels. As the name suggest these tools are inhibited by spirits and can be used with the same triggers mentioned before, created by handlers.
 
 Handlers are people who are able to interact with charqü in productive ways without needing vessels, though tools definitely help and are used by them. Examples of skills related to charqü they might have are: Appraising, guiding, controlling activity, vessel-tool creation, nurturing. They are able to do this due to their understanding of charqü, but also due to having a very defined internal structure and clear goals for them, the latter two being especially important.
+##### Uninhabited usage
 
 
 

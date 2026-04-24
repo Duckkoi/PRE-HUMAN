@@ -52,15 +52,15 @@ Due to the journey becoming more and more dangerous, with more falling ill or dy
 !WIP! (thinking silly auntie pro shepherd who knows a lot about the world and its system and knows he'll be ok with enough time and care) After this Nikhil was found and slowly recovered with the help of ???, this is how he obtained his charqü, though their travels didn't last very long and they eventually separate, Nikhil then waking up in [[Aintidina]].
 
 ## Relationships
-##### [[Azhar Hajjar]]
+#### [[Azhar Hajjar]]
 Azhar is travelling with Amir and Sarah.. He acts both as Amir's moral compass and decisionmaker as he is the most mature out of the main trio. Normally Amir walks besides Azhar when traveling as its convenient, he normally seeks approval from Azhar when he takes his actions. At first they didn't talk a lot to each other, with both being passive when it comes to communicating, though as the story progresses they start talking more, both with each other and in general. Azhar doesn't show it, but he secretly gets proud of Amir and thinks of him like a little brother just like Sarah. After "Amir's death", Azhar is deeply saddened and confused, and while he dislikes Nikhil initially, he quickly grows to understand and care for him.
-##### [[Sarah Hajjar]]
+#### [[Sarah Hajjar]]
 Sarah is travelling with Amir and Azhar. The name Amir has been given to him by Sarah, she likes to believe that she is a dependable and big sister figure for Amir, overly spoiling him, although it isn't even sure that she's older than him. At first Amir lets her do anything she wants to him, having no boundaries cause of him being a [[shells|shell]]. He also copies what she says once in a while which ends with Azhar getting harassed by not only Sarah, but also Amir. Sarah is surprisingly the one more affected by Amir's "death", being completely unaccepting of the "Nikhil" identity. She comes to deeply care for Nikhil as well though and stops seeing them as different people.
-##### [[Devi Vincine]]
+#### [[Devi Vincine]]
 Devi adores and in love with Nikhil, even after the events that transpired in their history. When they were young, Devi was almost always orbiting Nikhil, even joining in on his studies and in general spending time with the whole Nicolas household. Out of the friends Nikhil had, only three of them including Devi stayed in proper contact after the family's falling out. She seemed indifferent to her friends, though she did like and care for each of them. After the events of [[The Bleeding]] Devi was a part of [[Luca Nicolas|Luca's]] survivor group, she was mainly caring for Nikhil during the whole journey, strongly opposing Luca's decision of abandoning Nikhil, even after showing no sign of improvement.
 
 After Devi's decision to secretly take Nikhil and trail behind the group, she eventually collapsed as the journey became too hard, unmarked by [[Ith]] or any patron, [[The Hermit]] took her in. She has since deteriorated in mental health, thinking Nikhil was dead. She had many mixed emotions about their reunion and meeting "Amir" instead of "Nikhil", refusing to call him the former. She later on acts as a shepherd for him and the trio.
-##### [[Luca Nicolas]]
+#### [[Luca Nicolas]]
 Before the [[The Bleeding]], Nikhil and Luca had a healthy relationship. He was a role model for Nikhil as they were both striving to become a core part of [[Fiorente]] 's armed forces. He was a very kind and doting brother, though the older he got the less they could see each other. When their [[Enzo Nicolas|father]] died, Luca steadily distanced himself from his family, unable to do anything for his grieving and paranoid mother, nor for his brother. After [[The Bleeding]] he takes Nikhil along with him to escape the country, but after Nikhil becoming a shell and not recovering, he eventually made the hard decision to abandon him for the sake of his survivor group, which he still regrets and feels incredibly guilty for, seeking to be understood when reuniting.
 
 ## Equipment & Abilities
@@ -69,7 +69,7 @@ Due to the many ego's and memories Amir has received, he has a lot of random kno
 
 As [[Nikhil Nicolas]] he is way more proficient and decisive, having properly practiced and studied the above and in general being less passive, also making proper use of his charqü, though he is less experimental and does what he trusts will work.
 
-##### [[charqü]]
+#### [[charqü]]
  Amir's charqü allows him to control the pressure he interacts with using his body. Examples are increasing the force by decreasing area of effect and the reverse. This gives him various options that mostly Nikhil utilizes: Hitting an opponent from range by hitting another object, trading force for area, ignoring defenses, transforming blunt into pierce into slice and so on and even compressing to generate heat. 
  
  By generating heat, Amir is capable of burning, melting and technically vaporizing. Amir uses this to ignite his incendiaries. He can also increase his physical abilities by negating their forces on him, though this is all difficult to perform and can be dangerous, which means he usually doesn't do this.
