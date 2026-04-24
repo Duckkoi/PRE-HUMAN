@@ -48,9 +48,11 @@ It's possible to be a vessel for multiple charqü, though the more are housed, t
 #### Uninhabited usage
 While being a vessel is the most intimate and reliable method of using charqü, there's many other ways that don't require you to be inhabited, the most popular is using tool vessels. As the name suggest these tools are inhibited by spirits and can be used with the same triggers mentioned before, created by handlers.
 
-Handlers are people who are able to interact with charqü in productive ways without needing vessels, though tools definitely help and are used by them. Examples of skills related to charqü they might have are: Appraising, guiding, controlling activity, vessel-tool creation, nurturing. They are able to do this due to their understanding of charqü, but also due to having a very defined internal structure and clear goals for them, the latter two being especially important.
-##### Handler
+Handlers are rare people who are able to interact with charqü in productive ways without needing vessels, though tools definitely help and are used by them. Examples of skills related to charqü they might have are: Appraising, guiding, controlling activity, vessel-tool creation, nurturing. They are able to do this due to their understanding of charqü, but also due to having a very defined internal structure and clear goals for them, the latter two being especially important.
+##### Handler specializations
+While handlers have an affinity for charqü, they tend to specialize in different fields. The only skill that's actually common is appraisal as this skill is pretty much necessary for every specialization.
 
+> Appraising can be described as feeling sensations relating to the properties and traits the charqü obtained, such as color, smell, texture, temperature and so on. A flame based as such will most likely mainly be a smell, heat and the hissing sound. Appraising charqü with concepts can be more difficult due to their abstract nature.
 
 
 HAVE TO ADD
@@ -68,4 +70,7 @@ Blighted creatures, blighted charqü, blighted vessel, patrons
 
 Would be cool for uninhabited people to be able to tell people what kind of charqüis inhabiting them if theyre having trouble with it. I'd describle it as the appraiser feeling sensations, the traits the charqü picked up, ocean water will make them smell it and feel wet and such, the conceptual ones like pressure will be harder for them to appraise as theyre abstract.
 
-The only people that can become uninhabited users are those with clearly defined anchors, something that streamlines them, as such hesitation makes them less effective
+
+Blight often looks desaturated, sick and withered, while blooming affects the surroundings as the charqü become active, causing distinct visuals to appear, for example glowy floating petals.
+
+Shepherds can cause artificial blooming, in the power system i want this to look fancy
