@@ -67,10 +67,9 @@ Notes
 
 Blighted creatures, blighted charqü, blighted vessel, patrons
 
-
-Would be cool for uninhabited people to be able to tell people what kind of charqüis inhabiting them if theyre having trouble with it. I'd describle it as the appraiser feeling sensations, the traits the charqü picked up, ocean water will make them smell it and feel wet and such, the conceptual ones like pressure will be harder for them to appraise as theyre abstract.
-
+Scribe and nurturer will fall under tinkerer which will be renamed artificer for now
 
 Blight often looks desaturated, sick and withered, while blooming affects the surroundings as the charqü become active, causing distinct visuals to appear, for example glowy floating petals.
 
-Shepherds can cause artificial blooming, in the power system i want this to look fancy
+Shepherds can cause artificial blooming if proficient enough, maybe with their own personality and buffs added, in the power system i want this to look fancy
+Shepherds should get their name in a historical way
