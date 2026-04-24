@@ -101,7 +101,7 @@ At first Amir doesn't carry anything as [[Azhar Hajjar|Azhar]] and [[Sarah Hajja
 > 
 > As Nikhil: Knights, ruins, festivals, high places
 > As Amir: Tinkering, stories, competition
-> 
+
 > **Dislikes**
 > 
 > As Nikhil: Stables, bees and wasps, irrationality

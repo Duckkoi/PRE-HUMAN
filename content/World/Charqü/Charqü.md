@@ -46,7 +46,10 @@ Vessels of blighted charqü are again completely different from blighted creatur
 
 It's possible to be a vessel for multiple charqü, though the more are housed, the more unstable it is with the risk of blighting going up. This goes for both normal and blighted charqü.
 ##### Uninhabited usage
-While being a vessel is the most intimate and reliable method of using charqü, there's many other ways that don't require you to be inhabited, the most popular is using tool vessels. As the name suggest these tools are inhibited by spirits and can be used with the same triggers mentioned before, created by professionals.
+While being a vessel is the most intimate and reliable method of using charqü, there's many other ways that don't require you to be inhabited, the most popular is using tool vessels. As the name suggest these tools are inhibited by spirits and can be used with the same triggers mentioned before, created by handlers.
+
+Handlers are people who are able to interact with charqü in productive ways without needing vessels, though they definitely help and are used by them. Examples of skills related to charqü they might have are: Appraising, guiding, controlling activity, vessel-tool creation, nurturing.
+
 
 
 HAVE TO ADD
