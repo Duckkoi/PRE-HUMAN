@@ -48,13 +48,17 @@ It's possible to be a vessel for multiple charqü, though the more are housed, t
 ##### Uninhabited usage
 While being a vessel is the most intimate and reliable method of using charqü, there's many other ways that don't require you to be inhabited, the most popular is using tool vessels. As the name suggest these tools are inhibited by spirits and can be used with the same triggers mentioned before, created by handlers.
 
-Handlers are people who are able to interact with charqü in productive ways without needing vessels, though they definitely help and are used by them. Examples of skills related to charqü they might have are: Appraising, guiding, controlling activity, vessel-tool creation, nurturing.
+Handlers are people who are able to interact with charqü in productive ways without needing vessels, though tools definitely help and are used by them. Examples of skills related to charqü they might have are: Appraising, guiding, controlling activity, vessel-tool creation, nurturing. They are able to do this due to their understanding of charqü, but also due to having a very defined internal structure and clear goals for them, the latter two being especially important.
 
 
 
 HAVE TO ADD
 
-patrons who are sentient charqü and maybe even blighted charqü, they dont die of old age and such and are very hard to kill as you have to blight them. Unsure of how blighted ones will die
+patrons who are sentient charqü and maybe even blighted charqü, they dont die of old age and such and are very hard to kill as you have to blight them. Unsure of how blighted ones will die.
+
+What if patrons are basically charqü that become sentient and take control of a body, not necessarily steal one but they probably do, they prefer being humanoid as just like storm charqü logic, it makes being sentient and such easier in general and also is handy for basics like communication. Maybe they are born when absorbing a huge amount of other charqü while not blighted which is already hard to do. Patrons often are very strong and can be considered demi-gods with large energy reserves, im planning on the scopes not being very planned as the cool factor is important here.
+
+Ith can be special in that hes a blighted creature / blighted vessel / patron mix, having no special properties he can use like normal charqü and patrons, instead he can just make things very volatile and has similar abilities to a shepherd.
  
 people that can control charqü through thoughts and these are the ones that can appraise and create tools, theres 5 major skills: tinkering which is tools, appraising which is as it says, nurturers who artificially create them like bonsai, maybe scribes which is performing the beforementioned triggers but from a distance, shepherds / conductors / guides that lead charqü and can change activity levels. Controlling charqü while uninhabited is hard as if u want to perform for example fire attacks there has to be fire based charqü and if there arent any itll barely be effective
 
@@ -66,7 +70,6 @@ Notes
 
 Blighted creatures, blighted charqü, blighted vessel, patrons
 
-Animals that fight for charqu, some passing them down in their pack, cause charqu will leave a vessel once its no longer recognizable such as being dead and then inhabiting the next closest creature
 
 Would be cool for uninhabited people to be able to tell people what kind of charqüis inhabiting them if theyre having trouble with it. I'd describle it as the appraiser feeling sensations, the traits the charqü picked up, ocean water will make them smell it and feel wet and such, the conceptual ones like pressure will be harder for them to appraise as theyre abstract.
 
