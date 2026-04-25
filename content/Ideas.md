@@ -26,6 +26,7 @@ Devi should teach azhar  the basic skill of doing this.
 -
 When using one, the two locations should blend, basically everything aligning to be in the exact same position and state including brightness and temperature
 They are one of the rules of the world
+Maybe patrons can create them, altering terrain
 
 Gotta think of a name for the rules added, like wonders of the world
 Works of the world - The world's works - Worldworks?
@@ -40,3 +41,5 @@ Azhar's artificial eye being able to see whats 'necessary', allowing him to see 
 Maybe the idea of handlers and the reason theyre possible is one of the rules of the world, basically being worthy and qualified.
 
 The branched castle works with similar dynamics to the leyline/tunnel waypoints, but instead of one space being in two locations, its in no location, bit brainfucky and i dont understand it myself but it feels appropriate, shepherds and patrons can access it by using the same teleporting method but being in the place its supposed to be in,, those marked by the hermit can enter and exit as they please, which is only sri and devi.
+
+Ith's growth when still a normal charqü was going towards becoming human? Maybe his goal is achieved, maybe Nikhil takes revenge after and maybe even helps him towards his goal so he can even kill him
