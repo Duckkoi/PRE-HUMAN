@@ -1,5 +1,7 @@
 'Gods' get created at some point during the story, allowing (more) people to use abilities
 Villain wants to rewrite humanity as humanity has many problems such as war n blah blah (fixing those problems is life) (maybe for [[POST-HUMAN]])
+DONT THINK I LIKE THIS IDEA ABOVE, FEELS TROPEY AND PREDICTABLE, YOU CAN DO BETTER
+
 Trees and such growing in between humans and spirits can have human faces
 
 Devi should reluctantly send the trio off to Fiorinte, for the purpose of having them be marked by Ith, this is cause amir is most likely gonna interact with a lot of patrons and being marked by a patron protects you from them, they wont take the first action (most likely)
@@ -21,18 +23,12 @@ A patron called Raad
 
 Maybe the rival of lakshman, so the paint guy that named priming n bleeding, is still alive and antagonistic, lakshman should be dead though, it feels right to give him weight
 
-bridges, these are essentially waypoints that connect and look like their destination which goes both ways, imagine a forest on point A and point B, but they both look similar in 1 specific area, this is a leyline, only shepherds and patrons can navigate these and teleport.
-Devi should teach azhar  the basic skill of doing this.
--
-When using one, the two locations should blend, basically everything aligning to be in the exact same position and state including brightness and temperature
+bridges, Devi should teach azhar  the basic skill of doing this.
 They are one of the rules of the world
 Maybe patrons can create them, altering terrain
 
-Gotta think of a name for the rules added, like wonders of the world
-Works of the world - The world's works - Worldworks?
-Works of the wild    - The wild's works    - Wildworks?
 
-The Cradle has a lobby or whatever where it all looks like it doesnt belong, the idea is that basically when charqü return with information and such, they take things like architecture with them. The lobby should be built with techniques that are just modern, maybe sci fi, all mixed with everything from every era
+
 
 Devi grinning n falling with nico required, her laughing afterwards when on the ground, maybe her escaping a flying steampunk city, though could be Sri instead to have them bond as Sri is basically family to Devi instead, so they'll have to get close eventually
 '

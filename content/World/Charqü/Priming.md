@@ -1,0 +1,1 @@
+Priming is the world blighting world wide. This sets civilization back and is catastrophic, unlike bleeding it doesnt really follow any themes and instead alters how the world works in some way, see [[Works of the world]]

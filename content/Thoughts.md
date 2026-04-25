@@ -4,12 +4,13 @@ Fixing OP space powers (ripping people apart)
 Power ceiling for cinematic fights (whats cinematic)
 
 How much influence does willpower have and how much is received from others
+
 Touch time (travel) once
 
 Main villain is called Ith (it), the original body also lives?
 A villain that has done the same thing as the mc, look for people, this was during one of the first wipes, he is still looking
 
-Reincarnation and lookalike references can be a thing due to spirits storing information
+Reincarnation and lookalike references can be a thing due to [[Charqye]] storing information
 
 People such as Jeurse in POST HUMAN, azhar and sarah in PRE HUMAN, should all be swept up in the world and events, the same how people get swept up in the real world (ww3) such), and about just staying steady on your feet
 
