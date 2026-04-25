@@ -8,7 +8,7 @@ Due to charqü reacting even to thoughts, they for the most part are naturally a
 
 Charqü growth comes in many small steps and is fairly linear until they fully integrate, meaning they've become a part of the world and can only refine further, but even this single stage doesn't last long. When young they have a lot of interactive freedom, being able to mimic many traits and properties, but have little energy to be very active unlike older Charqü who are generally more specialized and limited, but have more energy in return for their age, the latter being more active and thus more 'supernatural' on their own. There's no one path for their destination, as long as it's within their scope, which keeps getting smaller.
 
-> The steps mentioned are the charqü decreasing its scope and being able to more accurately mimic different parts and properties within it. Imagine one related to ponds
+> The steps mentioned are the charqü decreasing its scope and being able to more accurately mimic different parts and properties within it. Imagine one related to a pond, interacting with sendiment, minerals and plants lessening its scope to simply the liquid.
 
 They are born from [[The Cradle]] at center of the world and return there once they finish their growth cycle. Even though they're born in the Cradle, they quickly make their way to [[Rootwell|rootwells]] (commonly called faraway-wells), nodes that have formed due to the large amount of charqü at a suitable location, due to this nature the area around said rootwells is very active, even if its mostly young charqü, the amount makes up for their individual lack of energy.
 
