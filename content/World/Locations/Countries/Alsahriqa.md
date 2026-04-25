@@ -1,0 +1,1 @@
+Giant thin cloths in the sky? Will look really cool, maybe theyre sometimes cleaned and then put back in place with bows, tying in one corner and then shooting it across streets onto a board where someone ties it up and then shoots it again. This is for shade and is also cool lol

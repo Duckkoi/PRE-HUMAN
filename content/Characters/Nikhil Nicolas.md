@@ -20,9 +20,9 @@
 > | Affiliation | Ith, Shells of Fiorente |
 > | Charqü | Healthy, Blighted |
 
-Amir, also know by his birthname Nikhil, is the protagonist of Pre-Human, He is the second son of [[Enzo Nicolas|Enzo 'Lakshman' Nicolas]] and [[Rosalinda Nicolas]], and the younger brother of [[ Luca Nicolas]] who he once lived with in [[Fiorente]]. The name Nikhil was given to him early on by [[Sarah Hajjar]], though some still use his birthname. He is the vessel of both a [[Charqye]] and a weak [[Charqye|blighted charqü]]
+Amir, also know by his birthname Nikhil, is the protagonist of Pre-Human, He is the second son of [[Enzo Nicolas|Enzo 'Lakshman' Nicolas]] and [[Rosalinda Nicolas]], and the younger brother of [[ Luca Nicolas]] who he once lived with in [[Fiorente]]. The name Nikhil was given to him early on by [[Sarah Hajjar]], though some still use his birthname. He is the vessel of both a [[Charqye]] and a weak [[Charqye|blighted charqü]] and a [[Patron#Marks|mark]] of [[Ith]].
 
-After his family fell apart, he lived a troubled life mostly accompanied by two close friends. When his country was affected by "[[The Bleeding]]", Nikhil was one of its victims, becoming one of the [[shells]] being taken care of in his brother’s survivor group.
+After his family fell apart due to the death of his father, he lived a troubled life mostly accompanied by two close friends. When his country was affected by "[[The Bleeding]]", Nikhil was one of its victims, becoming one of the [[shells]] being taken care of in his brother’s survivor group.
 
 He eventually awakens alone in a desert village, only seemingly a blank slate with no identity, starting his journey with the siblings [[Azhar Hajjar]] and [[Sarah Hajjar]].
 
@@ -104,8 +104,8 @@ At first Amir doesn't carry anything as [[Azhar Hajjar|Azhar]] and [[Sarah Hajja
 
 > **Dislikes**
 > 
-> As Nikhil: Stables, bees and wasps, irrationality
-> As Amir: Reptiles, mushrooms, high places
+> As Nikhil: Stables, bees and wasps, irrationality, drinking (leftover trait from Amir)
+> As Amir: Reptiles, mushrooms, high places, drinking (technically poison blighted charqü deals with)
 
 -  As Amir he doesn't really get flustered often, mostly cause of Sarah, meanwhile Nikhil does.
 - Nikhil means to be 'complete, whole', while Amir means 'prince', named by Sarah as her 'little brother' had to be important if she was gonna be important herself.

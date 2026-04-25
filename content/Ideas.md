@@ -17,6 +17,11 @@ azhar loses an eye and gets a prosthetic with a charqü with abilities
 
 Luca is marked by two patrons, by ith and another that he has an intimate relationship with
 
+Maybe PRE HUMAN ends with a bit of fan service, u see azhars stories become plays, u see devi being popular among the people and kids and such, u see sarah with obvious wealth talking to nico (who was amir which is prince), u see even sri living a more normal life, u see them all bantering doing stuff together, you see other characters, some ruling countries even, you see short time skips, some of those countries going to war and such.
+The idea is that ith in the pilot goes on about how excited he is for whats gonna happen to the world with imagery of lore and events and people that will appear in the story, ending on a title of nikhil picking dates with cold eyes and crescents. Only for it to end with ith narrating the latter part of the ending, being thankful the experiences and his life, finally dying, maybe due to old age like a human like he wanted.
+-
+After his death the next page is just black which acts as a signal that the story is genuinely over, only for the next page to be black, the next to be black with a bit of rain platter and the next with even more, then its a very modern bit sci fi street with a figure sitting on stairs in the center background. It zooms in and its a posthuman titlecardwith isa with his pupils instead of amirs crescent and the prehuman titlecard
+
 Of course not every character is recurring, especially the onnes in the amir part of the story, amir grows habits from the people he meets and those surround him. When nikhil takes over fully some of these habits should just dissapear (not all), this is to add weight cause it kills the last remaining connection the story has to those characters.
 
 Some stuff about Ith and Nikhil. Nikhil can help Ith become human, thats what ith wants and nikhil wants it so he can actually kill Ith, this is not a secret and is something hes okay with.
