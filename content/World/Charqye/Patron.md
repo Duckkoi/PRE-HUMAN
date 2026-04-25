@@ -6,4 +6,4 @@ What if patrons are basically charqü that become sentient and take control of a
 
 Ith can be special in that hes a blighted creature / blighted vessel / patron mix, having no special properties he can use like normal charqü and patrons, instead he can just make things very volatile and has similar abilities to a shepherd.
 
-They mark people as their property which protects them from other patrons, they all vary in the relationship they have with their mark, some being hands off, others being revered and some even having a more intimate relationship
+They mark people as their property which protects them from other patrons, they all vary in the relationship they have with their mark, some being hands off like Ith, some stern like The Hermit who doesnt let Devi go until hes confident she'll be okay (which is her guess), others being revered and some even having a more intimate relationship such as Luca's patron

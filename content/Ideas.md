@@ -2,6 +2,13 @@
 Villain wants to rewrite humanity as humanity has many problems such as war n blah blah (fixing those problems is life) (maybe for [[POST-HUMAN]])
 DONT THINK I LIKE THIS IDEA ABOVE, FEELS TROPEY AND PREDICTABLE, YOU CAN DO BETTER
 
+Shepherds are able to cause artificial blooming, which can buff vessels essentially, they have other charqu harmonize and help the vessels charqu and help the charqu in general. shepherds will think about granting strength which is what buffs are, their idea of strength will influence what the results of the buff are, think of cool visuals.
+
+Shepherds will stay rare but 95% of every group will have a shepherd due to the nature of the stories progression, where the characters go and what they interact iwth and such, you find more gamers in an arcade lol
+
+POST HUMAN IDEA
+Imagine that eventually parallel worlds are created due to priming (i want a very controlled one maybe), then theres someone who gets sent to a parallel world (which might kill him everywhere else). Outside of his dying everywhere, this was the concept behind a game where a wife and husband were hunted down with the wife sending her husband off, he forgets her and only has basic memories that drive him, the goal of the game is to find out as many clues while navigating dangers, the clues keep your character motivated and the ending is reached once your character has no more motivation or succeeds in saving her. (kinda similar to vivi nico now that i think about it) 
+
 Trees and such growing in between humans and spirits can have human faces
 
 Devi should reluctantly send the trio off to Fiorinte, for the purpose of having them be marked by Ith, this is cause amir is most likely gonna interact with a lot of patrons and being marked by a patron protects you from them, they wont take the first action (most likely)
@@ -9,6 +16,11 @@ Devi should reluctantly send the trio off to Fiorinte, for the purpose of having
 azhar loses an eye and gets a prosthetic with a charqü with abilities
 
 Luca is marked by two patrons, by ith and another that he has an intimate relationship with
+
+Of course not every character is recurring, especially the onnes in the amir part of the story, amir grows habits from the people he meets and those surround him. When nikhil takes over fully some of these habits should just dissapear (not all), this is to add weight cause it kills the last remaining connection the story has to those characters.
+
+Some stuff about Ith and Nikhil. Nikhil can help Ith become human, thats what ith wants and nikhil wants it so he can actually kill Ith, this is not a secret and is something hes okay with.
+Maybe nikhil spares him cause Ith had his reasons for not intervening with fiorentes blighting, and also as a form of revenge against the people that forsakened his father and family in general, even if this is meant to be really selfish of him, he should still have a better reason for hating the country. Maybe he lets Ith live as hes a balancing force, maybe to counteract whatever patrons are actually actively dangerous. I think i like ith becoming human eventually though, like a rebirth
 
 Return to fiorinte arc where theres an army crusading to kill a jormungandr esque creature, survivors and Ith. Luca also is notified by his new patron, that a mark of ith and maybe his brother is returning to fiorinte. This arc amir will be separated from the siblings and slowly be plunged into becoming nikhil who kills the owl and plans to kill ith, he becomes an anomaly this arc, this is good cause it makes the readers who just started trusting nikhil a little bit, still seem scary. Nikhil should only say "i forgive you" to luca without much emotion and "thank you for what you've done, you dont have to follow me anymore" to azhar and sarah who are upset, he then says "in that case, ill make your dreams come true" as payment, theyre not happy that it feels transactional but they accept it. Nikhil will be a bit annoyed though, he has a lot going on in his head and is trying to just make peace, it wont be very expressive though.
 

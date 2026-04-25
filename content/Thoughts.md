@@ -19,3 +19,7 @@ Army / warband / mercenary leader figure should forcefully leave his post after 
 Blighting into oneself, blighting takes the information from the surroundings and messes it up everywhere, but if there's only 1 point of reference (or 1 that drowns others out))theoretically nothing should change
 
 Isa should blight into himself, staying the same except getting a ponytail cause theyre cool
+
+The Cradle should return in post human and look similar but properly different showcasing all the time that has gone by and maybe showing parts of the pre-human time, part of important and popular locations. The first return should use the same composition in both stories
+
+Idk if i want literal books in the cradle, maybe  the books are messy like AI learning how to generate them so to say and theyre uncanny, i kinda want a proper information medium for everything that ever interacted with charqu, so some humans that never went out and such will simply be forgotten, though for this i cant have the books be messy, or i need a reason for some to be and others not to be.
