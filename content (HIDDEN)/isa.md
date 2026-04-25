@@ -1,3 +1,5 @@
+Basically my self insert and protagonist of post human lol, post human will be more about discovering isa from an outside pov with a deuteragonist, most likely being the 6 year best friend coming back and finding out about isa without him doing his best for her at all
+
 ✦ CHARACTER SHEET – ISA BACHIR
 ❖ Basic Information
 Name: Isa Bachir
