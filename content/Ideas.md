@@ -6,6 +6,23 @@ Shepherds are able to cause artificial blooming, which can buff vessels essentia
 
 Shepherds will stay rare but 95% of every group will have a shepherd due to the nature of the stories progression, where the characters go and what they interact iwth and such, you find more gamers in an arcade lol
 
+
+The auntie looks for amir that was the nameless boy and instead finds samir, who insists on joining her
+
+DRAW A STICK FIGURE IRL AND USE IT AS THE ENDING
+
+
+Just murder samir, having him have his own journey where he meets and loses people, possessions and maybe even an arm, the results of a normal man that wasnt really supposed to be in the current slipping in, either breaking him mentally and dying in a similar way to Amir or him staying the 'greatest' character (cause of what he does for the trio) and dying with a smile, maybe for the trio even
+
+Samir gives nikhil a rucksack for his journey, when on the ship he is slurred along by the siblings, sarah finds the rucksack on the ship and steals it before they exit the ship, not knowing its even Nikhils. Azhar gives her an earful cause hes gonna take the blame again, but the realization midway that theyre in a different country completely.
+
+Maybe they plan to sleep in someone's stable who wakes them up in the morning with a pitchfork and all mad, only for nikhil to break it causing them to give up on resolving the issue and just run away instead, this is a point where nikhils power can be showcased
+
+Sarah grabs both realizing that negotiations are over and they run towards the city and maze like streets and eventually accidentally trip over someones flower pot at the end, this being the florist who is very forgiving cause of the siblings sincerity, they explain how theyre basically on a trek and she teaches them, with mostly azhar remembering (cause hes responsible but also that the florist is pretty and hes finally interacting with someone lol)
+
+They ask about the pretty flower they see everywhere being a Vivi something flower that means something the along the lines of great determination, enduring, wonder. Maybe sarah goes like "oh u want this one?" or "lets try it on you" and puts it on amir as a very temporary hair ornament. This is to hide that vivi is his first word and give it a natural reason and integration. The name vivi shouldnt come up anymore unti lthe end of the branched castle
+
+
 POST HUMAN IDEA
 Imagine that eventually parallel worlds are created due to priming (i want a very controlled one maybe), then theres someone who gets sent to a parallel world (which might kill him everywhere else). Outside of his dying everywhere, this was the concept behind a game where a wife and husband were hunted down with the wife sending her husband off, he forgets her and only has basic memories that drive him, the goal of the game is to find out as many clues while navigating dangers, the clues keep your character motivated and the ending is reached once your character has no more motivation or succeeds in saving her. (kinda similar to vivi nico now that i think about it) 
 

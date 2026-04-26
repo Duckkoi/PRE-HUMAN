@@ -5,7 +5,7 @@ PRE-HUMAN is a story written by Isa/Ducko and predecessor to [[POST-HUMAN]].
 
 	This is a wiki and collection of notes for my use for the public to see. This was made using obsidianMD which I'm very new to, so it should look better the more i get used to it 
 
-The story follows [[Nikhil Nicolas]], who woke up in a desert village with seemingly no will of his own, he eventually is joined by siblings [[Azhar Hajjar]] and [[Sarah Hajjar]] to figure out his origin while they learn more about the world and he grows as a person.  
+The story follows [[Nikhil Nicolas]], who woke up in a desert village with seemingly no will of his own, he eventually is joined by siblings [[Azhar Hajar]] and [[Sarah Hajar]] to figure out his origin while they learn more about the world and he grows as a person.  
 
 The general idea of both pre and post-human is to be swept up in a current being life, but mostly is just about things I wanna write about both good and bad
 

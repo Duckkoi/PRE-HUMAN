@@ -15,26 +15,26 @@
 > ###### Status
 > | | |
 > |--|--|
-> | Relatives | [[Enzo Nicolas]] (Father), [[Rosalinda Nicolas]] (Mother), [[Luca Nicolas]] (brother), [[Azhar Hajjar]] (Adoptive brother),  [[Sarah Hajjar]] (Adoptive sister) |
+> | Relatives | [[Enzo Nicolas]] (Father), [[Rosalinda Nicolas]] (Mother), [[Luca Nicolas]] (brother), [[Azhar Hajar]] (Adoptive brother),  [[Sarah Hajar]] (Adoptive sister) |
 > | Occupation | ? |
 > | Affiliation | Ith, Shells of Fiorente |
 > | Charqü | Healthy, Blighted |
 
-Amir, also know by his birthname Nikhil, is the protagonist of Pre-Human, He is the second son of [[Enzo Nicolas|Enzo 'Lakshman' Nicolas]] and [[Rosalinda Nicolas]], and the younger brother of [[ Luca Nicolas]] who he once lived with in [[Fiorente]]. The name Nikhil was given to him early on by [[Sarah Hajjar]], though some still use his birthname. He is the vessel of both a [[Charqye]] and a weak [[Charqye|blighted charqü]] and a [[Patron#Marks|mark]] of [[Ith]].
+Amir, also know by his birthname Nikhil, is the protagonist of Pre-Human, He is the second son of [[Enzo Nicolas|Enzo 'Lakshman' Nicolas]] and [[Rosalinda Nicolas]], and the younger brother of [[ Luca Nicolas]] who he once lived with in [[Fiorente]]. The name Nikhil was given to him early on by [[Sarah Hajar]] who he now travels with including [[Azhar Hajar]], though some still use his birthname. He is the vessel of both a [[Charqye]] and a weak [[Charqye|blighted charqü]] and a [[Patron#Marks|mark]] of [[Ith]].
 
 After his family fell apart due to the death of his father, he lived a troubled life mostly accompanied by two close friends. When his country was affected by "[[The Bleeding]]", Nikhil was one of its victims, becoming one of the [[shells]] being taken care of in his brother’s survivor group.
 
-He eventually awakens alone in a desert village, only seemingly a blank slate with no identity, starting his journey with the siblings [[Azhar Hajjar]] and [[Sarah Hajjar]].
+He eventually awakens alone in a desert village, only seemingly a blank slate with no identity, starting his journey with the siblings [[Azhar Hajar]] and [[Sarah Hajar]].
 
 ## Appearance
 
-Amir is a fairly average height, well-built young man with black ruffled, braided hair with a warm ivory skin tone.  His eyes are dark gray and don't have much color.  His iris also has a white crescent that changes shape depending on his mood, this completely disappears once Nikhil is in control _(This is a design choice that the weirder characters get)_.
+Amir is a fairly average height, and fairly well-built young man with black, braided hair with a warm ivory skin tone.  His eyes are dark gray and don't have much color.  His iris also has a white crescent which symbolizes the [[Fiorente]] ego soup, this completely disappears once Nikhil is in control _(Abstract eyes are a design choice that the weirder characters get)_.
 
 Amir also has root-like scars caused by the plants growing from him due to [[The Bleeding]] , one noticeable one on his right hand and another on his left shoulder, together with many lighter ones over his body. He normally wears robes and wooden Geta sandals. While Amir's outfit changes often, he tends to favor baggy, short robes, very light pants and always wears wooden geta annd the accessories he is gifted throughout the story
 
 ## Personality
 
-Amir, being a [[Shells|shell]], is greatly affected by ego dissolution and depersonalization, having seemingly no will early on and simply doing as instructed. As the story goes on he steadily changes with two forces, first simply being his surroundings and experiences as Amir, he naturally mostly influenced by his traveling companions [[Azhar Hajjar|Azhar]] and [[Sarah Hajjar|Sarah]], slowly but surely becoming his own person. Amir eventually grows to become more outspoken, bubbly and kind, heavily taking after the two siblings, though staying more on the passive side.
+Amir, being a [[Shells|shell]], is greatly affected by ego dissolution and depersonalization, having seemingly no will early on and simply doing as instructed. As the story goes on he steadily changes with two forces, first simply being his surroundings and experiences as Amir, he naturally mostly influenced by his traveling companions [[Azhar Hajar|Azhar]] and [[Sarah Hajar|Sarah]], slowly but surely becoming his own person. Amir eventually grows to become more outspoken, bubbly and kind, heavily taking after the two siblings, though staying more on the passive side.
 
 The other force is his original self, Nikhil. Due to the [[Charqye|blighted charqü]] residing within him Amir is able to live and function with the blighted charqü managing his psyche, though whenever amir is sufficiently wounded, the charqü favors healing his body and sacrifices memories and such so that he stays functioning. This often thins the wall between Amir and Nikhil, with the prior having fears relating to this and the latter, while mostly buried, having moments of greater influence and eventually inevitably taking control, ending with Nikhil becoming whole again. When Nikhil does eventually regain control, he grows to become a mix of who he was (Nikhil) and who he has become (Amir). Over time habits and hobbies Amir picked up are shown in Nikhil, such as tinkering and camera pose.
 
@@ -52,9 +52,9 @@ Due to the journey becoming more and more dangerous, with more falling ill or dy
 !WIP! (thinking silly auntie pro shepherd who knows a lot about the world and its system and knows he'll be ok with enough time and care) After this Nikhil was found and slowly recovered with the help of ???, this is how he obtained his charqü, though their travels didn't last very long and they eventually separate, Nikhil then waking up in [[Aintidina]].
 
 ## Relationships
-#### [[Azhar Hajjar]]
+#### [[Azhar Hajar]]
 Azhar is travelling with Amir and Sarah.. He acts both as Amir's moral compass and decisionmaker as he is the most mature out of the main trio. Normally Amir walks besides Azhar when traveling as its convenient, he normally seeks approval from Azhar when he takes his actions. At first they didn't talk a lot to each other, with both being passive when it comes to communicating, though as the story progresses they start talking more, both with each other and in general. Azhar doesn't show it, but he secretly gets proud of Amir and thinks of him like a little brother just like Sarah. After "Amir's death", Azhar is deeply saddened and confused, and while he dislikes Nikhil initially, he quickly grows to understand and care for him.
-#### [[Sarah Hajjar]]
+#### [[Sarah Hajar]]
 Sarah is travelling with Amir and Azhar. The name Amir has been given to him by Sarah, she likes to believe that she is a dependable and big sister figure for Amir, overly spoiling him, although it isn't even sure that she's older than him. At first Amir lets her do anything she wants to him, having no boundaries cause of him being a [[shells|shell]]. He also copies what she says once in a while which ends with Azhar getting harassed by not only Sarah, but also Amir. Sarah is surprisingly the one more affected by Amir's "death", being completely unaccepting of the "Nikhil" identity. She comes to deeply care for Nikhil as well though and stops seeing them as different people.
 #### [[Devi Vincine]]
 Devi adores and in love with Nikhil, even after the events that transpired in their history. When they were young, Devi was almost always orbiting Nikhil, even joining in on his studies and in general spending time with the whole Nicolas household. Out of the friends Nikhil had, only three of them including Devi stayed in proper contact after the family's falling out. She seemed indifferent to her friends, though she did like and care for each of them. After the events of [[The Bleeding]] Devi was a part of [[Luca Nicolas|Luca's]] survivor group, she was mainly caring for Nikhil during the whole journey, strongly opposing Luca's decision of abandoning Nikhil, even after showing no sign of improvement.
@@ -65,7 +65,7 @@ Before the [[The Bleeding]], Nikhil and Luca had a healthy relationship. He was 
 
 ## Equipment & Abilities
 
-Due to the many ego's and memories Amir has received, he has a lot of random knowledge about travel, exploration, caving, leadership, chemistry, ect. This also includes combat, mostly mostly boxing, wrestling, grappling and weapon handling as these were most commonly practiced in his country, though he doesn't use them very well as every ego had different opinions and habits. Besides that he doesn't feel that comfortable fighting differently from [[Azhar Hajjar|Azhar]] and [[Sarah Hajjar|Sarah]], preferring to use weapons and trinkets and refraining from using his charqü too much.
+Due to the many ego's and memories Amir has received, he has a lot of random knowledge about travel, exploration, caving, leadership, chemistry, ect. This also includes combat, mostly mostly boxing, wrestling, grappling and weapon handling as these were most commonly practiced in his country, though he doesn't use them very well as every ego had different opinions and habits. Besides that he doesn't feel that comfortable fighting differently from [[Azhar Hajar|Azhar]] and [[Sarah Hajar|Sarah]], preferring to use weapons and trinkets and refraining from using his charqü too much.
 
 As [[Nikhil Nicolas]] he is way more proficient and decisive, having properly practiced and studied the above and in general being less passive, also making proper use of his charqü, though he is less experimental and does what he trusts will work.
 
@@ -82,7 +82,7 @@ As [[Nikhil Nicolas]] he is way more proficient and decisive, having properly pr
 > 
 > Due to his blighted charqü, while weak, he has greater physical abilities than the average person and is able to regenerate, though this is in exchange for his memories as his blighted charqü can't handle maintaining his body and psyche at the same time. He also eventually gains the ability to over-regenerate, though he dislikes doing this. Unlike most blighted charqü vessels, Amir can still get poisoned very easily which is his biggest weakness. He also has trouble regenerating as fast as most. This is again because its mostly being used to maintain his psyche.
 
-At first Amir doesn't carry anything as [[Azhar Hajjar|Azhar]] and [[Sarah Hajjar|Sarah]] felt too guilty making someone who can't say no do work, though once he becomes more 'human', hes quickly put to work and carries a rucksack with general supplies, just like the siblings. Along side that he also carries self-made gadgets, though these are discarded once he fully becomes Nikhil
+At first Amir doesn't carry anything as [[Azhar Hajar|Azhar]] and [[Sarah Hajar|Sarah]] felt too guilty making someone who can't say no do work, though once he becomes more 'human', hes quickly put to work and carries a rucksack with general supplies, just like the siblings. Along side that he also carries self-made gadgets, though these are discarded once he fully becomes Nikhil
 
 > **Improvised incediary**
 > 
