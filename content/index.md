@@ -1,7 +1,7 @@
 ---
 title: PRE HUMAN
 ---
-PRE-HUMAN is a story written by the great me and predecessor to [[POST-HUMAN]]. 
+PRE-HUMAN is a story written by Isa/Ducko and predecessor to [[POST-HUMAN]]. 
 
 	This is a wiki and collection of notes for my use for the public to see. This was made using obsidianMD which I'm very new to, so it should look better the more i get used to it 
 
