@@ -8,7 +8,7 @@ How much influence does willpower have and how much is received from others
 Touch time (travel) once
 
 
-Father dies around 15, fiorente bleeding happens around 17
+Father dies around 15, fiorente bleeding happens around 17, 3 - 4 months of survivor group, then 1.5 years or azhar sarah amir story until they meet devi again at around late 18 early 19
 
 
 
