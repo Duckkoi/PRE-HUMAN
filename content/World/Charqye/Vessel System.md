@@ -5,7 +5,7 @@ A vessel refers to anything inhabited by [[Charqye|charqü]], with the ones of n
 
 > Commonly used triggers include vocals, gestures and stanches. These help perform more complicated actions, you can view them as macro's.
 > 
-> !WIP! The scope can be increased by absorbing other powerful charqü, the more similar the better, though this is fairly difficult due to low odds of discovery. 
+> !WIP! The scope can be increased by absorbing other powerful charqü, the more similar the better, though this is very difficult due to low odds of discovery. 
 
 ## Blighted Charqü
 

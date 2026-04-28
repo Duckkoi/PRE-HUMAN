@@ -6,7 +6,7 @@
 > ###### Personal information
 > | | |
 > |--|--|
-> | Origin |[[Alsahriqa]] |
+> | Origin | [[Aintidina]] |
 > | Age | ? |
 > | Species | Human |
 > | Gender | Male |
@@ -17,7 +17,7 @@
 > |--|--|
 > | Relatives | Salman Hajar (Father), Fida Hajar (Mother),  [[Sarah Hajar]] (Adoptive sister), [[Nikhil Nicolas]] (Adopted brother) |
 > | Occupation | ? |
-> | Affiliation | Ith|
+> | Affiliation | [[Ith]]|
 > | Charqü | None |
 
 Azhar one of the deuteragonist of Pre-Human, He is the son of Salman and Fida Hajar. He is also the older brother of [[Sarah Hajar]] who he leaves their home village of [[Aintidina]] with. He is one of the [[Patron#Marks|marks]] of [[Ith]].
@@ -38,9 +38,9 @@ While his appearance suggests otherwise, Azhar is the kindest and empathetic out
 
 Unlike Sarah, he is very good-willed, has a strong sense of justice and acts as the trio's moral compass, cause of this he's often thought of as gullible and idealistic, but this is not at all the case. Azhar is optimistic and hopes to see the best in people, but knows that sometimes the floor is low, he isn't afraid to punish or scold those who do wrong, especially when it means protecting himself or others.
 
-Azhar is fairly relaxed, being able to follow along in conversations and poke fun at those he's comfortable with, but having trouble with complete strangers he has no business with.
+Azhar is fairly relaxed, being able to follow along in conversations and poke fun at those he's comfortable with, but having trouble with complete strangers he has no business with. He also has difficulty integrating with other cultures, not enjoying all foods and respecting traditions but finding some troublesome simultaneously, he is especially against the idea of being a [[Vessel System|living vessel]]. The one tradition he respects less is having concubines
 
-## Background (FROM HERE ON ITS PLACEHOLDER)
+## Background
 
 Azhar has never had much individuality. As an early first born, he had to quickly help his household, becoming especially busy after Sarah was born. Eventually this grew into a habit both he, his family and the town in general leaned into, losing his chance to properly integrate with others of his generation, becoming appreciated but not loved.
 
@@ -62,17 +62,18 @@ Their relationship eventually starts resembling the one between Azhar and Samir.
 
 When Nikhil regains his ego in [[Fiorente]], Azhar gets properly livid and disappointed with 'Amir', not knowing it was Nikhil, when he and Sarah get offered an out. During the adjusting period for Nikhil and the siblings, he generally talked to the calmer Azhar more, who was more open to communicating even if he wasn't liked, which he appreciates. They eventually reconcile properly, with their relationship eventually returning how it used to be.
 #### [[Samir Hidayat]]
-Samir acted as Azhar's own mentor and elder brother figure, cause Samir saw his past passiveness in him. 
-#### [[Luca Nicolas]]
-Before the [[The Bleeding]], Nikhil and Luca had a healthy relationship. He was a role model for Nikhil as they were both striving to become a core part of [[Fiorente]] 's armed forces. He was a very kind and doting brother, though the older he got the less they could see each other. When their [[Enzo Nicolas|father]] died, Luca steadily distanced himself from his family, unable to do anything for his grieving and paranoid mother, nor for his brother. After [[The Bleeding]] he takes Nikhil along with him to escape the country, but after Nikhil becoming a shell and not recovering, he eventually made the hard decision to abandon him for the sake of his survivor group, which he still regrets and feels incredibly guilty for, seeking to be understood when reuniting.
+Samir acted as Azhar's own mentor and elder brother figure, cause Samir saw his past passiveness in him. While he didn't have much time due to his job as a factor, forcing him to be away from [[Alsahriqa]] for months on end and being busy even when home, he spent the free time he had mainly with Azhar.
+
+The time they spent together was partially spent helping Azhar with his own chores, but through his persuasion of Azhar's parents, they were able have a good bit of free time together. Samir introduced him to a bunch of hobbies, trying to build a sense of agency for Azhar, the ones he picked up being sand sailing, polearms and art. He promised Azhar a job once he managed to found his own company, planning to take him along when sailing.
+#### [[Devi Vincine]]
+Devi has a good opinion of Azhar, being glad that Nikhil is in good hands, even if admittedly envious. While she doesn't per se care about Azhar at first, even when they connect with their shared love of creative arts, this is due to her wariness and natural detached nature. She eventually opens up Azhar, being less like her mature, walled off self and even joins in on Sarah's and Nico's bullying of Azhar.
+
+As the next oldest between her, Azhar, Sarah and Nico, she does try and let Azhar rely on her too, being more solicitous and even more mellow than she is with Nico. She eventually also teacher Azhar shepherd basics, allowing the group to traverse the world easier.
 
 ## Equipment & Abilities
 
-Due to the many ego's and memories Amir has received, he has a lot of random knowledge about travel, exploration, caving, leadership, chemistry, ect. This also includes combat, mostly mostly boxing, wrestling, grappling and weapon handling as these were most commonly practiced in his country, though he doesn't use them very well as every ego had different opinions and habits. Besides that he doesn't feel that comfortable fighting differently from [[Azhar Hajar|Azhar]] and [[Sarah Hajar|Sarah]], preferring to use weapons and trinkets and refraining from using his charqü too much.
-
-As [[Nikhil Nicolas]] he is way more proficient and decisive, having properly practiced and studied the above and in general being less passive, also making proper use of his charqü, though he is less experimental and does what he trusts will work.
-
-#### [[Charqye]]
+Out of the main trio, Azhar is the one that carries most of their supplies, especially so early in the story, being a bit of a packmule since Sarah doesn't want her and Amir carrying much, though this habit disappears pretty quickly. Azhar almost always has a weapon on him, mainly his Takoba (a sword) as it's lighter, but he prefers using his halberd, being able to have more control over the fight.
+#### [[Handlers|Tool Vessels]]
  Amir's charqü allows him to control the pressure he interacts with using his body. Examples are increasing the force by decreasing area of effect and the reverse. This gives him various options that mostly Nikhil utilizes: Hitting an opponent from range by hitting another object, trading force for area, ignoring defenses, transforming blunt into pierce into slice and so on and even compressing to generate heat. 
  
  By generating heat, Amir is capable of burning, melting and technically vaporizing. Amir uses this to ignite his incendiaries. He can also increase his physical abilities by negating their forces on him, though this is all difficult to perform and can be dangerous, which means he usually doesn't do this.

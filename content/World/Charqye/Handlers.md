@@ -9,7 +9,7 @@ Even within Handlers there's a divide, that being the more common artificer and 
 
 ## Artificers
 
-Artificers are most commonly known for their vessel-tool creation, essentially charqü tinkering/engineering, this means guiding charqü into a vessel of their choice and then conditioning it to react to triggers, similarly to inhabited usage such as vocals, literal buttons, levers, currents and so on, even chemical reactions. Their other skills being more niche and overlapping, being scribing and nurturing.
+Artificers, not necessarily the end users, are most commonly known for their vessel-tool creation, essentially charqü tinkering/engineering, this means guiding charqü into a vessel of their choice and then conditioning it to react to triggers, similarly to inhabited usage such as vocals, literal buttons, levers, currents and so on, even chemical reactions. Their other skills being more niche and overlapping, being scribing and nurturing.
 
 > Scribing as the name suggests specifically means inscription acting as the triggers, the vessel being either the substrate or the stylus (tool & medium). Common vessel examples being pens, sticks and staves, being able to on paper, sand and some tools in the air, while substrate examples being books and tags.
 

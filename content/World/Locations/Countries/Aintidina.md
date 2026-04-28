@@ -1,0 +1,3 @@
+Sarah, Azhar and Samir grew up here, amir wakes up here after being brought back by Samir. The village isn't capable of raising horses and as such they use sand sailing instead instead
+
+Huge irl physics saves us yet again, the people leaving for alsahriqa in the extreme early morning where the sun barely starts rising (5 am) and come back during the day. Possible cause of sea breeze and land breeze, warm and cold air stuff
