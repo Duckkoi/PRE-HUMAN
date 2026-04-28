@@ -1,3 +1,16 @@
+Test
+
+
+
+
+
+
+
+
+
+```
+```AUTHOR NOTES
+
 Shes more understanding than even the kind Azhar and follows along with other's cultures and fits in right away, shes basically the one that takes the lead when in a settlement
 
 While not empathetic, she is sympathetic

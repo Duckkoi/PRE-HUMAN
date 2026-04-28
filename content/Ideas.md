@@ -13,6 +13,8 @@ DRAW A STICK FIGURE IRL AND USE IT AS THE ENDING
 
 Azhar should be treated as a packmule by sarah early in the story, but this disappears quickly. Azhar should be in danger with ann animal or so pretty quick due to being less mobile, but gets saved by amir, here amir should be able to really show off his strength, with azhar feelingn conflicted about amir being an unknown factor but being saved.
 
+Amir should get hurt, chunk out of his side, wall thins and nikhil's influence grows stronger, quietly cussing and talking to himself like "fucking hurts you know", but goes on doing what he does
+
 Just murder samir, having him have his own journey where he meets and loses people, possessions and maybe even an arm, the results of a normal man that wasnt really supposed to be in the current slipping in, either breaking him mentally and dying in a similar way to Amir or him staying the 'greatest' character (cause of what he does for the trio) and dying with a smile, maybe for the trio even
 
 Samir gives nikhil a rucksack for his journey, when on the ship he is slurred along by the siblings, sarah finds the rucksack on the ship and steals it before they exit the ship, not knowing its even Nikhils. Azhar gives her an earful cause hes gonna take the blame again, but the realization midway that theyre in a different country completely.

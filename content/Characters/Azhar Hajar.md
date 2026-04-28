@@ -96,7 +96,7 @@ I have more planned, like 3 reusable roped grenades and stuff like that
 
 > **Dislikes**
 > 
-> Smoked food, insensitivity, idea of concubines
+> Tough food, insensitivity, idea of concubines
 
 -  Azhar was apparently first going to be a very cold character, but that got in the way of the story. (i dont even remember this but its in the old wiki lol)
 - Hajar means 'to flee', 'flight', being what the siblings do, while their old surname Hajjar means 'Weight', chosen cause they ground Amir.
