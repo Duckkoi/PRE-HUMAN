@@ -38,7 +38,7 @@ She often changes looks, being very happy as she can finally look the way she wa
 
 Sarah is very double faced and has facades, on the surface she's incredibly kind and forgiving with her demeanor being like an angel. This is because of her responsibility towards her [[Aintidina|village]] who didn't have a good standing in the eyes of the monarchy. She acts as a very soft, kind, positive and nearly flawless girl, though stay believable enough for the only ones that end up know what she's actually like to be [[Azhar Hajar|Azhar]] and [[Samir Hidayat|Samir]].
 
-In actuality, Sarah is fairly selfish, brash, childish when possible, greedy and is not afraid to take all advantages for herself, especially so with those of higher standing who can easily afford losses and have more than just opportunities taken from them. Due to her earlier explained façade, she is extremely good at reading the room and giving people what they want, on their journey she mainly uses this for information gathering, haggling, negotiations and gambling, which doesn't always go right. Her façade quickly disappears though, as there's no more need for it. 
+In actuality, Sarah is fairly selfish, brash, passionate, feisty, childish when possible, greedy and is not afraid to take all advantages for herself, especially so with those of higher standing who can easily afford losses and have more than just opportunities taken from them, which is a far-cry from her façade. Due to her earlier explained façade, she is extremely good at reading the room and giving people what they want, on their journey she mainly uses this for information gathering, haggling, negotiations and gambling, which doesn't always go right. Her façade quickly disappears though, as there's no more need for it. 
 
 Though in the end Sarah is still kind and very energetic, while not empathetic like Azhar, she is still sympathetic. This is something she's even a bit insecure about, looking up up to her brother even if she thinks he's stupid in some ways. She only really cares about a select few close to her, who she prioritizes above all else, her love is given differently depending on the person though, Azhar often getting lectured and bullied a bit, while Amir gets treated like a baby brother she gets to dote on. Throughout the story she becomes more open and appreciative, being the one that wanted to travel most, and becoming very expressive even with body language the moment it properly sinks in that they're living their own lives.
 
@@ -101,7 +101,7 @@ Maybe she can summon orbs or so, everything inside of those orbs just become are
 > 
 > Practicing, reptiles, stubbornness and obtusity
 
--  Sarah never gets a nickname from the siblings, cause they AKA I couldn't think of one, which she is very pouty about.
+-  Sarah never gets a nickname from the siblings, cause they AKA I couldn't think of one, which she is very annoyed and pouty about.
 - Hajar means 'to flee', 'flight', being what the siblings do, while their old surname Hajjar means 'Weight', chosen cause they ground Amir.
 - Sarah means 'lady, princess, noblewoman', this name was partially chosen cause its more global, reflecting her both her desire to live the country and of wanting to have power.
 - Originally Sarah was going to be the queen of Limbo together with Azhar in previous attempts of making the story.
