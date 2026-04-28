@@ -20,7 +20,7 @@
 > | Affiliation | [[Ith]]|
 > | Charqü | None |
 
-Azhar one of the deuteragonist of Pre-Human, He is the son of Salman and Fida Hajar. He is also the older brother of [[Sarah Hajar]] who he leaves their home village of [[Aintidina]] with. He is one of the [[Patron#Marks|marks]] of [[Ith]].
+Azhar, called Az by most, is one of the deuteragonist of Pre-Human, He is the son of Salman and Fida Hajar. He is also the older brother of [[Sarah Hajar]] who he leaves their home village of [[Aintidina]] with. He is one of the [[Patron#Marks|marks]] of [[Ith]].
 
 He lived most of his life tasking away for his family, most of this being acting as both a guardian and scape-goat for [[Sarah Hajar]] who was gonna be married off. His free time was mostly spent helping others or with [[Samir Hidayat]] who acted as a brother mentor figure.
 
