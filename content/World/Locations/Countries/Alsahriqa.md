@@ -1,3 +1,5 @@
 Giant thin cloths in the sky? Will look really cool, maybe theyre sometimes cleaned and then put back in place with bows, tying in one corner and then shooting it across streets onto a board where someone ties it up and then shoots it again. This is for shade and is also cool lol
 
 The capital name is the same as the kingdom name, cause the king basically went "hey join us or be ostracized", the capital which he led became very big and was basically his domain while the rest which is also under his rule, he didnt take as much accountability for and were more just him having a lot of territory
+
+4 sections, the inner city which is limited and luxurious, then 3 sections named after the first kings wives (tradition for the king to take 3 official wives), each district is ruled by a governor with their right hand men being called a Quarter Vizier

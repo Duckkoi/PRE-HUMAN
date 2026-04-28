@@ -24,6 +24,10 @@ Maybe they plan to sleep in someone's stable who wakes them up in the morning wi
 Sarah grabs both realizing that negotiations are over and they run towards the city and maze like streets and eventually accidentally trip over someones flower pot at the end, this being the florist who is very forgiving cause of the siblings sincerity, they explain how theyre basically on a trek and she teaches them, with mostly azhar remembering (cause hes responsible but also that the florist is pretty and hes finally interacting with someone lol)
 
 They ask about the pretty flower they see everywhere being a Vivi something flower that means something the along the lines of great determination, enduring, wonder. Maybe sarah goes like "oh u want this one?" or "lets try it on you" and puts it on amir as a very temporary hair ornament. This is to hide that vivi is his first word and give it a natural reason and integration. The name vivi shouldnt come up anymore unti lthe end of the branched castle
+They should eventually run into a field of vivi flowers at the end of the first arc so amirs first word is vivi
+
+
+In the prologue sarah should be a concubine to a guy that dislikes socializing, them having met at some point and her being one of the rare people he took a liking to, also to go against tropes he should look decent at least, idea is that he looks good but seems very walled off and uninterested in things but not lacking confidence. Mainly to sell the idea that another route could have happened and that its not just destiny saving her
 
 
 POST HUMAN IDEA

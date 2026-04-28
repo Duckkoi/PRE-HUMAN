@@ -1,5 +1,5 @@
 > [!infobox]
-> # Azhar Hajjar
+> # Azhar Hajar
 > ![[character-image.png]]
 > *Az · Child of Ith*
 >
@@ -28,7 +28,7 @@ Unlike Sarah, his desire to change his life wasn't as strong, nearly not boardin
 
 ## Appearance
 
-Azhar is by far the tallest of the main trio, and also the most well-built with broad shoulders. He has average length, ruffled hair with a deep indigo tint. His eyes share that color, but are more vibrant, his eyes are fairly sharp which gives him a slight mean face even if his natural expression is relaxed.
+Azhar is by far the tallest of the main trio, and also the most well-built with broad shoulders. He has average length, dark, ruffled hair with a deep indigo tint. His eyes share that color, but are more vibrant and beautiful, though his eyes are fairly sharp which gives makes him unapproachable for most when paired with his stature, even if his natural expression is relaxed.
 
 Azhar is very physically active, reflected by his body looking fairly chiseled and his hands especially being calloused. Unlike [[Nikhil Nicolas|Amir]] and Sarah, Azhar usually wears function-first clothing, being more resourceful, he also always has a rucksack, carrying most of the trio's supplies. While not caring much about being fashionable initially, he does wear rings and has a tattoo given by Samir long ago, hoping to give Azhar more individuality.
 

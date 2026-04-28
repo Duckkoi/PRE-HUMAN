@@ -9,7 +9,7 @@ A vessel refers to anything inhabited by [[Charqye|charqü]], with the ones of n
 
 ## Blighted Charqü
 
-Being the vessel of a blighted charqü is fairly straightforward, the vessel benefits from a passive form of regeneration derived their singular trait of 'being', remaining as they are. This goes for objects too, but as there's no natural healing its less effective. On the other end you have active usage which is generally enhancing enhancing and forcefully 'being more' which means over-regenerating.
+Being the vessel of a blighted charqü is fairly straightforward, the vessel benefits from a passive form of regeneration derived their singular trait of 'being', remaining as they are. This goes for objects too, but as there's no natural healing its less effective. On the other end you have active usage which is generally enhancing enhancing and forcefully 'being more' which means over-regenerating, the application varies widely though, some being able to mimic others or being able to clone themselves, though these are al temporary as it's not themselves anymore.
 
 > This does not mean that they halt aging in any way as aging is the natural state life is in, this also includes chronic health conditions, the only way to cure these is to learn how to control said blighted charqü and curing yourself while keeping it dormant can be very taxing.
 
