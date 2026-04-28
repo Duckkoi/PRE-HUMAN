@@ -66,7 +66,7 @@ Samir acted as Azhar's own mentor and elder brother figure, cause Samir saw his 
 
 The time they spent together was partially spent helping Azhar with his own chores, but through his persuasion of Azhar's parents, they were able have a good bit of free time together. Samir introduced him to a bunch of hobbies, trying to build a sense of agency for Azhar, the ones he picked up being sand sailing, polearms and art. He promised Azhar a job once he managed to found his own company, planning to take him along when sailing.
 #### [[Devi Vincine]]
-Devi has a good opinion of Azhar, being glad that Nikhil is in good hands, even if admittedly envious. While she doesn't per se care about Azhar at first, even when they connect with their shared love of creative arts, this is due to her wariness and natural detached nature. She eventually opens up Azhar, being less like her mature, walled off self and even joins in on Sarah's and Nico's bullying of Azhar.
+Devi has a good opinion of Azhar, being glad that Nikhil is in good hands, even if admittedly envious. While she doesn't per se care about Azhar at first, even when they connect with their shared love of creative arts, this is due to her wariness and natural detached nature. She later in the story opens up Azhar, being less like her mature, walled off self and even joins in on Sarah's and Nico's bullying of Azhar.
 
 As the next oldest between her, Azhar, Sarah and Nico, she does try and let Azhar rely on her too, being more solicitous and even more mellow than she is with Nico. She eventually also teacher Azhar shepherd basics, allowing the group to traverse the world easier.
 
@@ -84,7 +84,7 @@ Azhar is very uncomfortable with the idea of being a living vessel, to the point
 
 > **To-see Eye**
 > 
-> Created and sadly named by Erwin. It's a custom-made prosthetic eye that allows the user to see whatever they consider 'necessary' and as such isn't passively active, not even appearing when wanted. While quirky, it's capable of X-ray, soft foresight, depth focus and even to what extent something is affected by [[Charqye|charqü]]. Weirdly enough, its fairly squishy while looking stone-like.
+> Created and sadly named by Erwin. It's a custom-made prosthetic eye that allows the user to see whatever they consider genuinely 'necessary' and as such isn't passively active, not even appearing when wanted. While quirky and annoying, it's capable essentially looking through obstructions, seeing long distances, seeing a likely future and even to what extent something is affected by [[Charqye|charqü]]. Weirdly enough, its fairly squishy while looking stone-like.
 
 I have more planned, like 3 reusable roped grenades and stuff like that
 
