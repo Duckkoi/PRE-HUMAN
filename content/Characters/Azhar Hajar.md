@@ -72,47 +72,34 @@ As the next oldest between her, Azhar, Sarah and Nico, she does try and let Azha
 
 ## Equipment & Abilities
 
-Out of the main trio, Azhar is the one that carries most of their supplies, especially so early in the story, being a bit of a packmule since Sarah doesn't want her and Amir carrying much, though this habit disappears pretty quickly. Azhar almost always has a weapon on him, mainly his Takoba (a sword) as it's lighter, but he prefers using his halberd, being able to have more control over the fight.
-#### [[Handlers|Tool Vessels]]
- Amir's charqü allows him to control the pressure he interacts with using his body. Examples are increasing the force by decreasing area of effect and the reverse. This gives him various options that mostly Nikhil utilizes: Hitting an opponent from range by hitting another object, trading force for area, ignoring defenses, transforming blunt into pierce into slice and so on and even compressing to generate heat. 
- 
- By generating heat, Amir is capable of burning, melting and technically vaporizing. Amir uses this to ignite his incendiaries. He can also increase his physical abilities by negating their forces on him, though this is all difficult to perform and can be dangerous, which means he usually doesn't do this.
+Out of the main trio, Azhar is the one that carries most of their supplies, especially so early in the story, being a bit of a packmule since Sarah doesn't want her and Amir carrying much, though this habit disappears pretty quickly. Azhar almost always has a weapon on him, mainly his Takoba (a sword) as it's lighter, but he prefers using his halberd, being able to have more control over the fight and swinging people around instead of stabbing them.
 
-> **Pierce** 
-> 
-> A simple ranged attack where he pulls his fist back and his other hand pointing forward as if using a bow, waiting and focusing so he can transfer every force affecting him to the attack. Then simply punching his own palm as he quickly brings it closer.
+His rucksack contains more than others are even aware of, wanting to be prepared for a lot of situations
+#### [[Handlers|Vessel Tools]]
+Azhar is very uncomfortable with the idea of being a living vessel, to the point of disliking that Sarah chose to be one and prefers using Vessels Tool. While he's very sturdy, his actual strength is his hand-eye coordination and precision, turning him into a more dexterity focused combatant. 
 
-> **Blighted charqü**
+> **Living Bough** 
 > 
-> Due to his blighted charqü, while weak, he has greater physical abilities than the average person and is able to regenerate, though this is in exchange for his memories as his blighted charqü can't handle maintaining his body and psyche at the same time. He also eventually gains the ability to over-regenerate, though he dislikes doing this. Unlike most blighted charqü vessels, Amir can still get poisoned very easily which is his biggest weakness. He also has trouble regenerating as fast as most. This is again because its mostly being used to maintain his psyche.
+> A tool vessel of unknown origin, it can grow into whatever shape the user needs, being able to become sturdier and more flexible as well. Azhar mostly uses this as a multi-purpose tool, mostly a fishing rod and lockpick, but also for surprise attacks. He eventually loses it due to overuse, with it growing into a full tree. (WIP - maybe he grabs another bough and that's how he found it in the first place)
 
-At first Amir doesn't carry anything as [[Azhar Hajar|Azhar]] and [[Sarah Hajar|Sarah]] felt too guilty making someone who can't say no do work, though once he becomes more 'human', hes quickly put to work and carries a rucksack with general supplies, just like the siblings. Along side that he also carries self-made gadgets, though these are discarded once he fully becomes Nikhil
+> **To-see Eye**
+> 
+> Created and sadly named by Erwin. It's a custom-made prosthetic eye that allows the user to see whatever they consider 'necessary' and as such isn't passively active, not even appearing when wanted. While quirky, it's capable of X-ray, soft foresight, depth focus and even to what extent something is affected by [[Charqye|charqü]]. Weirdly enough, its fairly squishy while looking stone-like.
 
-> **Improvised incediary**
-> 
-> Amir always has 4+ self made incendiary grenades that he makes with anything he can find, tree sap, dried leaves, peat. He ignites them by compression and increasing heat using his charqü.
-> 
-> **Modified Geta**
-> 
-> He wears a pair of wooden Geta, his right one is modified with a blade which springs out of the front once spinning the gear in the back. It's poorly made and has to be reset after use.
-> 
-> ![[Pasted image 20260423012915.png|236]] (great art)
-
+I have more planned, like 3 reusable roped grenades and stuff like that
 
 ## Notes
 
 > **Likes**
 > 
-> As Nikhil: Knights, ruins, festivals, high places
-> As Amir: Tinkering, stories, competition
+> Salty and smoked food, stories, art
 
 > **Dislikes**
 > 
-> As Nikhil: Stables, bees and wasps, irrationality
-> As Amir: Reptiles, mushrooms, high places
+> Smoked food, insensitivity, idea of concubines
 
--  As Amir he doesn't really get flustered often, mostly cause of Sarah, meanwhile Nikhil does.
-- Nikhil means to be 'complete, whole', while Amir means 'prince', named by Sarah as her 'little brother' had to be important if she was gonna be important herself.
-- His last name, Nicolas, stands for 'Santa Claus, gift bearer' and 'Victory for the people', the former relating to him and the latter to his brother.
-- The crescent in his eyes is a visual trait symbolizing the ego's and memories inside him, the same crescent appearing on Fiorente's flag.
+-  Azhar was apparently first going to be a very cold character, but that got in the way of the story. (i dont even remember this but its in the old wiki lol)
+- Hajar means 'to flee', 'flight', being what the siblings do, while their old surname Hajjar means 'Weight', chosen cause they ground Amir.
+- Azhar means 'shining, brilliant, bright', this name was partially chosen cause its less global, reflecting his reluctance to leave the country.
+- Originally Azhar was going to be the king of Limbo together with Sarah in previous attempts of making the story.
 
