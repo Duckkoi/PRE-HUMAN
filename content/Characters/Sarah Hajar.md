@@ -20,7 +20,7 @@
 > | Affiliation | [[Ith]] |
 > | Charqü | Healthy |
 
-Sarah is one of the deuteragonist of Pre-Human, He is the son of Salman and Fida Hajar. She is [[Azhar Hajar]] 's younger brother who she drags along with her onto the ship that starts the story, meeting and naming [[Nikhil Nicolas|Amir]] and eventually becoming a [[Patron#Marks|mark]] of [[Ith]]
+Sarah is the daughter and second child of Salman and Fida Hajar. She is [[Azhar Hajar]] 's younger brother who she drags along with her onto the ship that starts the story, meeting and naming [[Nikhil Nicolas|Amir]] and eventually becoming a [[Patron#Marks|mark]] of [[Ith]]
 
 Sarah is very double-faced, being extremely soft and kind on the surface, but selfish and irritable on the inside. This is due to responsibility and position as potential concubine, to improve their village's standing but having to sacrifice her own agency and desires.
 
@@ -89,7 +89,7 @@ Maybe she gets another charqü that she absorbs, allowing her to have more freed
 
 Maybe the effects of her illusions can have permanent effects, such as scorch marks and burns or proper temporary blindness.
 
-Maybe she can summon orbs or so, everything inside of those orbs just become areas that she can control, illusions only though.
+Maybe she can summon orbs or so, everything inside of those orbs just become areas that she can control, illusions only though. Or these orbs are vessel tools, cause of training this is possible
 
 ## Notes
 
