@@ -15,7 +15,9 @@ A possible goal can just be rending the cradle of threats, anyways the goal shou
 
 Azhar should be treated as a packmule by sarah early in the story, but this disappears quickly. Azhar should be in danger with ann animal or so pretty quick due to being less mobile, but gets saved by amir, here amir should be able to really show off his strength, with azhar feelingn conflicted about amir being an unknown factor but being saved.
 
-Amir should get hurt, chunk out of his side, wall thins and nikhil's influence grows stronger, quietly cussing and talking to himself like "fucking hurts you know", but goes on doing what he does
+Amir should get hurt, chunk out of his side, wall thins and nikhil's influence grows stronger, quietly cussing and talking to himself like along the lines of "fucking hurts you know", but goes on doing what he does
+
+Its public that nikhils father got murdered but no culprit, nikhil os annoyed how people didnt try long enough on figuring out who it was, maybe a scene where he asks the culprit "it was you, wasnt it" as hes brash and managed to figure some things out
 
 Just murder samir, having him have his own journey where he meets and loses people, possessions and maybe even an arm, the results of a normal man that wasnt really supposed to be in the current slipping in, either breaking him mentally and dying in a similar way to Amir or him staying the 'greatest' character (cause of what he does for the trio) and dying with a smile, maybe for the trio even
 

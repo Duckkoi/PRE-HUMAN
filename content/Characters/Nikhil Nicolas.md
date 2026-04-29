@@ -42,7 +42,7 @@ Nikhil himself is a bit of an enigma, being both like- and unlikeable. He has a 
 
 ## Background
 
-From a young age Nikhil was a cheeky and prideful boy with a sense of precocity and agency. Aspiring to join the armed forces along side his father and brother, he spent a lot of time  running around, practicing and studying. As he comes from a family that's fairly prestigious and very well off, having a large house with servants and land. Most of his free time was spent with a large variety of friends, though more often than not accompanied by [[Devi Vincine]].
+From a young age Nikhil was a prideful and slightly cheeky boy with a sense of precocity and agency. Aspiring to join the armed forces along side his father and brother, he spent a lot of time  running around, practicing and studying. As he comes from a family that's fairly prestigious and very well off, having a large house with servants and land. Most of his free time was spent with a large variety of friends, though more often than not accompanied by [[Devi Vincine]].
 
 Later on, after the death of his father, [[Enzo Nicolas]], caused by [[Ith]], his family fell apart, during this time the whole family was marked by [[Ith]] out of respect to [[Enzo Nicolas|Enzo]], both his service and that he managed to learn so much about the world, charqü and had ambition. His mother grew more and more paranoid to unhealthy amounts, that together with his brother taking the chance to leave, forget and start his own life Nikhil was left alone in an unstable household, as such he became more foulmouthed and excessively defiant, often running away home and spending his time working and training. During this time only a handful of his connections stayed healthy.
 
@@ -76,7 +76,7 @@ Due to the many ego's and memories Amir has received, he has a lot of random kno
 As [[Nikhil Nicolas]] he is way more proficient and decisive, having properly practiced and studied the above and in general being less passive, also making proper use of his charqü, though he is less experimental and does what he trusts will work.
 
 #### [[Charqye|Charqü]] 
- Amir's charqü allows him to control the pressure he interacts with using his body. Examples are increasing the force by decreasing area of effect and the reverse. This gives him various options that mostly Nikhil utilizes: Hitting an opponent from range by hitting another object, trading force for area, ignoring defenses, transforming blunt into pierce into slice and so on and even compressing to generate heat. 
+ Amir's charqü allows him to control the pressure he interacts with using his body. Examples are increasing the force by decreasing area of effect and the reverse. This gives him various options that mostly Nikhil utilizes: Hitting an opponent from range by hitting another object, trading force for area, ignoring defenses, transforming blunt into pierce into slice and so on and even compressing to generate heat. He eventually figures out how to store this energy for a short amount of time.
  
  By generating heat, Amir is capable of burning, melting and technically vaporizing. Amir uses this to ignite his incendiaries. He can also increase his physical abilities by negating their forces on him, though this is all difficult to perform and can be dangerous, which means he usually doesn't do this.
 

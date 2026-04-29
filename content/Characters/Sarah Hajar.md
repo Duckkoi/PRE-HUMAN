@@ -99,7 +99,7 @@ Maybe she can summon orbs or so, everything inside of those orbs just become are
 
 > **Dislikes**
 > 
-> Practicing, reptiles, stubbornness and obtusity
+> Grunt work, reptiles, stubbornness and obtusity
 
 -  Sarah never gets a nickname from the siblings, cause they AKA I couldn't think of one, which she is very annoyed and pouty about.
 - Hajar means 'to flee', 'flight', being what the siblings do, while their old surname Hajjar means 'Weight', chosen cause they ground Amir.
