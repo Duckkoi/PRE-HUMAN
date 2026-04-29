@@ -17,34 +17,41 @@
 > |--|--|
 > | Relatives | ??? (Father), ??? (Mother)|
 > | Occupation | ? |
-> | Affiliation | The Hermit |
+> | Affiliation | The Hermit, [[The Branched Castle]] |
 > | Charqü | Blighted |
 
-Amir, also called his birthname Nikhil and later Niko, is the second son of [[Enzo Nicolas|Enzo 'Lakshman' Nicolas]] and [[Rosalinda Nicolas]], and the younger brother of [[ Luca Nicolas]] who he once lived with in [[Fiorente]]. The name Nikhil was given to him early on by [[Sarah Hajar]] who he now travels with including [[Azhar Hajar]], though some still use his birthname. He is the vessel of both a [[Charqye]] and a weak [[Charqye|blighted charqü]] and a [[Patron#Marks|mark]] of [[Ith]].
+Devi is the first, and sole true mark of [[The Hermit]]. She is the only child of X and Y who she lived with in [[Fiorente]] and [[Nikhil Nicolas|Nikhils]] 's childhood friend. She is also the vessel of a [[Charqye|blighted charqü]] and a very talented [[Handlers#Shepherds|shepherd]].
 
-After his family fell apart due to the death of his father, he lived a troubled life mostly accompanied by two close friends. When his country was affected by "[[The Bleeding]]", Nikhil was one of its victims, becoming one of the [[shells]] being taken care of in his brother’s survivor group.
+Growing up, Devi was a quiet girl, but not necessarily shy. She spent a lot of time orbiting Nikhil and integrated into his household, being adored by everyone in it including the staff. While she often visited, she still lived with her father and fairly sickly mother who both loved her as well. The contact she and her family had with the Nicolas household disappeared after the death of [[Enzo Nicolas]], excluding Nikhil who often visited her instead.
 
-He eventually awakens alone in a desert village, only seemingly a blank slate with no identity, starting his journey with the siblings [[Azhar Hajar]] and [[Sarah Hajar]].
+After the [[Bleeding]], she joined [[Luca Nicolas]] 's survivor-party and ended up taking care of Nikhil, going as far as to trail behind them alone when they planned to abandon all shells. She eventually collapsed and woke up in [[The Branched Castle]], but without Nikhil. 
 
 ## Appearance
 
-Due to Devi's char
+Due to Devi's [[Charqye|charqye]], she's able to morph and change what she looks like, but doesn't like doing this much. She is of average height, being a bit shorter than Sarah, but notably more well-figured and curved. Though her most noticeable trait are her eyes, being a striking rich yellow, being simultaneously beautiful and unnerving yet aloof, paired with her black lashes also being fairly long and sharp.
+
+Her hair is black and layered, having a wolf cut with the tips curling and curving inward towards her eyes, with the other layer being simply long hair reaching up to her chest. Her bangs are loosely parted  on the left, also curving in the direction of her eyes, but not covering them. Devi's face is pretty, her natural expression looking calm and aloof, but a bit watching in a way. 
+
+While Devi enjoys making others and herself look presentable, she doesn't seem to always care about what she wears and has no preferred clothing style, being content as long as she wears something that fits her. This ends up mainly being clothes that look victorian and dignified, with corsets, laces, frills and buttons, yet not always feminine (think romanticized Italian/French). Her wearing exactly this but with an overskirt on top, but she has trouble walking on heels.
 
 ## Personality
 
-Amir, being a [[Shells|shell]], is greatly affected by ego dissolution and depersonalization, having seemingly no will early on and simply doing as instructed. As the story goes on he steadily changes with two forces, first simply being his surroundings and experiences as Amir, he naturally mostly influenced by his traveling companions [[Azhar Hajar|Azhar]] and [[Sarah Hajar|Sarah]], slowly but surely becoming his own person. Amir eventually grows to become more outspoken, bubbly and kind, heavily taking after the two siblings, though staying more on the passive side.
+Devi is an extremely sharp, tenacious and intelligent woman, though a bit weird and unusual at times, she keeps people at a distance and prefers spectating while just blending in, not allowing anyone to know, think much or worry about her. This is a mix of a lack of necessity, safeguards and simply enjoying being mysterious, her enjoying throwing people for a loop and messing with them. She naturally has both an air of mystique and maturity but remains witty, she's very aware of what she looks and feels like from other's perspective and prefers keeping her image up, becoming a bit flustered whenever caught off guard or slipping up, which results in her zoning out, recalibrating and 'ahem-ing'.
 
-The other force is his original self, Nikhil. Due to the [[Charqye|blighted charqü]] residing within him Amir is able to live and function with the blighted charqü managing his psyche, though whenever amir is sufficiently wounded, the charqü favors healing his body and sacrifices memories and such so that he stays functioning. This often thins the wall between Amir and Nikhil, with the prior having fears relating to this and the latter, while mostly buried, having moments of greater influence and eventually inevitably taking control, ending with Nikhil becoming whole again. When Nikhil does eventually regain control, he grows to become a mix of who he was (Nikhil) and who he has become (Amir). Over time habits and hobbies Amir picked up are shown in Nikhil, such as tinkering and camera pose.
+She barely takes interest in things, her passions being able to be counted in single digits, which causes her to in turn become extremely devoted and fixated on what she does like, completely immersing herself into it she genuinely finds intriguing. She's been this way since young, silently orbiting around [[Nikhil Nicolas|Nikhil]] who's undauntable air she was very interested in, him becoming her first proper interest and opening the gate to other passions, the only time she came close to giving up being when even this core quality seemed lost in Amir after the whole rollercoaster and thinking he was dead. 
 
-Nikhil himself is a bit of an enigma, being both like- and unlikeable. He has a strong personality, being foulmouthed, very direct, decisive and is notably unwilling to betray personal principles. Though he's also very respecting of people and prefers to see everyone, including those above him, as equal. An extension of this is even in how he carries himself, he very much feels undauntable, bringing his own "simple" energy, he does become blunt when annoyed. While his personality does not suggest it, Nikhil is very intelligent, together with a principle of his being accountability he ends up as a pillar for many.
+Devi is extremely perceptive and hypervigilant, first naturally, then with her position as a commoner close to nobles even if it was house Nicolas, then the [[Bleeding]] and eventually [[The Branched Castle]] where she kept track of everything [[The Hermit]] did, though this is not something that wears her out at all and is how she prefers being. The only time she lets down her guard and in general is way more impulsive and thrill-seeking is when with Nikhil, where she stays herself but also a bit clingy, needy and overthinking.
+
+Meeting Amir when he came to [[The Branched Castle]] was the only time that she lost composure and stability, being unable to trust herself like she usually does and anxiously overthinking. Though after Nikhil's short words she manages to pick herself up and devotes herself to self improvement and regaining her freedom, allowing her to eventually join the trio at intervals, she eventually grows to become more gleeful, while staying mysterious as she likes it.
 
 ## Background
+
 
 From a young age Nikhil was a cheeky and prideful boy with a sense of precocity and agency. Aspiring to join the armed forces along side his father and brother, he spent a lot of time  running around, practicing and studying. As he comes from a family that's fairly prestigious and very well off, having a large house with servants and land. Most of his free time was spent with a large variety of friends, though more often than not accompanied by [[Devi Vincine]].
 
 Later on, after the death of his father, [[Enzo Nicolas]], caused by [[Ith]], his family fell apart, during this time the whole family was marked by [[Ith]] out of respect to [[Enzo Nicolas|Enzo]], both his service and that he managed to learn so much about the world, charqü and had ambition. His mother grew more and more paranoid to unhealthy amounts, that together with his brother taking the chance to leave, forget and start his own life Nikhil was left alone in an unstable household, as such he became more foulmouthed and excessively defiant, often running away home and spending his time working and training. During this time only a handful of his connections stayed healthy.
 
-When [[The Bleeding]] ravaged their country, Nikhil's brother reunited with him, knowing of the situation beforehand and wanting to save as many as he could creating a survivor-party, their goal simply being running as far away as possible The group notably included Nikhil, [[Luca Nicolas]] and [[Devi Vincine|Devi]]. Sadly some including Nikhil were still affected and turned into [[shells]], the affected having their psyche's shared and as such all losing their ego's. Although Nikhil was affected he was well taken care of considering the circumstances, being favored cause of his brother being the leader and [[Devi Vincine|Devi]] spending most of her time tending on him.
+When the [[Bleeding]] ravaged their country, Nikhil's brother reunited with him, knowing of the situation beforehand and wanting to save as many as he could creating a survivor-party, their goal simply being running as far away as possible The group notably included Nikhil, [[Luca Nicolas]] and [[Devi Vincine|Devi]]. Sadly some including Nikhil were still affected and turned into [[shells]], the affected having their psyche's shared and as such all losing their ego's. Although Nikhil was affected he was well taken care of considering the circumstances, being favored cause of his brother being the leader and [[Devi Vincine|Devi]] spending most of her time tending on him.
 
 Due to the journey becoming more and more dangerous, with more falling ill or dying, and the shells showing no sign of recovering. [[Luca Nicolas|Luca]] made the hard decision to abandon the shells one by one, including Nikhil. Naturally [[Devi Vincine|Devi]] was strongly against this, she eventually ran away with him, trailing behind the main group until she inevitably collapsed and was then taken by [[The Hermit]]. 
 !WIP! (thinking silly auntie pro shepherd who knows a lot about the world and its system and knows he'll be ok with enough time and care) After this Nikhil was found and slowly recovered with the help of ???, this is how he obtained his charqü, though their travels didn't last very long and they eventually separate, Nikhil then waking up in [[Aintidina]].
@@ -59,11 +66,11 @@ Sarah is travelling with Amir and Azhar. The name Amir has been given to him by 
 
 Sarah is surprisingly the one more affected by Amir's "death", being completely unaccepting of the "Nikhil" identity. She comes to deeply care for Nikhil as well though and stops seeing them as different people.
 #### [[Devi Vincine]]
-Devi adores and greatly loves Nikhil, even after the events that transpired in their history. When they were young, Devi was almost always orbiting Nikhil, even joining in on his studies and in general spending time with the whole Nicolas household. Out of the friends Nikhil had, only three of them including Devi stayed in proper contact after the family's falling out. She seemed indifferent to her friends, though she did like and care for each of them. After the events of [[The Bleeding]] Devi was a part of [[Luca Nicolas|Luca's]] survivor group, she was mainly caring for Nikhil during the whole journey, strongly opposing Luca's decision of abandoning Nikhil, even after showing no sign of improvement.
+Devi adores and greatly loves Nikhil, even after the events that transpired in their history. When they were young, Devi was almost always orbiting Nikhil, even joining in on his studies and in general spending time with the whole Nicolas household. Out of the friends Nikhil had, only three of them including Devi stayed in proper contact after the family's falling out. She seemed indifferent to her friends, though she did like and care for each of them. After the events of the [[Bleeding]] Devi was a part of [[Luca Nicolas|Luca's]] survivor group, she was mainly caring for Nikhil during the whole journey, strongly opposing Luca's decision of abandoning Nikhil, even after showing no sign of improvement.
 
 After Devi's decision to secretly take Nikhil and trail behind the group, she eventually collapsed as the journey became too hard, unmarked by [[Ith]] or any patron, [[The Hermit]] took her in. She has since deteriorated in mental health, thinking Nikhil was dead. She had many mixed emotions about their reunion and meeting "Amir" instead of "Nikhil", refusing to call him the former. She later on acts as a shepherd for him and the trio.
 #### [[Luca Nicolas]]
-Before the [[The Bleeding]], Nikhil and Luca had a healthy relationship. He was a role model for Nikhil as they were both striving to become a core part of [[Fiorente]] 's armed forces. He was a very kind and doting brother, though the older he got the less they could see each other. When their [[Enzo Nicolas|father]] died, Luca steadily distanced himself from his family, unable to do anything for his grieving and paranoid mother, nor for his brother. After [[The Bleeding]] he takes Nikhil along with him to escape the country, but after Nikhil becoming a shell and not recovering, he eventually made the hard decision to abandon him for the sake of his survivor group, which he still regrets and feels incredibly guilty for, seeking to be understood when reuniting.
+Before the [[Bleeding]], Nikhil and Luca had a healthy relationship. He was a role model for Nikhil as they were both striving to become a core part of [[Fiorente]] 's armed forces. He was a very kind and doting brother, though the older he got the less they could see each other. When their [[Enzo Nicolas|father]] died, Luca steadily distanced himself from his family, unable to do anything for his grieving and paranoid mother, nor for his brother. After the [[Bleeding]] he takes Nikhil along with him to escape the country, but after Nikhil becoming a shell and not recovering, he eventually made the hard decision to abandon him for the sake of his survivor group, which he still regrets and feels incredibly guilty for, seeking to be understood when reuniting.
 #### Other friend
 Dunno yet but i want another friend to give him the nickname Niko as devi shouldnt get everything and is more spectating at this point, though devi does get a bit jealous and wants her own nickname 
 
@@ -121,26 +128,7 @@ At first Amir doesn't carry anything as [[Azhar Hajar|Azhar]] and [[Sarah Hajar|
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Devi vincine = De vinci
 
 
 Ive started adding the notes from my ideas and thoughts page to where they eventually end up

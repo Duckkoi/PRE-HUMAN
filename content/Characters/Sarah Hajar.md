@@ -28,7 +28,7 @@ She eventually makes the impulsive decision to run away on a ship, Azhar followi
 
 ## Appearance
 
-Sarah is a bit over average height, being only a miniscule amount taller than Amir, fueling her excuse to be an older sister. She has beautiful wavy, long hair with curtain bangs, all with a purple-ish gradient tint, though she quickly replaces this with an average length ponytail and layered bangs. Unlike like Azhar, her best feature ends up being her eyes, being properly purple and vibrant, and no mean-face as her eyes aren't sharp. Her face looking more innocent and bubbly as well, which is ruined by her personality and expressions when revealed.
+Sarah is a bit over average height, being only a miniscule amount taller than Amir, fueling her excuse to be an older sister. She has beautiful wavy, long hair with curtain bangs, all with a purple-ish gradient tint, though she quickly replaces this with an average length ponytail and layered bangs. Unlike like Azhar, she doesn't have a natural mean look, her eyes being bigger and also properly purple and vibrant. Her face looking more innocent and bubbly as well, which is partially ruined by her overall attitude.
 
 Body wise, Sarah is on the thin and slim side, as she hasn't had to do much physical labor, leading to her having trouble keeping up with Azhar and Amir at the start of the journey, though eventually properly pulling her own weight.
 
@@ -70,7 +70,7 @@ It's only after Samir returns from a trip and learns of Sarah's position that he
 #### [[Devi Vincine]]
 At first Devi's opinion on Sarah was 'a bit worrisome' at first, due to learning of her position as someone's, being Amir's, main influence, though this quickly faded into respecting her more, being happy to listen to her rambles and entertain her here and there during the sibling's time at [[The Branched Castle]], thinking she brightens the room. Though just like Azhar, she only starts caring about Sarah later in the story and only being happy that Nikhil was being taken care of at first.
 
-After learning from Devi that Amir was older than her, with her deflating, she quickly jumped to having Devi as the childhood friend of her 'supposed-to-be' younger brother, replace him as younger sister, but deflated again after Devi mentioned that she was older than Amir which was on purpose. In the end Devi does grow a little jealous of Sarah's position and does whatever she can to poke fun at her using her 'superior' position with him. When alone they just talk like normal friends though, with Devi eventually also caring about her as Sarah cares about her.
+After learning from Devi that Amir was older than her, with her deflating, she quickly jumped to having Devi as the childhood friend of her 'supposed-to-be' younger brother, replace him as younger sister, but deflated again after Devi mentioned that she was older than Amir, even when Sarah tries to jump to Sri again Devi says Sri is already claimed, the latter two being on purpose. In the end Devi does grow a little jealous of Sarah's position and does whatever she can to poke fun at her using her 'superior' position with him. When alone they just talk like normal friends though, with Devi eventually also caring about her as Sarah cares about her.
 
 ## Equipment & Abilities
 

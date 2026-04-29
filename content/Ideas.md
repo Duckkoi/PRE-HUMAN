@@ -11,6 +11,8 @@ The auntie looks for amir that was the nameless boy and instead finds samir, who
 
 DRAW A STICK FIGURE IRL AND USE IT AS THE ENDING
 
+A possible goal can just be rending the cradle of threats, anyways the goal should be something that gives a reason for having allies that you might have to turn on later or not
+
 Azhar should be treated as a packmule by sarah early in the story, but this disappears quickly. Azhar should be in danger with ann animal or so pretty quick due to being less mobile, but gets saved by amir, here amir should be able to really show off his strength, with azhar feelingn conflicted about amir being an unknown factor but being saved.
 
 Amir should get hurt, chunk out of his side, wall thins and nikhil's influence grows stronger, quietly cussing and talking to himself like "fucking hurts you know", but goes on doing what he does

@@ -8,4 +8,10 @@ Ith can be special in that hes a blighted creature / blighted vessel / patron mi
 
 They mark people as their property which protects them from other patrons, they all vary in the relationship they have with their mark, some being hands off like Ith, some stern like The Hermit who doesnt let Devi go until hes confident she'll be okay (which is her guess), others being revered and some even having a more intimate relationship such as Luca's patron
 
+Patrons can be a [[Works of the world]]
+
+The thing that makes them unbeatable is that they literally dont die, i gotta figure out why though, should they all be blighted? Its not like normal charqu give regenerative powers
+
 ## Marks
+
+Theres marks and true marks, true marks being more important with the marks having to listen to them, maybe they get perks or so
