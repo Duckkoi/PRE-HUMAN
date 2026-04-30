@@ -52,3 +52,5 @@ Blight often looks desaturated, sick and withered, while blooming affects the su
 
 Shepherds can cause artificial blooming if proficient enough, maybe with their own personality and buffs added, in the power system i want this to look fancy
 Shepherds should get their name in a historical way
+
+---
