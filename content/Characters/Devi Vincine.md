@@ -89,9 +89,9 @@ Will add later, basically she cares about them in a similar way to sarah and azh
 
 Devi relies on three main utilities, which are her ability to shapeshift, her abilities as a shepherd and her general wits. She's incredibly intelligent and has a wide field of knowledge though is not always the best suited to applying it as she's not very athletic, even while being a blighted charqye vessel as she prefers not to use it, leading her to avoid confrontation and preferring supporting another instead. 
 
-She's very good at deduction and is mainly active on the strategy, information-play and mind games side of things, relying mainly on Sri for her physical tasks no matter how mundane.
+She's very good at deduction and is mainly active on the strategy, information-play and mind games side of things, relying mainly on Sri for her physical tasks no matter how mundane. The only thing she always has on her are a knife and a firearm, which she uses sparingly as the bullets she needs are hard to come by.
 #### [[Handlers#Shepherds|Shepherding]] 
-Due to her intellect, knowledge and natural fit, she makes for an especially effective shepherd that's able to use more techniques than most and even overpower other shepherds, she does have a few unusual specialties that other shepherds may not even care or know about.
+Due to her intellect, knowledge and natural fit, she makes for an especially effective shepherd that's able to use more techniques than most and even overpower other shepherds, she does have a few unusual specialties that other shepherds may not even care or know about. She's able to use bridges and dispel lower activity blooming.
 
 > **Silence** 
 > 
@@ -120,7 +120,7 @@ As stated before, Devi dislikes using her blighted charqye which is a distaste t
 
 > **Likes**
 > 
-> Music, exploring, festivals, playing mindgames
+> Music, exploring, festivals, playing mind games
 
 > **Dislikes**
 > 
