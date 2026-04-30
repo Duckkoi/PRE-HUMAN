@@ -15,7 +15,7 @@ Lastly I try to stay more original as to me the sense of wonder fantasy has is t
 
 ## World
 - [[Introduction]]
-- [[Charqye]]
+- [[content/World Compendium/Charqye/index]]
 - [[Locations]]
 
 ## Characters

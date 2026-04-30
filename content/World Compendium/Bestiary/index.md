@@ -1,4 +1,4 @@
 ---
-title: Herbarium
+title: Bestiary
 ---
 Testeststststststtst

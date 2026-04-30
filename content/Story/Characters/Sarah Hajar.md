@@ -79,7 +79,7 @@ Due to Sarah's lack of activity and labor growing up, she's the most out of shap
 She's very talented in reading the room and knowing what people want, which she uses to her advantage when winning favor and haggling. In combat she initially has a Telek, given to her by Azhar as she had to have a weapon, but she eventually gets taught how to use polearms by Azhar and switches to a Ji polearm herself.
 
 She mostly uses her polearm with in a similar way to Azhar's controlling, flinging way. Sarah mainly relies on distorting her targets sense of balance and using push and pull to topple them, she also instead afraid to let go of her weapon and go for cheap shots.
-#### [[Charqye|Charqü]] 
+#### [[content/World Compendium/Charqye/index|Charqü]] 
 While Sarah has a similar opinion on being a living vessel as Azhar at first, she eventually becomes a vessel for a charqü that lets her distort other's senses. Initially she doesn't understand how to use it since its an abstract ability. She eventually mostly uses it to throw her targets sense of balance and distorting vision with blur, dizzying her target, but eventually leans into proper illusions, which she also uses for gambling.
 
 !WIP!

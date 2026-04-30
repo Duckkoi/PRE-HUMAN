@@ -20,7 +20,7 @@
 > | Affiliation | The Hermit, [[The Branched Castle]] |
 > | Charqü | Blighted |
 
-Devi is the first, and sole true mark of [[The Hermit]]. She is the only child of X and Y who she lived with in [[Fiorente]] and [[Nikhil Nicolas|Nikhils]] 's childhood friend. She is also the vessel of a [[Charqye|blighted charqü]] and a very talented [[Handlers#Shepherds|shepherd]].
+Devi is the first, and sole true mark of [[The Hermit]]. She is the only child of X and Y who she lived with in [[Fiorente]] and [[Nikhil Nicolas|Nikhils]] 's childhood friend. She is also the vessel of a [[content/World Compendium/Charqye/index|blighted charqü]] and a very talented [[Handlers#Shepherds|shepherd]].
 
 Growing up, Devi was a quiet girl, but not necessarily shy. She spent a lot of time orbiting Nikhil and integrated into his household, being adored by everyone in it including the staff. While she often visited, she still lived with her father and fairly sickly mother who both loved her as well. The contact she and her family had with the Nicolas household disappeared after the death of [[Enzo Nicolas]], excluding Nikhil who often visited her instead.
 
@@ -28,7 +28,7 @@ After the [[Bleeding]], she joined [[Luca Nicolas]] 's survivor-party and ended 
 
 ## Appearance
 
-Due to Devi's [[Charqye|charqye]], she's able to shapeshift and change what she looks like, but doesn't like doing this much. Naturally she is of average height, being a bit shorter than Sarah, but notably more well-figured and curved. Though her most noticeable trait are her eyes, being a striking rich yellow, simultaneously beautiful and unnerving yet aloof, paired with her black lashes also being fairly long and sharp.
+Due to Devi's [[content/World Compendium/Charqye/index|charqye]], she's able to shapeshift and change what she looks like, but doesn't like doing this much. Naturally she is of average height, being a bit shorter than Sarah, but notably more well-figured and curved. Though her most noticeable trait are her eyes, being a striking rich yellow, simultaneously beautiful and unnerving yet aloof, paired with her black lashes also being fairly long and sharp.
 
 Her hair is black and layered, having a wolf cut with the tips curling and curving inward towards her eyes, with the other layer being simply long hair reaching up to her chest. Her bangs are loosely parted  on the left, also curving in the direction of her eyes, but not covering them. Devi's face is pretty, her natural expression looking calm and aloof, but a bit watching in a way. 
 
@@ -54,7 +54,7 @@ With the rumors around his death, [[Nikhil Nicolas|Nikhil]] growing abrasive and
 
 During her time there, Devi's mental health deteriorated mainly due to her feelings of inadequacy and guilt even if she did all she could, with her overthinking and spiraling extending to thoughts about things she could have done even unrelated to their escape. At first she completely excluded herself from the people in the castle, but eventually opened up due to her actual health deteriorating as well, trying to take better care of herself and picking up piano again. 
 
-She eventually grew close to [[Sri]], who arrived a few months after her, she ended up taking care of her as she was seemingly feral and wild with no one being able to deal with her. Devi ended up teaching her advanced language and manners, becoming a guardian of sorts for a while, eventually she managed to build up the motivation and energy to start studying even without a healthy mental state, this time about [[Charqye]] and the world, with [[The Hermit]] taking an interest in her making Devi his first mark, this also causing another patron close to The Hermit and the castle to establish connections with her.
+She eventually grew close to [[Sri]], who arrived a few months after her, she ended up taking care of her as she was seemingly feral and wild with no one being able to deal with her. Devi ended up teaching her advanced language and manners, becoming a guardian of sorts for a while, eventually she managed to build up the motivation and energy to start studying even without a healthy mental state, this time about [[content/World Compendium/Charqye/index]] and the world, with [[The Hermit]] taking an interest in her making Devi his first mark, this also causing another patron close to The Hermit and the castle to establish connections with her.
 
 ## Relationships
 #### [[Nikhil Nicolas]]
@@ -95,7 +95,7 @@ Due to her intellect, knowledge and natural fit, she makes for an especially eff
 
 > **Silence** 
 > 
-> Devi halts [[Charqye]] activity to what's nearly a complete stop, essentially disabling all living vessels and vessel-tools from working, though she can't use her shapeshifting and other shepherd techniques as they are both charqye related, which is why she has her firearm. She only has trouble with people that don't rely on charqye, such as beastmen, and charqye that are too strong. Even though it still has an effect on the latter, including patrons.
+> Devi halts [[content/World Compendium/Charqye/index]] activity to what's nearly a complete stop, essentially disabling all living vessels and vessel-tools from working, though she can't use her shapeshifting and other shepherd techniques as they are both charqye related, which is why she has her firearm. She only has trouble with people that don't rely on charqye, such as beastmen, and charqye that are too strong. Even though it still has an effect on the latter, including patrons.
 
 > **Artificial Bloom**
 > 
@@ -104,7 +104,7 @@ Due to her intellect, knowledge and natural fit, she makes for an especially eff
 > **Fake Mark**
 > 
 > After realizing that marks are a property, she was able to create convincing temporary fake marks with enough effort, this is something that is extremely hard for her to do though, but allows her to infiltrate and be where she definitely shouldn't be.
-#### [[Charqye|Blighted Charqye]] 
+#### [[content/World Compendium/Charqye/index|Blighted Charqye]] 
 As stated before, Devi dislikes using her blighted charqye which is a distaste that formed due to the events of the [[Bleeding]] she experienced. With her charqye she's able to transform her body and even shapeshift with enough effort. She mostly uses these abilities to catch people off guard.
 
 > **Strengthening** 
