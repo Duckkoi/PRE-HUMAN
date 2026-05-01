@@ -1,7 +1,7 @@
 > [!infobox]
-> # Bastard Sheep
+> # Bouquetsnake
 > ![[character-image.png]]
-> *Canis ovinus*
+> *Anthophis fragrans*
 >
 > ###### Overview
 > | | |
