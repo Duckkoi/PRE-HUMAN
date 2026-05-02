@@ -7,7 +7,9 @@
 > | | |
 > |--|--|
 > | Threat Level | ? |
+> | Temperament | ? |
 > | Sensory | ? |
+> | Social | ? |
 > | Habitat | ? |
 > | Activity | ? |
 > | Fieldnotes | ? |
