@@ -6,7 +6,7 @@
 > ###### Overview
 > | | |
 > |--|--|
-> | Threat Level | ? |
+> | Threat Level | #Deadly |
 > | Temperament | ? |
 > | Sensory | ? |
 > | Social | ? |
