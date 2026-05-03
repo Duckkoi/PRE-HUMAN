@@ -1,3 +1,8 @@
+---
+tags:
+  - Deadly
+---
+
 > [!infobox]
 > # Bastard Sheep
 > ![[character-image.png]]
@@ -6,7 +11,7 @@
 > ###### Overview
 > | | |
 > |--|--|
-> | Threat Level | #Deadly  |
+> | Threat Level | [[PRE-HUMAN/tags/Deadly\|#Deadly]]  |
 > | Temperament | ? |
 > | Sensory | ? |
 > | Social | ? |
