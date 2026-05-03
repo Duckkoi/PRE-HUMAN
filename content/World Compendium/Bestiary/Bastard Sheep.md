@@ -11,7 +11,7 @@ tags:
 > ###### Overview
 > | | |
 > |--|--|
-> | Threat Level | [[PRE-HUMAN/tags/Deadly\|#Deadly]]  |
+> | Threat Level | [Deadly](/PRE-HUMAN/tags/deadly) |
 > | Temperament | ? |
 > | Sensory | ? |
 > | Social | ? |
