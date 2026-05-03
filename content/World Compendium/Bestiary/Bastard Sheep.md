@@ -6,7 +6,7 @@
 > ###### Overview
 > | | |
 > |--|--|
-> | Threat Level | [#deadly](/PRE-HUMAN/tags/deadly) |
+> | Threat Level | [Deadly](tags/Deadly) |
 > | Temperament | ? |
 > | Sensory | ? |
 > | Social | ? |
@@ -17,7 +17,7 @@
 > | Diet | ? |
 > | Value | ? |
 
-TESTESTTEST
+TESTESTTESTING
 Description
 Physiology
 Behavior
