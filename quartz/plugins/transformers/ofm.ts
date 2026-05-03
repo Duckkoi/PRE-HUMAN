@@ -53,7 +53,7 @@ const defaultOptions: Options = {
   parseTags: true,
   parseArrows: true,
   parseBlockReferences: true,
-  enableInHtmlEmbed: true,
+  enableInHtmlEmbed: false,
   enableYouTubeEmbed: true,
   enableVideoEmbed: true,
   enableCheckbox: false,
