@@ -11,7 +11,7 @@ tags:
 > ###### Overview
 > | | |
 > |--|--|
-> | Threat Level | [Deadly]([[tags/deadly|tags/deadly]]) |
+> | Threat Level | #Deadly   |
 > | Temperament | ? |
 > | Sensory | ? |
 > | Social | ? |
@@ -22,7 +22,7 @@ tags:
 > | Diet | ? |
 > | Value | ? |
 
-Pleasekillme 23
+Pleasekillme 234
 Description
 Physiology
 Behavior
