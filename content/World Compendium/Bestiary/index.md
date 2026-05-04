@@ -1,5 +1,6 @@
 ---
 title: Bestiary
+order: "1"
 ---
 
 ##### **Type:**
