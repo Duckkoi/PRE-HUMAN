@@ -6,8 +6,13 @@
 > ###### Overview
 > | | |
 > |--|--|
+> | Type| ? |
 > | Threat Level | ? |
+> | Temperament | ? |
+> | Treatment | ? |
 > | Sensory | ? |
+> | Social | ? |
+> | Effect | ? |
 > | Habitat | ? |
 > | Activity | ? |
 > | Fieldnotes | ? |

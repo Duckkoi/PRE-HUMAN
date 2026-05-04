@@ -11,6 +11,7 @@ tags:
 > ###### Overview
 > | | |
 > |--|--|
+> | Type | ? |
 > | Threat Level | [[tags/Deadly\|Deadly]] |
 > | Temperament | ? |
 > | Sensory | ? |
@@ -28,4 +29,4 @@ Physiology
 Behavior
 Habitat
 Ecology
-Value
+Value [[tags/Deadly\|Deadly]]

@@ -1,11 +1,30 @@
 ---
 title: Bestiary
 ---
-**Threat Level:**
+
+##### **Type:**
+Critter: Unnoteworthy creatures in most contexts
+Beast: fland animal, canines, felines, boars even crocodiles
+Great Beast: Larger and especially dangerous beasts, elephants, polarbear
+Ouranic: Large birds of prey, raptors and such
+Great Ouranic: Most often stronger and larger, but definitely more dangerous, think phoenix thunderbird (not that they exist)
+Folk: Intelligent creatures, often primates, that are intelligent enough to use tools and may work together
+Arthraic: Notable arthropods that are unusually big and are physically dangerous
+Great Arthraic: Incredibly big
+Swarm: Insects that together make one danger
+Pelagic: Aquatic fish like creatures of note, sharks, stingray, smaller whales, orca
+Great Pelagic: Larger and especially dangerous ones, blue whale and such
+Dragon: Dragon family, wyverns, drakes, dragons, wyrm, lung dragon, amphithere, lindwurm
+Leviathan: Largest of ocean creatures
+Titan: Largest of land creatures
+Typhon: largest of air creatures
+
+
+##### **Threat Level:**
 Harmless, Nuisance, Hazardous, Dangerous, Deadly, Ruinous, Catastrophic
 
 
-**Temperament:**
+##### **Temperament:**
 - **Timid**  naturally fearful, avoids conflict
 - **Docile**  simply coexists with you
 - **Wary**  doesn't trust you, watches you
@@ -16,15 +35,15 @@ Harmless, Nuisance, Hazardous, Dangerous, Deadly, Ruinous, Catastrophic
 - **Predatory**  you are prey, it will not stop until it eats you or ur not worth it
 
 
-**Sensory:**
+##### **Sensory:**
 Sight, Scent, Sound, Vibration, Heat, Echolocation, Electroreception
 
 
-**Social:**
+##### **Social:**
 Solitary, Paired, Pack, Herd, Swarm, Colony
 
 
-**Effect**:
+##### **Effect**:
 **Toxicity:** Anticoagulant (Blood Thinner), Cardiotoxin (Heart Poison), Cytotoxin (Cell Poison), Hemotoxin (Blood Poison), Hepatotoxin (Liver Poison), Nephrotoxin (Kidney Poison), Neurotoxin (Nerve Poison), Paralytic (Paralysis Poison)
 
 **Physiological:** Anaphylaxis (Allergic Shock), Asphyxiation (Suffocation), Dehydration (Fluid Loss), Edema (Swelling), Emetic (Vomit-Inducer), Fever (High Temperature), Gastrointestinal (Stomach Upset), Hyperthermia (Overheating), Hypothermia (Body Chill), Infection (Wound Rot), Internal-Bleeding (Hemorrhaging), Respiratory-Distress (Breathing Trouble), Skin-Irritant (Rash/Itch)
@@ -32,15 +51,16 @@ Solitary, Paired, Pack, Herd, Swarm, Colony
 **Neurological:** Cognitive-Impairment (Brain Fog), Convulsions (Seizures), Delirium (Confusion), Euphoria (Intoxication), Hallucination (Visions), Numbness (Loss of Sensation), Paralysis (Loss of Movement), Sedation (Drowsiness), Tremors (Shaking)
 
 
-**Activity**:
+##### **Activity**:
 Diurnal, Nocturnal, Crepuscular, Cathemeral
 
 
-**Diet**:
+##### **Diet**:
 Carnivore, Herbivore, Omnivore,Insectivore, Piscivore, Blood Feeder, Parasite, Filter Feeder, Coprophage
 
 
-
+##### Showcase
+> | Type| ? |
 > | Threat Level | ? |
 > | Temperament | ? |
 > | Treatment | ? |
