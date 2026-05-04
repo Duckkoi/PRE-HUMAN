@@ -34,10 +34,10 @@ tags:
 > | Treatment | X |
 > | Value | High value fur |
 
-Pleasekillme 2345
+
 Description
 Physiology
 Behavior
 Habitat
 Ecology
-Value [[tags/Deadly\|Deadly]]
+Value
