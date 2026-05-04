@@ -2,23 +2,31 @@
 > # Bouquetsnake
 > ![[character-image.png]]
 > *Anthophis fragrans*
->
-> ###### Overview
+> 
+>###### Identification
 > | | |
 > |--|--|
-> | Type| ? |
-> | Threat Level | ? |
-> | Temperament | ? |
-> | Treatment | ? |
-> | Sensory | ? |
-> | Social | ? |
-> | Effect | ? |
-> | Habitat | ? |
-> | Activity | ? |
-> | Fieldnotes | ? |
-> | Size | ? |
-> | Diet | ? |
-> | Value | ? |
+> | Type| [[tags/Critter\|Critter]] |
+> | Threat Level | [[tags/Harmless\|Harmless]] |
+> | Temperament | Docile |
+> | Sensory | Scent, Vibration |
+> | Effect | Neurotoxin, Paralytic |
+> 
+> ###### Biology
+> | | |
+> |--|--|
+> | Social | Solitary |
+> | Habitat | Forest, Grasslands |
+> | Activity | Diurnal |
+> | Size | ~70 cm |
+> | Diet | Carnivore |
+> 
+> ###### Knowledge
+> | | |
+> |--|--|
+> | Fieldnotes | Just don't eat any rodents  |
+> | Treatment | X |
+> | Value | None |
 
 
 Description

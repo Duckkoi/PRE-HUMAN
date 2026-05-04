@@ -36,7 +36,13 @@ largest of air creatures
 
 
 ##### **Threat Level:**
-Harmless, Nuisance, Hazardous, Dangerous, Deadly, Ruinous, Catastrophic
+Harmless, can be basically ignored, especially if you are knowledgeable
+Nuisance, something to take note of at least and maybe prepare for ease
+Hazardous, won't really kill you unless super unlucky, but can ruin plans
+Dangerous, can gravely wound you with potential of death
+Deadly, above you in the food chain
+Ruinous, can kill groups of people
+Catastrophic, just dont
 
 
 ##### **Temperament:**
