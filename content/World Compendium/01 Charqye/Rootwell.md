@@ -1,3 +1,0 @@
-Node connected to [[The Cradle]], also called a faraway well. Due to their nature they are capable of granting wishes in a way, with similar mechanics to how shepherds interact with [[content/World Compendium/01 Charqye/index]], they vary in size and are formed at the points in [[The Wilds]] furthest from human civilization. The idea is that they were at some point used to intentionally cause bleeding or priming
-
-Artificial ones can only take from the cradle, so take information, natural ones can give to the cradle.

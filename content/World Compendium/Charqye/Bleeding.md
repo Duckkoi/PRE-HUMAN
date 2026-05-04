@@ -1,0 +1,3 @@
+Bleeding is when a large amount of [[content/World Compendium/Charqye/index]] blight, chain reacting and bleeding into human civilization, it often follows themes, such as during blighting of fiorente, plants started growing rampantly and creating life where it shouldnt be.
+
+Im thinking that nikhils condition, the memory soup, always happens with a large group of people, as charqu see everything as information including thoughts so it lines up, would be fun maybe but i gotta think of the consequences.
