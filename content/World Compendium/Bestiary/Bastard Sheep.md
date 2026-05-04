@@ -11,11 +11,13 @@ tags:
 > ###### Overview
 > | | |
 > |--|--|
-> | Type | ? |
-> | Threat Level | [[tags/Deadly\|Deadly]] |
+> | Type| ? |
+> | Threat Level | ? |
 > | Temperament | ? |
+> | Treatment | ? |
 > | Sensory | ? |
 > | Social | ? |
+> | Effect | ? |
 > | Habitat | ? |
 > | Activity | ? |
 > | Fieldnotes | ? |
