@@ -8,21 +8,29 @@ tags:
 > ![[character-image.png]]
 > *Canis ovinus*
 >
-> ###### Overview
+> ###### Identification
 > | | |
 > |--|--|
 > | Type| ? |
 > | Threat Level | ? |
 > | Temperament | ? |
-> | Treatment | ? |
 > | Sensory | ? |
-> | Social | ? |
 > | Effect | ? |
+> 
+> ###### Biology
+> | | |
+> |--|--|
+> | Social | ? |
 > | Habitat | ? |
 > | Activity | ? |
-> | Fieldnotes | ? |
 > | Size | ? |
 > | Diet | ? |
+> 
+> ###### Knowledge
+> | | |
+> |--|--|
+> | Fieldnotes | ? |
+> | Treatment | ? |
 > | Value | ? |
 
 Pleasekillme 2345
