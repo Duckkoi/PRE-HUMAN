@@ -1,5 +1,6 @@
 ---
 tags:
+  - Beast
   - Deadly
 ---
 
@@ -29,7 +30,7 @@ tags:
 > ###### Knowledge
 > | | |
 > |--|--|
-> | Fieldnotes | Beware of sheep herds in unnatural locations  |
+> | Fieldnotes | \*Beware of sheep herds in unnatural locations  |
 > | Treatment | X |
 > | Value | High value fur |
 
