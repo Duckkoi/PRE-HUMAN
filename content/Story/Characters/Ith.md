@@ -1,3 +1,3 @@
-Maybe he used to know lakshman, being an underling or so? Then maybe he got spilt, there being an ego with him as blighted [[content/World Compendium/Charqye/index]] which is ith, and then the old person, both existing, maybe the old person is still alive, lakshman has to be dead though
+Maybe he used to know lakshman, being an underling or so? Then maybe he got spilt, there being an ego with him as blighted [[content/World Compendium/01-Charqye/index]] which is ith, and then the old person, both existing, maybe the old person is still alive, lakshman has to be dead though
 
 Maybe the old person version is the one that destroyed the country and maybe this guy is one of iths true marks, or hes somehow a patron himself? No clue but hes probably a blighted creature
