@@ -11,27 +11,27 @@ tags:
 > ###### Identification
 > | | |
 > |--|--|
-> | Type| ? |
-> | Threat Level | ? |
-> | Temperament | ? |
-> | Sensory | ? |
-> | Effect | ? |
+> | Type| [[tags/Beast\|Beast]] |
+> | Threat Level | [[tags/Deadly\|Deadly]] |
+> | Temperament | Opportunistic |
+> | Sensory | Sight, Scent |
+> | Effect | X |
 > 
 > ###### Biology
 > | | |
 > |--|--|
-> | Social | ? |
-> | Habitat | ? |
-> | Activity | ? |
-> | Size | ? |
-> | Diet | ? |
+> | Social | Herd* |
+> | Habitat | Steppe, Prairie |
+> | Activity | Diurnal |
+> | Size | ~180 cm |
+> | Diet | Carnivore |
 > 
 > ###### Knowledge
 > | | |
 > |--|--|
-> | Fieldnotes | ? |
-> | Treatment | ? |
-> | Value | ? |
+> | Fieldnotes | Beware of sheep herds in unnatural locations  |
+> | Treatment | X |
+> | Value | High value fur |
 
 Pleasekillme 2345
 Description

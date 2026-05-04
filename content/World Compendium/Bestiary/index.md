@@ -3,21 +3,36 @@ title: Bestiary
 ---
 
 ##### **Type:**
-Critter: Unnoteworthy creatures in most contexts
-Beast: fland animal, canines, felines, boars even crocodiles
-Great Beast: Larger and especially dangerous beasts, elephants, polarbear
-Ouranic: Large birds of prey, raptors and such
-Great Ouranic: Most often stronger and larger, but definitely more dangerous, think phoenix thunderbird (not that they exist)
-Folk: Intelligent creatures, often primates, that are intelligent enough to use tools and may work together
-Arthraic: Notable arthropods that are unusually big and are physically dangerous
-Great Arthraic: Incredibly big
-Swarm: Insects that together make one danger
-Pelagic: Aquatic fish like creatures of note, sharks, stingray, smaller whales, orca
-Great Pelagic: Larger and especially dangerous ones, blue whale and such
-Dragon: Dragon family, wyverns, drakes, dragons, wyrm, lung dragon, amphithere, lindwurm
-Leviathan: Largest of ocean creatures
-Titan: Largest of land creatures
-Typhon: largest of air creatures
+**Critter**: 
+Unnoteworthy creatures in most contexts
+**Beast**: 
+fland animal, canines, felines, boars even crocodiles
+**Great Beast:** 
+Larger and especially dangerous beasts, elephants, polarbear
+**Ouranic:** 
+Large birds of prey, raptors and such
+**Great Ouranic:** 
+Most often stronger and larger, but definitely more dangerous, think phoenix thunderbird (not that they exist)
+**Folk:** 
+Intelligent creatures, often primates, that are intelligent enough to use tools and may work together
+**Arthraic:** 
+Notable arthropods that are unusually big and are physically dangerous
+**Great Arthraic:** 
+Incredibly big
+**Swarm:** 
+Insects that together make one danger
+**Pelagic:** 
+Aquatic fish like creatures of note, sharks, stingray, smaller whales, orca
+**Great Pelagic:** 
+Larger and especially dangerous ones, blue whale and such
+**Dragon:** 
+Dragon family, wyverns, drakes, dragons, wyrm, lung dragon, amphithere, lindwurm
+**Leviathan:** 
+Largest of ocean creatures
+**Titan:** 
+Largest of land creatures
+**Typhon:** 
+largest of air creatures
 
 
 ##### **Threat Level:**
