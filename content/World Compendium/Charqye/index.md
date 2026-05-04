@@ -1,7 +1,6 @@
 ---
 title: Charqye
 ---
-
 Charqye, or properly spelled charqü, are the most basic form of existence, the 'potential' for something to exist at all. At first they're simply nothing, again purely being potential, overtime they integrate into their surroundings, mimicking its  information, meaning smell, sounds, behavior, colors, shape, and even thoughts which all dictate how it's perceived, though as they don't start out very accurate it can make them seem to be supernatural, this includes them experimenting in a way when active. While this behavior suggests that they're sentient, they  strictly are not, excluding the [[Patron|patrons]].
 
 > Examples of this are unnaturally hollow mountains, trees growing from the ceiling, roots coming out of the cliff side holding up chunks of land, an ocean floating above an ocean, water flowing upstream, general illusions or rules being in effect such as one way entry.
