@@ -1,6 +1,5 @@
 ---
 title: Charqye
-order: "1"
 ---
 Charqye, or properly spelled charqü, are the most basic form of existence, the 'potential' for something to exist at all. At first they're simply nothing, again purely being potential, overtime they integrate into their surroundings, mimicking its  information, meaning smell, sounds, behavior, colors, shape, and even thoughts which all dictate how it's perceived, though as they don't start out very accurate it can make them seem to be supernatural, this includes them experimenting in a way when active. While this behavior suggests that they're sentient, they  strictly are not, excluding the [[Patron|patrons]].
 
