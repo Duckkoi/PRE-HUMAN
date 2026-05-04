@@ -14,17 +14,32 @@ export const sharedPageComponents: SharedLayout = {
   }),
 }
 
-// Custom Explorer sorting logic to respect the "order" frontmatter
+// Custom Explorer sorting logic to respect the "order" frontmatter inside folder indexes
 const explorerComponent = Component.Explorer({
   sort: (a, b) => {
-    const orderA = a.frontmatter?.order ?? Infinity
-    const orderB = b.frontmatter?.order ?? Infinity
+    const getOrder = (node: any) => {
+      // 1. If the node itself has an order (direct file)
+      if (node.frontmatter?.order !== undefined) {
+        return node.frontmatter.order
+      }
+      // 2. If it's a folder, look for a child named 'index' and take its order
+      if (node.children) {
+        const indexNode = node.children.find((child: any) => child.name === "index")
+        if (indexNode?.frontmatter?.order !== undefined) {
+          return indexNode.frontmatter.order
+        }
+      }
+      return Infinity
+    }
+
+    const orderA = getOrder(a)
+    const orderB = getOrder(b)
 
     if (orderA !== orderB) {
       return orderA - orderB
     }
 
-    // Fallback to alphabetical if no order is set or if orders are equal
+    // Fallback to alphabetical display name (Charqye vs Bestiary)
     return a.displayName.localeCompare(b.displayName)
   },
 })
