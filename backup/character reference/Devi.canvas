@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"2773597a1687ecbe","type":"file","file":"quartz/static/assets/Eye shape.png","x":-100,"y":-300,"width":301,"height":400},
+		{"id":"f428b00ad24f6b05","type":"file","file":"quartz/static/assets/hair 2.png","x":-380,"y":-300,"width":240,"height":400},
+		{"id":"a3d03e334668769f","type":"file","file":"quartz/static/assets/Hair.png","x":-340,"y":-100,"width":240,"height":400}
+	],
+	"edges":[]
+}
