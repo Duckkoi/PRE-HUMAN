@@ -7,4 +7,4 @@ Humanity functions as multiple regions of which most only vaguely, or don't at a
 
 *Below is a crude example, with the colored regions being the known world and seeing what knows what through color-code. This is far from the far product and is even using the old map*
 
-![map](/PRE-HUMAN/static/assets/OLDMAP.png)
+![map](/static/assets/OLDMAP.png)
