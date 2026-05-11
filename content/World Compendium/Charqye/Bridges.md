@@ -4,4 +4,4 @@ Bridges are locations that quite literally bridge two points together, existing 
 
 When using one, the two locations should blend, basically everything aligning to be in the exact same position and state including brightness and temperature
 
-Patrons can create them
+Some Patrons can create them
