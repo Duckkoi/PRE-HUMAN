@@ -1,33 +1,38 @@
-'Gods' get created at some point during the story, allowing (more) people to use abilities
-Villain wants to rewrite humanity as humanity has many problems such as war n blah blah (fixing those problems is life) (maybe for [[POST-HUMAN]])
-DONT THINK I LIKE THIS IDEA ABOVE, FEELS TROPEY AND PREDICTABLE, YOU CAN DO BETTER
-
 Shepherds are able to cause artificial blooming, which can buff vessels essentially, they have other charqu harmonize and help the vessels charqu and help the charqu in general. shepherds will think about granting strength which is what buffs are, their idea of strength will influence what the results of the buff are, think of cool visuals.
+
 
 Shepherds will stay rare but 95% of every group will have a shepherd due to the nature of the stories progression, where the characters go and what they interact iwth and such, you find more gamers in an arcade lol
 
 
 The auntie looks for amir that was the nameless boy and instead finds samir, who insists on joining her
 
+
 DRAW A STICK FIGURE IRL AND USE IT AS THE ENDING
+
 
 Old person ith was the one that started plans and shit in iths country, with nikhils father being affected and basically being on the same team as old person ith, which is why patron ith killed him
 
-A possible goal can just be rending the cradle of threats, anyways the goal should be something that gives a reason for having allies that you might have to turn on later or not
 
 Azhar should be treated as a packmule by sarah early in the story, but this disappears quickly. Azhar should be in danger with ann animal or so pretty quick due to being less mobile, but gets saved by amir, here amir should be able to really show off his strength, with azhar feelingn conflicted about amir being an unknown factor but being saved.
 
+
 Amir should get hurt, chunk out of his side, wall thins and nikhil's influence grows stronger, quietly cussing and talking to himself like along the lines of "fucking hurts you know", but goes on doing what he does
+
 
 Its public that nikhils father got murdered but no culprit, nikhil os annoyed how people didnt try long enough on figuring out who it was, maybe a scene where he asks the culprit "it was you, wasnt it" as hes brash and managed to figure some things out
 
+
 Just murder samir, having him have his own journey where he meets and loses people, possessions and maybe even an arm, the results of a normal man that wasnt really supposed to be in the current slipping in, either breaking him mentally and dying in a similar way to Amir or him staying the 'greatest' character (cause of what he does for the trio) and dying with a smile, maybe for the trio even
+
 
 Samir gives nikhil a rucksack for his journey, when on the ship he is slurred along by the siblings, sarah finds the rucksack on the ship and steals it before they exit the ship, not knowing its even Nikhils. Azhar gives her an earful cause hes gonna take the blame again, but the realization midway that theyre in a different country completely.
 
+
 Maybe they plan to sleep in someone's stable who wakes them up in the morning with a pitchfork and all mad, only for nikhil to break it causing them to give up on resolving the issue and just run away instead, this is a point where nikhils power can be showcased
 
+
 Sarah grabs both realizing that negotiations are over and they run towards the city and maze like streets and eventually accidentally trip over someones flower pot at the end, this being the florist who is very forgiving cause of the siblings sincerity, they explain how theyre basically on a trek and she teaches them, with mostly azhar remembering (cause hes responsible but also that the florist is pretty and hes finally interacting with someone lol)
+
 
 They ask about the pretty flower they see everywhere being a Vivi something flower that means something the along the lines of great determination, enduring, wonder. Maybe sarah goes like "oh u want this one?" or "lets try it on you" and puts it on amir as a very temporary hair ornament. This is to hide that vivi is his first word and give it a natural reason and integration. The name vivi shouldnt come up anymore unti lthe end of the branched castle
 They should eventually run into a field of vivi flowers at the end of the first arc so amirs first word is vivi
@@ -39,13 +44,18 @@ In the prologue sarah should be a concubine to a guy that dislikes socializing, 
 POST HUMAN IDEA
 Imagine that eventually parallel worlds are created due to priming (i want a very controlled one maybe), then theres someone who gets sent to a parallel world (which might kill him everywhere else). Outside of his dying everywhere, this was the concept behind a game where a wife and husband were hunted down with the wife sending her husband off, he forgets her and only has basic memories that drive him, the goal of the game is to find out as many clues while navigating dangers, the clues keep your character motivated and the ending is reached once your character has no more motivation or succeeds in saving her. (kinda similar to vivi nico now that i think about it) 
 
+
 Trees and such growing in between humans and spirits can have human faces
+
 
 Devi should reluctantly send the trio off to Fiorinte, for the purpose of having them be marked by Ith, this is cause amir is most likely gonna interact with a lot of patrons and being marked by a patron protects you from them, they wont take the first action (most likely)
 
+
 azhar loses an eye and gets a prosthetic with a charqü with abilities
 
+
 Luca is marked by two patrons, by ith and another that he has an intimate relationship with
+
 
 Maybe PRE HUMAN ends with a bit of fan service, u see azhars stories become plays, u see devi being popular among the people and kids and such, u see sarah with obvious wealth talking to nico (who was amir which is prince), u see even sri living a more normal life, u see them all bantering doing stuff together, you see other characters, some ruling countries even, you see short time skips, some of those countries going to war and such.
 The idea is that ith in the pilot goes on about how excited he is for whats gonna happen to the world with imagery of lore and events and people that will appear in the story, ending on a title of nikhil picking dates with cold eyes and crescents. Only for it to end with ith narrating the latter part of the ending, being thankful the experiences and his life, finally dying, maybe due to old age like a human like he wanted.
@@ -73,7 +83,6 @@ Maybe the rival of lakshman, so the paint guy that named priming n bleeding, is 
 bridges, Devi should teach azhar  the basic skill of doing this.
 They are one of the rules of the world
 Maybe patrons can create them, altering terrain
-
 
 
 
