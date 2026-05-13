@@ -18,7 +18,7 @@
 > | Relatives | Salman Hajar (Father), Fida Hajar (Mother),  [[Azhar Hajar]] (Adoptive brother), [[Nikhil Nicolas]] (Adopted brother) |
 > | Occupation | ? |
 > | Affiliation | [[Ith]] |
-> | Charqü | Healthy |
+> | charqye | Healthy |
 
 Sarah is the daughter and second child of Salman and Fida Hajar. She is [[Azhar Hajar]] 's younger brother who she drags along with her onto the ship that starts the story, meeting and naming [[Nikhil Nicolas|Amir]] and eventually becoming a [[Patron#Marks|mark]] of [[Ith]]
 
@@ -79,13 +79,13 @@ Due to Sarah's lack of activity and labor growing up, she's the most out of shap
 She's very talented in reading the room and knowing what people want, which she uses to her advantage when winning favor and haggling. In combat she initially has a Telek, given to her by Azhar as she had to have a weapon, but she eventually gets taught how to use polearms by Azhar and switches to a Ji polearm herself.
 
 She mostly uses her polearm with in a similar way to Azhar's controlling, flinging way. Sarah mainly relies on distorting her targets sense of balance and using push and pull to topple them, she also instead afraid to let go of her weapon and go for cheap shots.
-#### [[content/World Compendium/Charqye/index|Charqü]] 
-While Sarah has a similar opinion on being a living vessel as Azhar at first, she eventually becomes a vessel for a charqü that lets her distort other's senses. Initially she doesn't understand how to use it since its an abstract ability. She eventually mostly uses it to throw her targets sense of balance and distorting vision with blur, dizzying her target, but eventually leans into proper illusions, which she also uses for gambling.
+#### [[content/World Compendium/Charqye/index|charqye]] 
+While Sarah has a similar opinion on being a living vessel as Azhar at first, she eventually becomes a vessel for a charqye that lets her distort other's senses. Initially she doesn't understand how to use it since its an abstract ability. She eventually mostly uses it to throw her targets sense of balance and distorting vision with blur, dizzying her target, but eventually leans into proper illusions, which she also uses for gambling.
 
 !WIP!
-She eventually experiments with trying to increase the effectiveness of the trio's senses, but due to the nature of her charqü it doesn't work out.
+She eventually experiments with trying to increase the effectiveness of the trio's senses, but due to the nature of her charqye it doesn't work out.
 
-Maybe she gets another charqü that she absorbs, allowing her to have more freedom over what her charqü does and as such can manipulate positively as well.
+Maybe she gets another charqye that she absorbs, allowing her to have more freedom over what her charqye does and as such can manipulate positively as well.
 
 Maybe the effects of her illusions can have permanent effects, such as scorch marks and burns or proper temporary blindness.
 

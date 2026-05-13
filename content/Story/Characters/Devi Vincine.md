@@ -18,9 +18,9 @@
 > | Relatives | ??? (Father), ??? (Mother)|
 > | Occupation | ? |
 > | Affiliation | The Hermit, [[The Branched Castle]] |
-> | Charqü | Blighted |
+> | charqye | Blighted |
 
-Devi is the first, and sole true mark of [[The Hermit]]. She is the only child of X and Y who she lived with in [[Fiorente]] and [[Nikhil Nicolas|Nikhils]] 's childhood friend. She is also the vessel of a [[content/World Compendium/Charqye/index|blighted charqü]] and a very talented [[Handlers#Shepherds|shepherd]].
+Devi is the first, and sole true mark of [[The Hermit]]. She is the only child of X and Y who she lived with in [[Fiorente]] and [[Nikhil Nicolas|Nikhils]] 's childhood friend. She is also the vessel of a [[content/World Compendium/Charqye/index|blighted charqye]] and a very talented [[Handlers#Shepherds|shepherd]].
 
 Growing up, Devi was a quiet girl, but not necessarily shy. She spent a lot of time orbiting Nikhil and integrated into his household, being adored by everyone in it including the staff. While she often visited, she still lived with her father and fairly sickly mother who both loved her as well. The contact she and her family had with the Nicolas household disappeared after the death of [[Enzo Nicolas]], excluding Nikhil who often visited her instead.
 

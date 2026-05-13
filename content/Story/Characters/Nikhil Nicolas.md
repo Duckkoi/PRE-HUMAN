@@ -18,9 +18,9 @@
 > | Relatives | [[Enzo Nicolas]] (Father), [[Rosalinda Nicolas]] (Mother), [[Luca Nicolas]] (brother), [[Azhar Hajar]] (Adoptive brother),  [[Sarah Hajar]] (Adoptive sister) |
 > | Occupation | ? |
 > | Affiliation | Ith, Shells of Fiorente |
-> | Charqü | Healthy, Blighted |
+> | charqye | Healthy, Blighted |
 
-Amir, also called his birthname Nikhil and later Niko, is the second son of [[Enzo Nicolas|Enzo 'Lakshman' Nicolas]] and [[Rosalinda Nicolas]], and the younger brother of [[ Luca Nicolas]] who he once lived with in [[Fiorente]]. The name Nikhil was given to him early on by [[Sarah Hajar]] who he now travels with including [[Azhar Hajar]], though some still use his birthname. He is the vessel of both a [[content/World Compendium/Charqye/index]] and a weak [[content/World Compendium/Charqye/index|blighted charqü]] and a [[Patron#Marks|mark]] of [[Ith]].
+Amir, also called his birthname Nikhil and later Niko, is the second son of [[Enzo Nicolas|Enzo 'Lakshman' Nicolas]] and [[Rosalinda Nicolas]], and the younger brother of [[ Luca Nicolas]] who he once lived with in [[Fiorente]]. The name Nikhil was given to him early on by [[Sarah Hajar]] who he now travels with including [[Azhar Hajar]], though some still use his birthname. He is the vessel of both a [[content/World Compendium/Charqye/index]] and a weak [[content/World Compendium/Charqye/index|blighted charqye]] and a [[Patron#Marks|mark]] of [[Ith]].
 
 After his family fell apart due to the death of his father, he lived a troubled life mostly accompanied by two close friends. When his country was affected by the [[Bleeding]], Nikhil was one of its victims, becoming one of the [[shells]] being taken care of in his brother’s survivor group.
 
@@ -36,7 +36,7 @@ Amir also has root-like scars caused by the plants growing from him due to the [
 
 Amir, being a [[Shells|shell]], is greatly affected by ego dissolution and depersonalization, having seemingly no will early on and simply doing as instructed. As the story goes on he steadily changes with two forces, first simply being his surroundings and experiences as Amir, he naturally mostly influenced by his traveling companions [[Azhar Hajar|Azhar]] and [[Sarah Hajar|Sarah]], slowly but surely becoming his own person. Amir eventually grows to become more outspoken, bubbly and kind, heavily taking after the two siblings, though staying more on the passive side.
 
-The other force is his original self, Nikhil. Due to the [[content/World Compendium/Charqye/index|blighted charqü]] residing within him Amir is able to live and function with the blighted charqü managing his psyche, though whenever amir is sufficiently wounded, the charqü favors healing his body and sacrifices memories and such so that he stays functioning. This often thins the wall between Amir and Nikhil, with the prior having fears relating to this and the latter, while mostly buried, having moments of greater influence and eventually inevitably taking control, ending with Nikhil becoming whole again. When Nikhil does eventually regain control, he grows to become a mix of who he was (Nikhil) and who he has become (Amir). Over time habits and hobbies Amir picked up are shown in Nikhil, such as tinkering and camera pose, even being more mellow and sometimes zoning out.
+The other force is his original self, Nikhil. Due to the [[content/World Compendium/Charqye/index|blighted charqye]] residing within him Amir is able to live and function with the blighted charqye managing his psyche, though whenever amir is sufficiently wounded, the charqye favors healing his body and sacrifices memories and such so that he stays functioning. This often thins the wall between Amir and Nikhil, with the prior having fears relating to this and the latter, while mostly buried, having moments of greater influence and eventually inevitably taking control, ending with Nikhil becoming whole again. When Nikhil does eventually regain control, he grows to become a mix of who he was (Nikhil) and who he has become (Amir). Over time habits and hobbies Amir picked up are shown in Nikhil, such as tinkering and camera pose, even being more mellow and sometimes zoning out.
 
 Nikhil himself is a bit of an enigma, being both like- and unlikeable. He has a strong personality, being foulmouthed, very direct, decisive and is notably unwilling to betray personal principles. Though he's also very respecting of people and prefers to see everyone, including those above him, as equal. An extension of this is even in how he carries himself, he very much feels undauntable, bringing his own "simple" energy, he does become blunt when annoyed. While his personality does not suggest it, Nikhil is very intelligent, together with a principle of his being accountability he ends up as a pillar for many.
 
@@ -44,12 +44,12 @@ Nikhil himself is a bit of an enigma, being both like- and unlikeable. He has a 
 
 From a young age Nikhil was a prideful and slightly cheeky boy with a sense of precocity and agency. Aspiring to join the armed forces along side his father and brother, he spent a lot of time  running around, practicing and studying. As he comes from a family that's fairly prestigious and very well off, having a large house with servants and land. Most of his free time was spent with a large variety of friends, though more often than not accompanied by [[Devi Vincine]].
 
-Later on, after the death of his father, [[Enzo Nicolas]], caused by [[Ith]], his family fell apart, during this time the whole family was marked by [[Ith]] out of respect to [[Enzo Nicolas|Enzo]], both his service and that he managed to learn so much about the world, charqü and had ambition. His mother grew more and more paranoid to unhealthy amounts, that together with his brother taking the chance to leave, forget and start his own life Nikhil was left alone in an unstable household, as such he became more foulmouthed and excessively defiant, often running away home and spending his time working and training. During this time only a handful of his connections stayed healthy.
+Later on, after the death of his father, [[Enzo Nicolas]], caused by [[Ith]], his family fell apart, during this time the whole family was marked by [[Ith]] out of respect to [[Enzo Nicolas|Enzo]], both his service and that he managed to learn so much about the world, charqye and had ambition. His mother grew more and more paranoid to unhealthy amounts, that together with his brother taking the chance to leave, forget and start his own life Nikhil was left alone in an unstable household, as such he became more foulmouthed and excessively defiant, often running away home and spending his time working and training. During this time only a handful of his connections stayed healthy.
 
 When the [[Bleeding]] ravaged their country, Nikhil's brother reunited with him, knowing of the situation beforehand and wanting to save as many as he could creating a survivor-party, their goal simply being running as far away as possible The group notably included Nikhil, [[Luca Nicolas]] and [[Devi Vincine|Devi]]. Sadly some including Nikhil were still affected and turned into [[shells]], the affected having their psyche's shared and as such all losing their ego's. Although Nikhil was affected he was well taken care of considering the circumstances, being favored cause of his brother being the leader and [[Devi Vincine|Devi]] spending most of her time tending on him.
 
 Due to the journey becoming more and more dangerous, with more falling ill or dying, and the shells showing no sign of recovering. [[Luca Nicolas|Luca]] made the hard decision to abandon the shells one by one, including Nikhil. Naturally [[Devi Vincine|Devi]] was strongly against this, she eventually ran away with him, trailing behind the main group until she inevitably collapsed and was then taken by [[The Hermit]]. 
-!WIP! (thinking silly auntie pro shepherd who knows a lot about the world and its system and knows he'll be ok with enough time and care) After this Nikhil was found and slowly recovered with the help of ???, this is how he obtained his charqü, though their travels didn't last very long and they eventually separate, Nikhil then waking up in [[Aintidina]].
+!WIP! (thinking silly auntie pro shepherd who knows a lot about the world and its system and knows he'll be ok with enough time and care) After this Nikhil was found and slowly recovered with the help of ???, this is how he obtained his charqye, though their travels didn't last very long and they eventually separate, Nikhil then waking up in [[Aintidina]].
 
 ## Relationships
 #### [[Azhar Hajar]]
@@ -71,12 +71,12 @@ Dunno yet but i want another friend to give him the nickname Niko as devi should
 
 ## Equipment & Abilities
 
-Due to the many ego's and memories Amir has received, he has a lot of random knowledge about travel, exploration, caving, leadership, chemistry, ect. This also includes combat, mostly mostly boxing, wrestling, grappling and weapon handling as these were most commonly practiced in his country, though he doesn't use them very well as every ego had different opinions and habits. Besides that he doesn't feel that comfortable fighting differently from [[Azhar Hajar|Azhar]] and [[Sarah Hajar|Sarah]], preferring to use weapons and trinkets and refraining from using his charqü too much.
+Due to the many ego's and memories Amir has received, he has a lot of random knowledge about travel, exploration, caving, leadership, chemistry, ect. This also includes combat, mostly mostly boxing, wrestling, grappling and weapon handling as these were most commonly practiced in his country, though he doesn't use them very well as every ego had different opinions and habits. Besides that he doesn't feel that comfortable fighting differently from [[Azhar Hajar|Azhar]] and [[Sarah Hajar|Sarah]], preferring to use weapons and trinkets and refraining from using his charqye too much.
 
-As [[Nikhil Nicolas]] he is way more proficient and decisive, having properly practiced and studied the above and in general being less passive, also making proper use of his charqü, though he is less experimental and does what he trusts will work.
+As [[Nikhil Nicolas]] he is way more proficient and decisive, having properly practiced and studied the above and in general being less passive, also making proper use of his charqye, though he is less experimental and does what he trusts will work.
 
-#### [[content/World Compendium/Charqye/index|Charqü]] 
- Amir's charqü allows him to control the pressure he interacts with using his body. Examples are increasing the force by decreasing area of effect and the reverse. This gives him various options that mostly Nikhil utilizes: Hitting an opponent from range by hitting another object, trading force for area, ignoring defenses, transforming blunt into pierce into slice and so on and even compressing to generate heat. He eventually figures out how to store this energy for a short amount of time.
+#### [[content/World Compendium/Charqye/index|charqye]] 
+ Amir's charqye allows him to control the pressure he interacts with using his body. Examples are increasing the force by decreasing area of effect and the reverse. This gives him various options that mostly Nikhil utilizes: Hitting an opponent from range by hitting another object, trading force for area, ignoring defenses, transforming blunt into pierce into slice and so on and even compressing to generate heat. He eventually figures out how to store this energy for a short amount of time.
  
  By generating heat, Amir is capable of burning, melting and technically vaporizing. Amir uses this to ignite his incendiaries. He can also increase his physical abilities by negating their forces on him, though this is all difficult to perform and can be dangerous, which means he usually doesn't do this.
 
@@ -84,15 +84,15 @@ As [[Nikhil Nicolas]] he is way more proficient and decisive, having properly pr
 > 
 > A simple ranged attack where he pulls his fist back and his other hand pointing forward as if using a bow, this being a stance his charqye reacts to, waiting and focusing so he can transfer every force affecting him to the attack. Then simply punching his own palm as he quickly brings it closer. The resulting pressure is applied a distance away, most commonly to puncture.
 
-> **Blighted charqü**
+> **Blighted charqye**
 > 
-> Due to his blighted charqü, while weak, he has greater physical abilities than the average person and is able to regenerate, though this is in exchange for his memories as his blighted charqü can't handle maintaining his body and psyche at the same time. He also eventually gains the ability to over-regenerate, though he dislikes doing this. Unlike most blighted charqü vessels, Amir can still get poisoned very easily which is his biggest weakness. He also has trouble regenerating as fast as most. This is again because its mostly being used to maintain his psyche.
+> Due to his blighted charqye, while weak, he has greater physical abilities than the average person and is able to regenerate, though this is in exchange for his memories as his blighted charqye can't handle maintaining his body and psyche at the same time. He also eventually gains the ability to over-regenerate, though he dislikes doing this. Unlike most blighted charqye vessels, Amir can still get poisoned very easily which is his biggest weakness. He also has trouble regenerating as fast as most. This is again because its mostly being used to maintain his psyche.
 
 At first Amir doesn't carry anything as [[Azhar Hajar|Azhar]] and [[Sarah Hajar|Sarah]] felt too guilty making someone who can't say no do work, though once he becomes more 'human', hes quickly put to work and carries a rucksack with general supplies, just like the siblings. Along side that he also carries self-made gadgets, though these are discarded once he fully becomes Nikhil
 
 > **Improvised incediary**
 > 
-> Amir always has 4+ self made incendiary grenades that he makes with anything he can find, tree sap, dried leaves, peat. He ignites them by compression and increasing heat using his charqü.
+> Amir always has 4+ self made incendiary grenades that he makes with anything he can find, tree sap, dried leaves, peat. He ignites them by compression and increasing heat using his charqye.
 > 
 > **Modified Geta**
 > 
@@ -111,7 +111,7 @@ At first Amir doesn't carry anything as [[Azhar Hajar|Azhar]] and [[Sarah Hajar|
 > **Dislikes**
 > 
 > As Nikhil: Stables, bees and wasps, irrationality, drinking (leftover trait from Amir)
-> As Amir: Reptiles, mushrooms, high places, drinking (technically poison blighted charqü deals with)
+> As Amir: Reptiles, mushrooms, high places, drinking (technically poison blighted charqye deals with)
 
 -  As Amir he doesn't really get flustered often, mostly cause of Sarah, meanwhile Nikhil does.
 - Nikhil means to be 'complete, whole', while Amir means 'prince', named by Sarah as her 'little brother' had to be important if she was gonna be important herself.

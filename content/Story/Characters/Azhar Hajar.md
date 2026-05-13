@@ -18,7 +18,7 @@
 > | Relatives | Salman Hajar (Father), Fida Hajar (Mother),  [[Sarah Hajar]] (Adoptive sister), [[Nikhil Nicolas]] (Adopted brother) |
 > | Occupation | ? |
 > | Affiliation | [[Ith]]|
-> | Charqü | None |
+> | charqye | None |
 
 Azhar, called Az by most, is the son of Salman and Fida Hajar. He is also the older brother of [[Sarah Hajar]] who he leaves their home village of [[Aintidina]] with. He is one of the [[Patron#Marks|marks]] of [[Ith]].
 
@@ -84,7 +84,7 @@ Azhar is very uncomfortable with the idea of being a living vessel, to the point
 
 > **To-see Eye**
 > 
-> Created and sadly named by Erwin. It's a custom-made prosthetic eye that allows the user to see whatever they consider genuinely 'necessary' and as such isn't passively active, not even appearing when wanted. While quirky and annoying, it's capable essentially looking through obstructions, seeing long distances, seeing a likely future and even to what extent something is affected by [[content/World Compendium/Charqye/index|charqü]]. Weirdly enough, its fairly squishy while looking stone-like.
+> Created and sadly named by Erwin. It's a custom-made prosthetic eye that allows the user to see whatever they consider genuinely 'necessary' and as such isn't passively active, not even appearing when wanted. While quirky and annoying, it's capable essentially looking through obstructions, seeing long distances, seeing a likely future and even to what extent something is affected by [[content/World Compendium/Charqye/index|charqye]]. Weirdly enough, its fairly squishy while looking stone-like.
 
 I have more planned, like 3 reusable roped grenades and stuff like that
 
