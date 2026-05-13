@@ -20,7 +20,7 @@
 > | Affiliation | The Hermit, [[The Branched Castle]] |
 > | charqye | Blighted |
 
-Devi is the first, and sole true mark of [[The Hermit]]. She is the only child of X and Y who she lived with in [[Fiorente]] and [[Nikhil Nicolas|Nikhils]] 's childhood friend. She is also the vessel of a [[content/World Compendium/Charqye/index|blighted charqye]] and a very talented [[Handlers#Shepherds|shepherd]].
+Devi is the first, and sole true mark of [[The Hermit]]. She is the only child of X and Y who she lived with in [[Fiorente]] and [[Nikhil Nicolas|Nikhils]] 's childhood friend. She is also the vessel of a [[World Compendium/Charqye/index|blighted charqye]] and a very talented [[Handlers#Shepherds|shepherd]].
 
 Growing up, Devi was a quiet girl, but not necessarily shy. She spent a lot of time orbiting Nikhil and integrated into his household, being adored by everyone in it including the staff. While she often visited, she still lived with her father and fairly sickly mother who both loved her as well. The contact she and her family had with the Nicolas household disappeared after the death of [[Enzo Nicolas]], excluding Nikhil who often visited her instead.
 
@@ -104,7 +104,7 @@ Due to her intellect, knowledge and natural fit, she makes for an especially eff
 > **Fake Mark**
 > 
 > After realizing that marks are a property, she was able to create convincing temporary fake marks with enough effort, this is something that is extremely hard for her to do though, but allows her to infiltrate and be where she definitely shouldn't be.
-#### [[content/World Compendium/Charqye/index|Blighted Charqye]] 
+#### [[World Compendium/Charqye/index|blighted charqye]] 
 As stated before, Devi dislikes using her blighted charqye which is a distaste that formed due to the events of the [[Bleeding]] she experienced. With her charqye she's able to transform her body and even shapeshift with enough effort. She mostly uses these abilities to catch people off guard.
 
 > **Strengthening** 
