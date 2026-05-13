@@ -80,9 +80,9 @@ As [[Nikhil Nicolas]] he is way more proficient and decisive, having properly pr
  
  By generating heat, Amir is capable of burning, melting and technically vaporizing. Amir uses this to ignite his incendiaries. He can also increase his physical abilities by negating their forces on him, though this is all difficult to perform and can be dangerous, which means he usually doesn't do this.
 
-> **Pierce** 
+> **Pressure example** 
 > 
-> A simple ranged attack where he pulls his fist back and his other hand pointing forward as if using a bow, waiting and focusing so he can transfer every force affecting him to the attack. Then simply punching his own palm as he quickly brings it closer.
+> A simple ranged attack where he pulls his fist back and his other hand pointing forward as if using a bow, this being a stance his charqye reacts to, waiting and focusing so he can transfer every force affecting him to the attack. Then simply punching his own palm as he quickly brings it closer. The resulting pressure is applied a distance away, most commonly to puncture.
 
 > **Blighted charqü**
 > 
