@@ -1,12 +1,12 @@
 ---
 title: Bestiary
 ---
-
+The creatures in the world of pre and post-human vary wildly, from ordinary existing life to conceptual, and blighted to automaton-like entities.
 ##### **Type:**
 **Critter**: 
 Unnoteworthy creatures in most contexts
 **Beast**: 
-fland animal, canines, felines, boars even crocodiles
+Land animal, canines, felines, boars even crocodiles
 **Great Beast:** 
 Larger and especially dangerous beasts, elephants, polarbear
 **Ouranic:** 

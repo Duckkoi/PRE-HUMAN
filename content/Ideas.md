@@ -7,7 +7,36 @@ Shepherds will stay rare but 95% of every group will have a shepherd due to the 
 The auntie looks for amir that was the nameless boy and instead finds samir, who insists on joining her
 
 
+Human technology and information causes the cradle to essentially overflow / overload, which causes the first priming, after it happens a few times humanity is basically extinct, one of their last resort plans being to become a part of the cradle where they could theoretically control it and send real humans to the moon where they had to survive for a few decades maybe, until they were done with the cradle, but due to devi the cradle kept on wiping and resetting itself, causing the timer to run out and even humanity on the moon to go extinct
+
+
+To make Ith complete his goal of becoming human but as a human he wont have long to live, during that time human ith and niko just go on a short journey where Ith lives while knowing for sure hes human, everything feels so much more, but now he doesnt wanna die anymore, hes human and he wants to travel more, but now he has to die
+
+Maybe Ith has a bunch of clones that helped him keep control of the world, so that humanity never completely fell to ruins, but he and his clones have lived long enough so he wants to give them escape or let them live human, he at least wants to live as a human. These clones will basically be different characters at this stage, all broken in different ways and some with different morals than others, some being insane but he isnt emotionally strong enough to stop them himself, this has caused countless cycles by his hand alone, some of these clones are the main villains
+
+In pre human the general cycle of priming should disappear, or maybe it should just stay interpreted, but it should at least give a hope of everything having meaning
+
+A pre pre human story or so, i was thinking about a game thats more abouth ith, the final battle is in the cradle where you fight "existence" itself and at the end it seems that you're just swinging at air, its the bad ending
+
+Maybe the hermit is a sort of time traveling thing or so or like infinite, which is why its so simple, the idea is that its goal was to save devi for some reason throughout time, while it doesnt know which one devi is, only when its sure, so after the branched castle, does he leave the castle which has then through time completed its purpose. Its goal to save devi was part of a larger goal, probably to clear a path to a future, in this case nikhil and ith create that future and devi is necessary for nikhils motivation and their whole success
+
+The hermit is so simple cause of how old it is, and the more it is the more pain it would be in i feel like.
+
+Maybe a cause of the blighting is too much information in the cradle, so its like a ticking timebomb that gets defused at the end of pre-human, maybe said that its completely safe now or just gone, but then it still exists in post human to give a sense of dread to the people reading that know
+
+Nikhil has some of iths memories cause of the bleeding
+
+Nikhil in the end kind of follows through with his childhood dream of being a knight, as he helps the villain with his goal, putting some clones to rest and giving some hope
+
+
 DRAW A STICK FIGURE IRL AND USE IT AS THE ENDING
+
+
+GOAL: figure out what it means to make a better world and then do it, maybe figure out why the world isnt great for some even when understanding both tragedy and hope
+-
+Or same but more personal, wanting to live and figuring out what it means to live meaningfully and wanting to be remembered
+-
+Maybe wanting ones own space as in an area that has everything, just a great place for the people you care about, not per se isolated and perfect but just wonderful
 
 
 Old person ith was the one that started plans and shit in iths country, with nikhils father being affected and basically being on the same team as old person ith, which is why patron ith killed him
