@@ -75,7 +75,7 @@ Due to the many ego's and memories Amir has received, he has a lot of random kno
 
 As [[Nikhil Nicolas]] he is way more proficient and decisive, having properly practiced and studied the above and in general being less passive, also making proper use of his charqye, though he is less experimental and does what he trusts will work.
 
-#### [[content/World Compendium/Charqye/index|charqye]] 
+#### [[World Compendium/Charqye/index|charqye]] 
  Amir's charqye allows him to control the pressure he interacts with using his body. Examples are increasing the force by decreasing area of effect and the reverse. This gives him various options that mostly Nikhil utilizes: Hitting an opponent from range by hitting another object, trading force for area, ignoring defenses, transforming blunt into pierce into slice and so on and even compressing to generate heat. He eventually figures out how to store this energy for a short amount of time.
  
  By generating heat, Amir is capable of burning, melting and technically vaporizing. Amir uses this to ignite his incendiaries. He can also increase his physical abilities by negating their forces on him, though this is all difficult to perform and can be dangerous, which means he usually doesn't do this.

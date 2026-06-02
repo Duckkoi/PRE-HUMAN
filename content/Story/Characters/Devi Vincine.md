@@ -28,7 +28,7 @@ After the [[Bleeding]], she joined [[Luca Nicolas]] 's survivor-party and ended 
 
 ## Appearance
 
-Due to Devi's [[content/World Compendium/Charqye/index|charqye]], she's able to shapeshift and change what she looks like, but doesn't like doing this much. Naturally she is of average height, being a bit shorter than Sarah, but notably more well-figured and curved. Though her most noticeable trait are her eyes, being a striking rich yellow, simultaneously beautiful and unnerving yet aloof, paired with her black lashes also being fairly long and sharp.
+Due to Devi's [[World Compendium/Charqye/index|charqye]], she's able to shapeshift and change what she looks like, but doesn't like doing this much. Naturally she is of average height, being a bit shorter than Sarah, but notably more well-figured and curved. Though her most noticeable trait are her eyes, being a striking rich yellow, simultaneously beautiful and unnerving yet aloof, paired with her black lashes also being fairly long and sharp.
 
 Her hair is black and layered, having a wolf cut with the tips curling and curving inward towards her eyes, with the other layer being simply long hair reaching up to her chest. Her bangs are loosely parted  on the left, also curving in the direction of her eyes, but not covering them. Devi's face is pretty, her natural expression looking calm and aloof, but a bit watching in a way. 
 
@@ -54,7 +54,7 @@ With the rumors around his death, [[Nikhil Nicolas|Nikhil]] growing abrasive and
 
 During her time there, Devi's mental health deteriorated mainly due to her feelings of inadequacy and guilt even if she did all she could, with her overthinking and spiraling extending to thoughts about things she could have done even unrelated to their escape. At first she completely excluded herself from the people in the castle, but eventually opened up due to her actual health deteriorating as well, trying to take better care of herself and picking up piano again. 
 
-She eventually grew close to [[Sri]], who arrived a few months after her, she ended up taking care of her as she was seemingly feral and wild with no one being able to deal with her. Devi ended up teaching her advanced language and manners, becoming a guardian of sorts for a while, eventually she managed to build up the motivation and energy to start studying even without a healthy mental state, this time about [[content/World Compendium/Charqye/index]] and the world, with [[The Hermit]] taking an interest in her making Devi his first mark, this also causing another patron close to The Hermit and the castle to establish connections with her.
+She eventually grew close to [[Sri]], who arrived a few months after her, she ended up taking care of her as she was seemingly feral and wild with no one being able to deal with her. Devi ended up teaching her advanced language and manners, becoming a guardian of sorts for a while, eventually she managed to build up the motivation and energy to start studying even without a healthy mental state, this time about [[World Compendium/Charqye/index]] and the world, with [[The Hermit]] taking an interest in her making Devi his first mark, this also causing another patron close to The Hermit and the castle to establish connections with her.
 
 ## Relationships
 #### [[Nikhil Nicolas]]
@@ -95,7 +95,7 @@ Due to her intellect, knowledge and natural fit, she makes for an especially eff
 
 > **Silence** 
 > 
-> Devi halts [[content/World Compendium/Charqye/index]] activity to what's nearly a complete stop, essentially disabling all living vessels and vessel-tools from working, though she can't use her shapeshifting and other shepherd techniques as they are both charqye related, which is why she has her firearm. She only has trouble with people that don't rely on charqye, such as beastmen, and charqye that are too strong. Even though it still has an effect on the latter, including patrons.
+> Devi halts [[World Compendium/Charqye/index]] activity to what's nearly a complete stop, essentially disabling all living vessels and vessel-tools from working, though she can't use her shapeshifting and other shepherd techniques as they are both charqye related, which is why she has her firearm. She only has trouble with people that don't rely on charqye, such as beastmen, and charqye that are too strong. Even though it still has an effect on the latter, including patrons.
 
 > **Artificial Bloom**
 > 

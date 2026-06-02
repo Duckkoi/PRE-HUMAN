@@ -1,11 +1,11 @@
 This is the counterpart to the inhabited method used by [[Vessel System|living vessels]].
-Handlers are rare people who are able to interact with [[content/World Compendium/Charqye/index|charqye]] in productive ways without needing vessels, mostly using thoughts and intent, though tools definitely help and are used by them. Examples of skills related to charqye they might have are: Appraising, guiding, controlling activity, vessel-tool creation, nurturing. They are able to do this due to their understanding of charqye, but also due to having a very defined internal structure and clear goals for them, the latter two being especially important.
+Handlers are rare people who are able to interact with [[World Compendium/Charqye/index|charqye]] in productive ways without needing vessels, mostly using thoughts and intent, though tools definitely help and are used by them. Examples of skills related to charqye they might have are: Appraising, guiding, controlling activity, vessel-tool creation, nurturing. They are able to do this due to their understanding of charqye, but also due to having a very defined internal structure and clear goals for them, the latter two being especially important.
 
 While handlers have an affinity for charqye, they tend to specialize in different fields. The only skill that's actually common among them is appraisal as this skill is pretty much necessary for every specialization, allowing them to understand the charqye they're dealing with beyond basic and general awareness.
 
 > Appraising can be described as feeling sensations relating to the properties and traits the charqye obtained, such as color, smell, texture, temperature and so on. A flame based as such will most likely mainly be a smell, heat and the hissing sound. Appraising charqye with concepts can be more difficult due to their abstract nature.
 
-Even within Handlers there's a divide, that being the more common artificer and the shepherd. A large amount of skills fall under the artificer umbrella, but they mainly are viewed as craftsmen and engineers, compared to the shepherd who have a more organic relationship [[content/World Compendium/Charqye/index|charqye]].
+Even within Handlers there's a divide, that being the more common artificer and the shepherd. A large amount of skills fall under the artificer umbrella, but they mainly are viewed as craftsmen and engineers, compared to the shepherd who have a more organic relationship [[World Compendium/Charqye/index|charqye]].
 
 ## Artificers
 
@@ -17,7 +17,7 @@ Artificers, not necessarily the end users, are most commonly known for their ves
 
 ## Shepherds
 
-Shepherds are very rare, they are less craftsman-like than artificers and have more organic interactions with [[content/World Compendium/Charqye/index|charqye]]. Being able to vaguely control them, again using mainly thought and intent, how active they are and guiding them. The results of their actions varies, as they do not consistently have the same charqye in their vicinity, unlike living-vessels or those using vessel-tools.
+Shepherds are very rare, they are less craftsman-like than artificers and have more organic interactions with [[World Compendium/Charqye/index|charqye]]. Being able to vaguely control them, again using mainly thought and intent, how active they are and guiding them. The results of their actions varies, as they do not consistently have the same charqye in their vicinity, unlike living-vessels or those using vessel-tools.
 
 Shepherds are key to navigating the wider world, being able to use [[Bridges|bridges]] and properly navigate the anomalies in [[The Wilds]]. With their control over charqye, they can use common techniques, serving as their equivalent to the utility vessel users have. This is possible cause some properties, such as plant based ones, are more common among charqye. The effectiveness depends on the strengths of the charqye, but also the clarity of the shepherds thoughts and intent, the higher the clarity the more accurate the result
 

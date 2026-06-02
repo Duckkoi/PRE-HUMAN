@@ -1,1 +1,1 @@
-The natural barriers inhabited by [[content/World Compendium/Charqye/index|charqye]] that separate civilizations are collectively known as the Wilds
+The natural barriers inhabited by [[World Compendium/Charqye/index|charqye]] that separate civilizations are collectively known as the Wilds
