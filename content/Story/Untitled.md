@@ -1,0 +1,13 @@
+VERY WIP GENERAL HISTORY IDEA
+
+Charqye were fairly dormant, until the rapid expansion of humanity to 9-10 Billion people which flooded the world with what is essentially noise to the charqye and caused them to blight en masse. This became the first priming, though charqye were already shaken up so this wasn't a single event, root wells started pooping up at points furthest from humanity which often started to bleed
+
+Humanity which dwindled down in numbers rapidly tried multiple things through multiple means, of course mainly trying to stop the priming from happening. A few works of the world and mechanics resulted from this, namely the shepherd tools and patrons to try and control the cradle in any form, though it resulted in the mechanics we have now.  Humanity's last resort after finding out the cradle exists was to send groups to enter the cradle which they knew knew barely anything about, while sending part of the left over humanity to space in case they couldn't complete their goal before another priming happened.
+Ith was part of the group sent to the cradle, as a young scientist, of course with a different name.
+
+(Very WIP in between dunno what happens here exactly yet, its just a collection of ideas rn)
+During their time in the cradle they eventually encountered fake humans, people with knowledge that didn't add up, two of these were Niko and Vivi. The group eventually completes their goal and have the ability to use the cradle at least, though at the cost of some lives such as Niko, from here they would have been able to learn how to stop primings and such, but instead Vivi used it to reset the world so that Niko would still be alive, her memories also resetting in the process.
+
+This started its own smaller cycle of either Niko or Vivi being broken in some way and the other resetting the world, these loops were often around 20 years, every loop degraded and distorted the world more and more including human biology which is why there's barely any young kids in the story, some loops going a more sci fi direction, some more pirate themed and so on, this continued on for an immeasurably long time and the left over humanity in space quickly died due to a lack of resources. Even the people in cradle and the fake humans died in a way, only the people vividly remembered by Vivi in the previous loop to be similar, people not very well known changing and anyone unknown being replaced by whatever other people the cradle fills in, the only constants being Vivi, Niko and whoever or whatever is unaffected.
+
+The current world is essentially the modern world but degraded and rebuilt many, many times
