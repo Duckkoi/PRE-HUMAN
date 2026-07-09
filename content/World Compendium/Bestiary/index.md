@@ -73,7 +73,7 @@ Solitary, Paired, Pack, Herd, Swarm, Colony
 
 
 ##### **Activity**:
-Diurnal, Nocturnal, Crepuscular, Cathemeral
+Diurnal, Nocturnal, Crepuscular, Cathemeral, Persistent
 
 
 ##### **Diet**:

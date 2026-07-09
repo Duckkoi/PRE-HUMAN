@@ -5,8 +5,10 @@ Threat Level:
 Harmless, Nuisance, Hazardous, Dangerous, Deadly, Ruinous, Catastrophic
 
 
+
 Transmission:
 None, Touch, Inject, Inhale, Atmospheric, Ingest, Sap, Root, Wound, Vector, Water Contamination, Soil Contamination, Proximity, Secretion
+
 
 
 Activity:
@@ -15,6 +17,8 @@ Seasonal Spring, Summer, Fall, Winter, Year-round
 Time of Day Dawn, Day, Dusk, Night
 
 Weather Rain, Heat, Cold, Frost, Humid, Dry
+
+
 
 Effect:
 **Toxicity:** Anticoagulant (Blood Thinner), Cardiotoxin (Heart Poison), Cytotoxin (Cell Poison), Hemotoxin (Blood Poison), Hepatotoxin (Liver Poison), Nephrotoxin (Kidney Poison), Neurotoxin (Nerve Poison), Paralytic (Paralysis Poison), Phototoxin (Sun-Activated Poison)
@@ -29,8 +33,45 @@ Effect:
 
 
 
+Trigger:
+**Contact-Based**
+Touch (brushing against it)
+Pressure (stepping on, weight-bearing)
+Crushing (breaking stems/leaves/pods)
+Friction (rubbing, repeated contact)
+
+**Disturbance-Based**
+Vibration (movement, footsteps, sound waves)
+Uprooting (disturbing the root system)
+Wound (cutting, tearing, damage to the plant)
+Consumption (being bitten/grazed)
+
+**Environmental / Atmospheric**
+Heat (sun exposure, fire proximity)
+Cold/Frost (triggers cold-defense compounds)
+Humidity (moisture-activated release)
+Static/Electrical (your skywhale case — storm buildup)
+Light (phototoxic activation, or opening at dawn/dusk)
+Open Flame/Spark (combustion-prone species)
+
+**Proximity / Sensory**
+Motion-Sensing (Venus-flytrap-style trigger hairs)
+Scent (releases in response to detected chemical cues — prey, predator, or pollinator)
+Shadow/Presence (some real plants react to a shape blocking light)
+
+**Temporal (self-triggering, not externally caused)**
+Bloom Cycle (only active/dangerous while flowering)
+Ripening (fruit/pod becomes hazardous only when mature)
+Dormancy Break (activates on waking from seasonal dormancy)
+Decay (releases effect while dying/rotting, not while alive)
+
+**None**
+Passive/Ambient (constantly active, no trigger needed — e.g. permanent contact-toxicity or constant secretion)
+
+
 > | Threat Level | ? |
 > | Treatment | ? |
+> | Trigger | ? |
 > | Transmission | ? |
 > | Effect | ? |
 > | Duration & Onset | ? |
@@ -40,3 +81,4 @@ Effect:
 > | Usage | ? |
 > | Size | ? |
 > | Value | ? |
+
