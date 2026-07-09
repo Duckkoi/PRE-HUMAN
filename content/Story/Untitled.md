@@ -11,3 +11,5 @@ During their time in the cradle they eventually encountered fake humans, people 
 This started its own smaller cycle of either Niko or Vivi being broken in some way and the other resetting the world, these loops were often around 20 years, every loop degraded and distorted the world more and more including human biology which is why there's barely any young kids in the story, some loops going a more sci fi direction, some more pirate themed and so on, this continued on for an immeasurably long time and the left over humanity in space quickly died due to a lack of resources. Even the people in cradle and the fake humans died in a way, only the people vividly remembered by Vivi in the previous loop to be similar, people not very well known changing and anyone unknown being replaced by whatever other people the cradle fills in, the only constants being Vivi, Niko and whoever or whatever is unaffected.
 
 The current world is essentially the modern world but degraded and rebuilt many, many times
+
+(maybe the world plays out and they get reincarnated somewhere, vivi and niko, humans can have kids until the cradle is out of people )

@@ -7,6 +7,13 @@ Shepherds will stay rare but 95% of every group will have a shepherd due to the 
 The auntie looks for amir that was the nameless boy and instead finds samir, who insists on joining her
 
 
+Maybe the entire backstory niko and vivi have in the current loop are just fake, the world just wiped and niko wakes up in a desert
+
+
+The priming looks like everything being marked in patterns including the sky which makes it look like fireworks, theres bells chiming during the entire duration. Based on new years eve and the general 3 pm 9 pm clocktower bells, signals of something new
+
+
+
 Human technology and information causes the cradle to essentially overflow / overload, which causes the first priming, after it happens a few times humanity is basically extinct, one of their last resort plans being to become a part of the cradle where they could theoretically control it and send real humans to the moon where they had to survive for a few decades maybe, until they were done with the cradle, but due to devi the cradle kept on wiping and resetting itself, causing the timer to run out and even humanity on the moon to go extinct
 
 
