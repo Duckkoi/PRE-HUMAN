@@ -1,4 +1,6 @@
 WIP
+Might change based on [[Weirdo History]]
+
 
 Patrons who are sentient charqye and maybe even blighted charqye, they dont die of old age and such and are very hard to kill as you have to blight them. Unsure of how blighted ones will die.
 
