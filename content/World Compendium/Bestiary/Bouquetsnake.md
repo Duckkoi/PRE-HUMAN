@@ -35,6 +35,8 @@ tags:
 ## Physiology
 
 Palceholder go read bastard sheep or sky whale instead
+If u really wanna know it basically a small silly snake that acts like a flower, lures in stupid bees and other stupid things that like hippy vegan things such as you or flowers
+These insects get coated by its poison, when they are eaten by other rodents they'll be paralyzed and whatever and then the snake can eat it. They very silly though and just stick either their head or tail up and look at the sky all day
 
 
 The Bastard Sheep is a giant quadrupedal canid covered in  white and curly fur growing in coils, resembling a sheep's fleece. Under its coat it's hefty and muscular more comparable to a mastiff or even bear than usual canids. It has a low and hunched posture, reducing its visual size and mimicking a grazing sheep, it has fairly small legs for a canid which reduces its speed, in trade for a lower center of gravity and explosive close-range power.
