@@ -1,4 +1,5 @@
-Dumping all maps here
+Dumping all maps for nerds here, these are just what ive been working on cause its doable and makes the world super believable
+
 ![[clean.png]]
 
 ![[ClimaSIm.jpg]]
