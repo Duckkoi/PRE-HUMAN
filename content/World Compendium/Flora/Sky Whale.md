@@ -6,7 +6,7 @@ tags:
 > [!infobox]
 > # Sky Whale
 > ![[character-image.png]]
-> *Genus species*
+> *Nubiflora cetacea*
 >
 > ###### Identification
 > | | |
