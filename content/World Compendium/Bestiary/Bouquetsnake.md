@@ -1,6 +1,7 @@
 ---
 tags:
   - Critter
+  - Harmless
 ---
 
 > [!infobox]

@@ -1,3 +1,8 @@
+---
+tags:
+  - Harmless
+---
+
 > [!infobox]
 > # Sky Whale
 > ![[character-image.png]]
