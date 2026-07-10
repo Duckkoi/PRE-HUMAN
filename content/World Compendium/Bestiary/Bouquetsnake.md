@@ -36,7 +36,8 @@ tags:
 ## Physiology
 
 Palceholder go read bastard sheep or sky whale instead
-If u really wanna know it basically a small silly snake that acts like a flower, lures in stupid bees and other stupid things that like hippy vegan things such as you or flowers
+
+If u really wanna know its basically a small silly snake that acts like a flower, lures in stupid bees and other stupid things that like hippy vegan things such as you or flowers
 These insects get coated by its poison, when they are eaten by other rodents they'll be paralyzed and whatever and then the snake can eat it. They very silly though and just stick either their head or tail up and look at the sky all day
 
 
