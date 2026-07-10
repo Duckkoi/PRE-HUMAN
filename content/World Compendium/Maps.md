@@ -23,4 +23,18 @@ Dumping all maps here
 
 ![[testSummer Ocean Currents.png]]
 
-![[urt.png]]
+![[urt.png]]![[Pasted image 20260710200609.png]]![[Pasted image 20260710200622.png]]![[JanMed.png]]
+
+![[JanWide.png]]
+
+![[JulyMed.png]]
+
+![[JulyWide.png]]
+
+![[March.png]]
+
+![[MeanMed.png]]
+
+![[MeanWide.png]]
+
+![[September.png]]
