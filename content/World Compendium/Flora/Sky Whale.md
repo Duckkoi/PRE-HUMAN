@@ -23,38 +23,39 @@
 > ###### Knowledge
 > | | |
 > |--|--|
-> | Fieldnotes | If it's low to the ground and without birds it could be dangerous |
+> | Fieldnotes | If it's low to the ground and without birds it could be sick or hold toxic plants |
 > | Countermeasure | X |
 > | Treatment | X |
 > | Usage | X |
-> | Value | X |
+> | Value | High value flowers & bladders|
 
 ## Physiology
 
 Sky whales are unlike the name suggests not animals and are instead plant colonies, they are built off of the main structure created by an air bulb, creating the bladders it uses to float and the vines protecting it, with the passenger plants on its back depending on where it sprouted and what seeds the birds living on it might carry home. They are naturally teardrop and as such whale shaped due to the winds they live in and evolution allowing for birds to nest in safe spaces like its fins which simultaneously balance it.
 
-A sky whale only has the shape and silhouette of a real whale and naturally shares no anatomy and are capable reaching up to 90 meters in length, though sky whales of this size are incredibly rare with mature ones growing 30 to 40 meters and juveniles being only 5 to 10 meters before they start floating on their own. Only whales that are big enough are able to house birds, naturally growing pockets, mainly in their fins which they generally have 3 of on each side, though the elders might have even more due to their length, this means they can also house more birds.
+A sky whale only has the shape and silhouette of a real whale and naturally shares no anatomy and are capable of reaching up to 90 meters in length, though sky whales of this size are incredibly rare with mature ones growing 30 to 40 meters and juveniles being only 5 to 10 meters before they start floating on their own. Only whales that are big enough are able to house birds, naturally growing pockets, mainly in their fins which they generally have 3 of on each side, though the elders might have even more due to their length, this means they can also house more birds.
 
-It's tail, unlike the rest of its body, is generally free of birds with its only function being to orient the front of the whale towards the wind, if it doesn't it might get untangled and wont protect the birds from any gusts or harsh winds. They generally come with a few droopy vines, mainly on their front making them look as if they had moustaches, these vines serve no purpose and are simply ones that got untethered.
+It's tail, unlike the rest of its body, is generally free of birds with its only function being to orient the front of the whale towards the wind, if it doesn't it might get untangled and wont protect the birds from any gusts or harsh winds. They generally come with a few droopy vines, mainly on their front making them look as if they had moustaches, these vines serve no purpose and are simply ones that got untangled and are barely attached.
 
 ## Behavior and Abilities
 
-Bastard sheep are fairly intelligent creatures and are very powerful, yet slow due their weight and short legs. They rely on other sheep as bait due to its inability to properly outrun, exhaust or ambush prey with normal means. Bastard Sheep aren't especially aggressive and are akin to opportunists, they prefer to not use much energy and rest the whole day, until prey happens to get too close to the herd and it slowly drifts towards it, being able to lunge in a quick burst of power and crush its prey's neck in a single bite with its crushing jaws. At the same time it's aggressive to whatever startles the herd and protects them, this being the only reason sheep herds are out on the open fields, as it doesn't eat from its own herd unless starving.
+Sky whales carry numerous different plants, though it's safe to say none of them are harmful, otherwise they wouldn't make good homes for the birds nesting in them. They have three major adaptations, on the inside you can find a bunch of individual bladders all producing hydrogen, which allows it to float, together network attached to it's central core bulb, which is where it stores excess resources. 
 
-Its able to stay undetected mainly due to its highly effective scent capturing fur, retaining odors such as the actual lanolin from the herd and grass, making it vulnerable to starvation outside of its herd as other creatures know to stay away. This is often the case in rare periods of switching herds. It has learned how to mimic sheep and general herbivore behavior, which allows it to not alert most prey. While its bleating doesn't alert most creatures, its easy to make out from the rest of the herd for those who know what to listen for. 
+They are able to sense electric fields through the small hairs on their vines, which allows it to act appropriately during a storm, pumping hydrogen production allowing it to temporarily cruise at higher altitudes, this allows them to catch a different wind current and dodge the storm. The reason for all this is cause they are highly flammable. When riding winds like this it's very easy for the birds to be in distress and danger and the whales themselves to be torn apart or at least come undone, to remedy this they have 'tails' which allows them to steer and keep their fronts facing the wind.
 
-A herd-less bastard sheep, while rare outside of its mating season, is extremely aggressive. Being away herds means it has no bait and no speed to properly catch prey, forcing it to rely on scavenging and ambushing in the forest where it bleats to lure in other creatures, which in and of itself is a decent strategy due to its raw power.
+When a sky whale pops and untangles it can be followed by a rain of flower and a rainbow, due to the liquid they carry with them exploding into mist.
 
 ## Habitat
 
-Sky Whales are always found in groups called sky pods, 
+Sky Whales only appear within the temperate and tropical bands due to winds, where they cruise at around ~2000 meters in the air.  They are always found in groups called sky pods, unless they get split up during a storm, which they evade by riding the higher altitude winds.
+
+Besides the usual cruising sky whales, they can also be found on the ground, though mainly as a husk of one that has deflated. They can also be spotted while growing, this sight is mostly seen in plains and prairies with fewer animals.
 
 ## Ecology
 
-While their impact on the ecosystem is relatively low due to their fairly passive hunting style, they are still the apex predators of the open plains. The ovine herds they live with provide both the cover and bait needed for their low effort hunting style, with the herd being bait for other predators and making other herbivores feel safe, while the herd benefit from its protection from said predators.
+These whales don't interact much with the world below themselves, the only animals they interact with being the birds nesting in their fins. These birds are the only reliable source of minerals they have, with their droppings, food leftovers and whatever else they might bring back. Due to this a whale without birds cannot grow and will wither if not visited at all. This same relationship turns them into a great seed distribution machine, with whatever grows on the whale's backs being able to seed the ground below, this includes whatever the birds have picked up as well.
 
-During mating season bastard sheep leave their herd to look for a mate, they don't often live together cause of other creatures becoming wary of the frequency of attacks and the general population of the area shrinking in size. Pups don't live with a herd for the same reason of blowing cover, though instead due to their inexperience making their strategy a lot less effective, instead they are raised until they can mimic sheep, this being the hardest time for the parents. The pups quickly learn how to hunt smaller creatures themselves, which makes do for their small size until they find their own herds.
-
+Whenever sky whales deflate for whatever reason (disease, deficiency, etc.), wherever they land becomes the ground for new sky whales to sprout from. As sky whales are not at all built for dealing with life below such as rodents, other plants and insects, they are generally only able to send off one or two new whales before perishing completely, with the new whales hopefully being attractive enough for birds to nest on. This mainly happens in plains and prairies with fewer animals and rich soil which allows for the whales to quickly grow to size.
 ## Value
 
-Their main value comes from their fur, being dense, durable, soft and mainly scent absorbing which makes it a highly sought after material for those who roam the wilderness. Harvesting the fur is most safely done in forests after mating season, with at least the male bastard sheep most likely having left already and them shedding their winter coats. During this time its mandatory to listen for their bleating, which is either very off from the pups or deep from either parent. 
+Sky whales hold a lot of value to smaller groups, due to their traveling nature the flowers growing on their backs could be from very far away, though their main value comes from their hydrogen bladders. These bladders lightweight, flexible and gas retentive. The only reliable method of getting these bladders is from finding grounded sky whales, either sprouting or sunken, though they are incredibly rare.
