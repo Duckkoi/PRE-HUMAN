@@ -5,7 +5,7 @@ Charqye, or properly spelled charqü, are the most basic form of existence, the 
 
 > Examples of this are unnaturally hollow mountains, trees growing from the ceiling, roots coming out of the cliff side holding up chunks of land, an ocean floating above an ocean, water flowing upstream, general illusions or rules being in effect such as one way entry.
 
-Due to charqye reacting even to thoughts, they for the most part are naturally averse to human species as complicated thoughts and consciousness create a lot of noise and often leading charqye to very inefficient, concept based growth, such as pressure and temperature. This creates a natural barrier around human civilization, which is referred to as [[The Wilds]], the deeper the more charqye there are and the more 'supernatural' it is. Inevitably humans stay away from The Wilds as well, which creates a positive feedback loop.
+Due to charqye reacting even to thoughts, they for the most part are naturally averse to human species as complicated thoughts and consciousness create a lot of noise and often leading charqye to very inefficient, concept based growth, such as pressure and temperature. This creates a natural barrier around human civilization, which is referred to as [[The Wilds]], the deeper you go, more charqye there are and the more 'supernatural' it is. This inevitably leads to humans staying away from The Wilds as well, which creates a positive feedback loop.
 
 ## Growth cycle
 
