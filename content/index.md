@@ -16,7 +16,7 @@ Lastly I try to stay more original as to me the sense of wonder fantasy has is t
 (only first 2 work)
 ## World
 - [[World Compendium/index|Basics]]
-- [[World Compendium/Charqye/index|'Magic / Power' system]]
+- [[World Compendium/Charqye/index|Magic system]]
 - [[Locations]]
 
 ## Characters
