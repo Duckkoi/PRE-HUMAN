@@ -13,7 +13,7 @@ Charqye growth comes in many small steps and is fairly linear until they fully i
 
 > The steps mentioned are the charqye decreasing its scope and being able to more accurately mimic different parts and properties within it. Imagine one related to a pond, interacting with sediment, minerals and plants lessening its scope to simply the liquid, refining itself.
 
-They are born in [[The Cradle]] at center of the world and return there once they finish their growth cycle. Even though they're born in the Cradle, they quickly make their way to [[Rootwell|rootwells]] (commonly called faraway-wells), nodes that have formed due to the large amount of charqye at a suitable location, due to this nature the area around said rootwells is very active, even if its mostly young charqye, the amount makes up for their individual lack of energy.
+They are born in [[The Cradle]] at the center of the world and return there once they finish their growth cycle. Even though they're born in the Cradle, they quickly make their way to [[Rootwell|rootwells]] (commonly called faraway-wells), nodes that have formed due to the large amount of charqye at a suitable location, due to this nature the area around said rootwells is very active, even if its mostly young charqye, the amount makes up for their individual lack of energy.
 
 > Faraway-wells are extremely powerful, theoretically able to be used to rewrite charqye behavior thus reality. Rules and such have been added to the world using these, causing the priming, which will be explored later on.
 

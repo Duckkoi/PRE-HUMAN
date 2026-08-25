@@ -13,9 +13,10 @@ I started writing this out of annoyance and disappointment with the fantasy genr
 
 Lastly I try to stay more original as to me the sense of wonder fantasy has is the best thing about it. I enjoy having other people create things around my project, allows things to exist in my story that fundamentally do not have the same roots (I do refine them to my liking though).
 
+(only first 2 work)
 ## World
-- [[World Compendium/index]]
-- [[World Compendium/Charqye/index]]
+- [[World Compendium/index|Basics]]
+- [[World Compendium/Charqye/index|'Magic / Power' system]]
 - [[Locations]]
 
 ## Characters
