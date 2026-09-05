@@ -1,0 +1,1 @@
+Other story which is a mix of the fantasy aspects i have in pre human, but adding sci fi cyberpunk genre stuff
